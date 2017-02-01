@@ -1,0 +1,664 @@
+ID,Date,Block ,Treatment,Genus,Species,Common Name,Height (m) ,Notes
+1,10/8/2016,4,LD,,,silver maple,0.55,
+2,10/8/2016,4,LD,,,silver maple,0.55,
+3,10/8/2016,4,LD,,,silver maple,0.84,some herb. Deer
+4,10/8/2016,4,LD,,,silver maple,0.55,
+5,10/8/2016,4,LD,,,silver maple,0.995,
+6,10/8/2016,4,LD,,,S. maple,0.61,
+7,10/8/2016,4,LD,,,S.maple,1.34,deer herb.
+8,10/8/2016,4,LD,,,cornus,0.6,"unknown - leaves entire, rough, opposite, long leaves, browny-red, not glaborous "
+9,10/8/2016,4,LD,,,Crataegus spp.1 ,1.04,"pics 1,2"
+10,10/8/2016,4,LD,,,,0.88,not a tree
+11,10/8/2016,4,LD,,,S. maple,0.51,
+12,10/8/2016,4,LD,,,cornus,1.11,same as 8
+13,10/8/2016,4,LD,,,cherry,0.84,"black cherry - orange hairs on midvein, black nodules "
+14,10/8/2016,4,LD,,,cherry,0.63,
+15,10/8/2016,4,LD,,,cherry,0.5,
+16,10/8/2016,4,LD,,,cherry,0.63,
+17,10/8/2016,4,LD,,,cherry,0.68,
+18,10/8/2016,4,LD,,,cherry,0.69,
+19,10/8/2016,4,LD,,,cherry,0.9,
+20,10/8/2016,4,LD,,,cherry,0.56,
+21,10/8/2016,4,HD,,,black cherry,0.84,probs in HD
+22,10/8/2016,4,HD,,,vitus,-,grape vine
+23,10/8/2016,4,LD,,,silver maple,0.5,
+24,10/8/2016,4,LD,,,green ash,0.7,strip - right outside
+25,10/8/2016,4,LD,,,cornus,0.69,edge - same as 8
+26,10/8/2016,4,LD,,,green ash,0.51,edge - same as 8
+27,10/8/2016,4,HD,,,malus/pyrus,0.58,"or prunus, but no glands. Picture - 11.30 "
+28,10/8/2016,4,HD,,,black cherry,0.56,
+29,10/8/2016,4,HD,,,box elder,0.59,
+30,10/8/2016,4,HD,,,black cherry,0.81,pin cherry? No hair
+31,10/8/2016,4,HD,,,crataegus sp. 1 ,0.83,"some lobed, some unlobed"
+32,10/8/2016,4,HD,,,black cherry,0.91,
+33,10/8/2016,4,HD,,,black cherry,0.73,
+34,10/8/2016,4,HD?,,,silver maple,0.51,
+35,10/8/2016,4,HD?,,,black cherry,0.715,
+36,10/8/2016,4,HD?,,,black cherry,0.54,
+37,10/8/2016,4,LD,,,silver maple,0.505,
+38,10/8/2016,4,LD,,,box elder,0.715,
+39,10/8/2016,4,LD,,,silver maple,0.505,
+40,10/8/2016,4,LD,,,silver maple,0.717,at edge of strip
+41,10/8/2016,4,LD,,,silver maple,0.966,at edge of strip
+42,10/8/2016,4,HD?,,,unknown,0.845,honeysuckle vs. cornus?
+43,10/8/2016,4,HD,,,silver maple,0.824,
+44,10/8/2016,4,HD,,,rubus spp,0.847,not 100% positive this is woody
+45,10/8/2016,4,LD,,,silver maple,0.52,close to edge of strip
+46,10/8/2016,4,LD,,,silver maple,0.58,
+47,10/8/2016,4,LD,,,redbud,0.605,3 GPS points use 47 real
+48,10/8/2016,4,LD,,,mulberry,0.831,aon edge
+49,10/8/2016,4,LD,,,cornus stolonifera,0.676,on strip - red!!
+50,10/8/2016,4,LD,,,unknown ,0.804,"malus/hawthorn, sharp,thorns"
+51,10/8/2016,4,LD,,,vitus,0.303,spp uncertain
+52,10/8/2016,4,LD,,,hawthorn,0.52,protected by chenopodium + switchgrass
+53,10/8/2016,4,LD,,,green ash,0.517,
+54,10/8/2016,4,LD,,,silver maple,0.71,
+55,10/8/2016,4,LD,,,silver maple,0.624,on strip 
+56,10/8/2016,4,LD,,,vitus,0.775,growing up a lespidiza stem 
+57,,2,LD,,,acer negundo,0.77,boxelder? Check bark
+58,,2,LD,,,s. maple,0.51,
+59,,2,LD,,,vitus,-,on strip
+60,,2,LD,,,s. maple,0.59,
+61,,2,LD,,,s. maple,0.78,
+62,,2,LD,,,s. maple,0.69,
+63,,2,LD/HD,,,green ash,0.71,"buds brown, box=white"
+64,,2,LD/HD,,,vitus,-,
+65,,2,LD,,,s. maple,0.57,on strip
+66,,2,LD,,,s. maple,0.74,no leaves
+67,,2,HD,,,sycamore,1.34,
+68,,2,LD,,,boxelder,0.62,
+69,,2,LD,,,boxelder,0.69,
+70,,2,HD/LD,,,s. maple,0.68,
+71,,2,HD,,,?,0.81,"no leaves - can't tell, herb"
+72,,2,HD,,,boxelder,0.75,
+73,,2,HD,,,?,0.6,"herb - no leaves - can't tell, ash?"
+74,,2,HD/LD,,,b. cherry,1.59,
+75,,2,HD/LD,,,s. maple,1.02,next to deer trail
+76,,2,HD/LD,,,b. cherry,1.71,next to deer trail
+77,,2,HD/LD,,,b. cherry,1.01,next to deer trail
+78,,2,HD/LD,,,g. ash,0.57,"next to deer trail, almost on strip end"
+79,,2,HD/LD,,,b. cherry,0.98,"herb damage, next to deer trail, almost on strip end"
+80,,2,LD/edg,,,vitus,-,
+81,,2,LD,,,b. cherry,0.92,
+82,,2,LD,,,b. cherry,0.99,
+83,,2,LD,,,b. cherry,1.08,
+84,,2,HD,,,vitus,-,very small
+85,,2,LD,,,vitus,,silver maple to small
+86,,2,HD,,,b. cherry,0.98,
+87,,2,HD,,,s. maple,1.82,
+88,,2,LD,,,b. cherry,1.16,
+89,,2,LD,,,s. maple,0.76,lots of herb. Deer
+90,,2,LD,,,b. cherry,0.86,edge
+91,,2,LD,,,b. cherry,0.71,edge
+92,,2,LD,,,b. cherry,0.5,edge
+93,,2,HD,,,boxelder,0.53,
+94,,2,HD/LD,,,s. maple,0.66,
+95,,2,HD/LD,,,s. maple,0.5,
+96,,2,HD/LD,,,s. maple,0.5,
+97,,2,LD,,,s. maple,0.77,
+98,,2,LD,,,s. maple,0.53,
+99,,1,LD,,,s. maple,1.02,
+100,,1,LD,,,boxelder,0.97,near strip/not within 15cm
+101,,1,HD,,,boxelder,0.98,"right next to burrown, next to cover plot"
+102,,1,HD,,,boxelder,0.81,next to cover plot
+103,,1,HD,Vitus,,,-,
+104,,1,HD,,,box,0.87,cover plot
+105,,1,HD,,,s.maple,0.5,
+106,,1,HD,,,?,0.73,"one elaf - rough, not lobed, buds lobed, small brown"
+107,,1,HD,,,green ash,0.59,
+108,,1,HD,Vitus?,,,-,pretty dead
+109,,1,HD,,,boxelder,0.58,
+110,,1,LD,,,siberian elm?,0.52,leaves not glaborous
+111,,1,LD/HD,,,s.maple,0.56,
+112,,1,HD,Vitus?,,,-,dead
+113,,1,HD,,,boxelder,0.7,
+114,,1,LD,,,boxelder,1.13,on strip 
+115,,1,LD,,,green ash,0.74,
+116,,1,LD,,,boxelder,0.54,
+117,,1,LD,,,boxelder,0.6,
+118,,1,LD,Vitus?,,,-,dead
+119,,1,LD,,,boxelder,0.56,
+120,,1,LD,Vitus,,,-,
+121,,1,LD,,,boxelder,0.55,
+122,,1,LD,,,boxelder,0.59,
+123,,1,LD,,,boxelder,0.64,"little leaves, stems too red?"
+124,,1,LD,,,boxelder,0.56,
+125,,5,LD,,,,0.54,
+126,,5,LD,,,sycamore,0.67,on a strip
+127,,5,LD,,,cherry family,0.78,
+128,,5,LD,,,s. maple,0.77,
+129,,5,LD,,,siberian elm,,not high enough
+130,,5,LD,,,s. maple,0.56,
+131,,5,LD,,,s. maple,0.62,
+132,,5,LD,,,dogwood,1.26,
+133,,5,LD,,,s. maple,0.52,
+134,,5,LD,,,s. elm,1.06,? Simple and compound
+135,,5,LD,,,serviceberry?,0.69,
+136,,5,LD,,,s. maple,0.59,
+137,,5,LD,,,s. maple,0.8,
+138,,5,LD,,,b. cherry,0.68,
+139,,5,LD,,,s. maple,0.66,
+140,,5,LD,,,s. maple,0.71,
+141,,5,LD,,,dogwood,0.85,
+142,,5,LD,,,siberian elm,0.99,-
+143,,5,LD,,,dogwood ,0.5,
+144,,5,LD,,,dogwood,0.66,
+145,,5,LD,,,cherry family,0.59,
+146,,5,LD,,,dogwood,1.8,
+147,,5,LD,,,s. maple,0.66,
+148,,5,LD,,,dogwood,0.58,
+149,,5,LD,,,s. maple,1.8,
+150,,5,LD,,,,,too short 
+151,,5,LD,,,s. maple,1.2,
+152,,5,LD,,,boxelder,0.94,red waxy stems
+153,,5,LD/HD,,,green ash,1.18,
+154,,5,LD/HD,,,boxelder ,1.17,
+155,,5,,,,,,
+156,,5,LD/HD,,s. maple,,0.85,
+157,,5,LD/HD,,s. maple,,0.92,deep lboes
+158,,5,LD/HD,,,,69,"simple, opposite"
+159,,5,LD,,s. maple,,0.824,
+160,,5,LD,,s. maple,,0.685,
+161,,5,LD,,s. maple,,0.78,
+162,,5,LD,,s. maple,,1.08,
+163,,5,HD,,b. cherry,,1.39,
+164,,5,HD,,b. cherry,,1.25,
+165,,5,,,,,,not a tree
+166,,5,HD,,b. cherry,,0.68,
+167,,5,HD,,s. maple,,1.33,
+168,,5,HD,,b. cherry,,1.03,
+169,,5,HD/LD,,s. maple,,1.05,
+170,,5,HD/LD,,s. maple,,0.87,
+171,,5,LD,,sycamore,,1.46,
+172,,5,LD,,,american elm,1.54,find edge vs. slip.
+173,,5,LD,,s. maple,,0.5,
+174,,5,LD,,s. maple,,0.6,
+175,,5,LD,,s. elm,,1.01,
+176,,5,LD,,,s. maple,1.04,
+177,,5,HD,,,s. maple,1.11,
+178,,5,HD,,,serviceberry?,1.25,??
+179,,5,HD,,,cherry fam.,1.39,145
+180,,5,HD,,,s. maple,1.21,
+181,,5,HD/LD,vitus,,,-,
+182,,5,HD/LD,,,dogwood,1.11,
+183,,5,HD/LD,s. maple,,,1.42,
+184,,5,LD,,,b. cherry,1.37,
+185,,5,LD,,,s. maple,0.81,
+186,,5,HD,,,s. maple,0.71,
+187,,5,HD,,,s. maple,0.69,
+188,,5,HD/LD,,,s. maple,1.02,
+189,,5,HD/LD,,,s. maple,1.04,
+190,,5,LD,,,s. maple,0.88,
+191,,5,LD,,,green ash,1.23,
+192,,5,LD,,,s. maple,0.66,
+193,,5,LD,,,dogwood,1.22,m/p
+194,,5,LD,,,s. maple,0.57,
+195,,5,LD,,,s. maple,1.06,
+196,,5,LD,,,s. maple,0.55,
+197,,5,LD,cornus,,dogwood,0.68,
+198,,5,LD,cornus,,dogwood,1.33,
+199,,5,LD,,,s. maple,1.07,
+200,,5,LD,malus/prunus,,,0.6,
+201,,5,LD/HD,,,s. maple,0.8,
+202,,5,LD/HD,,,green ash,0.6,
+203,,5,LD/HD,,,s. maple,0.76,
+204,,5,LD/HD,,,s. maple,0.77,
+205,,5,LD/HD,,,s. maple,0.77,
+206,,5,LD,,,red  mulberry,0.73,deep lobes 
+207,,5,LD,,,s. maple,0.82,
+208,,5,LD,,,s. maple,0.78,
+209,,5,LD,malus/prunus,,,0.67,
+210,,5,LD,,,s. maple,0.74,
+211,,5,LD,vitus,,,-,no leaves - dead leaves
+212,,5,LD,vitus,,,-,no leaves
+213,,5,LD/HD,,,s. maple,0.62,
+214,,5,LD,,,s. maple,1.23,
+215,,5,LD,vitus,,,-,no leaves 
+216,,5,LD,,,s. maple,1.06,
+217,,5,LD,malus/prunus,,,1.08,
+218,,5,LD,,,green ash,0.93,
+219,,5,LD,vitus,,,-,
+220,,5,LD,vitus,,,-,
+221,,5,LD,,,dogwood,1.58,
+222,,5,LD,,,white mulberry,21.81,no leaves/dead
+223,,5,LD,,,white mulberry,0.76,no leaves/dead
+224,,5,LD,,,white mulberry,1.34,"no leaves/dead, on strip"
+225,,5,LD,,,sycamore,2.62,on strip
+226,,5,LD,,,s. maple,2.03,
+227,,5,LD,malus/prunus,,,1.29,
+228,,5,LD,,,s. maple,0.75,
+229,,5,LD,malus/prunus,,,0.99,
+230,,5,LD,,,s. maple,1.8,
+231,,5,LD,,,s. maple,0.72,
+232,,5,LD,,,dogwood,1.5,"droopier leaves, fuzzy stem, op. stringy "
+233,,5,LD,malus/prunus,,,0.96,"leaves up a little, red midvein, stringy"
+234,,5,LD,,,s. maple,0.8,
+235,,5,LD,,,,0.7,
+236,,5,LD,,,s. maple ,0.8,
+237,,5,LD,,,s. maple ,1.43,
+238,,5,LD,,,s. maple ,0.75,stems very red
+239,,5,LD,,,s. maple ,0.67,
+240,,5,LD,,,s. maple ,1.34,
+241,,5,LD,,,s. maple ,1.3,
+242,,5,LD,,,s. maple ,1.59,
+243,,5,LD,,,s. maple ,0.87,
+244,,5,LD,m/p,,,1.01,
+245,,5,LD,,,s. maple,1.01,same as 233
+246,,5,LD,,,s. maple,0.55,
+247,,5,LD,,,s. maple,0.88,
+248,,5,LD,,,s. maple,0.83,
+249,,5,LD,,,s. maple,0.52,
+250,,5,LD,,,s. maple,0.78,
+251,,5,LD,,,s. maple,1.03,
+252,,5,LD,,,s. maple,1.82,edge
+253,,5,LD,,,s. maple,0.51,on strip
+254,,5,LD,,,s. maple,0.52,on strip 
+255,,5,LD,,,s. maple,1.19,
+256,,5,LD,,,s. maple,0.52,
+257,,5,LD,,,s. maple,0.66,
+258,,5,LD,,,s. maple,0.93,on strip
+259,,5,LD,,,s. maple,1.42,on strip
+260,,5,LD,,,s. maple,1.4,on strip
+261,,5,LD,m/p,,,0.73,same as 233
+262,,5,LD,,,s. maple,0.62,edge
+263,,5,LD,,,s. maple,0.8,
+264,,5,LD,,,s. maple,1.11,on strip
+265,,5,LD,,,sycamore,1.4,
+266,,5,LD,,,s. maple,0.86,
+267,,5,LD,,,dogwood?,1.37,same as 232
+268,,5,LD,,,boxelder,0.72,
+269,,5,LD,,,,0.66,"like Bc, buds small, black"
+270,,5,LD,,,sycamore,1.14,
+271,,5,LD,,,s. elm,0.77,
+272,,5,LD,,,s. maple,0.7,
+273,,5,LD,,,maple,0.71,mul?
+274,,5,LD,,,s. maple,1.18,
+275,,5,LD,cornus,,dogwood,0.77,herb.
+276,,5,LD,cornus,,,0.92,herb.
+277,,5,LD,cornus,,,1.45,herb.
+278,,5,LD,cornus,,,0.83,
+279,,5,LD,cornus,,dogwood,1.25,
+280,,5,LD,cornus,,dogwood,0.6,
+281,,5,LD,cornus,,dogwood,0.65,
+282,,5,LD,,,mulberry?,0.68,"same as 222-224, rough leaves lobed/non lobed"
+283,,5,LD,,,b. cherry,0.53,no orange hairs
+284,,5,LD,,,mul.,0.92,no leaves
+285,,5,LD,,,mulberry,2.5,
+286,,5,LD,,,mulberry,0.97,near strip
+287,,5,LD,,,sycamore,1.06,strip
+288,,5,LD,,,s.maple,0.56,strip
+289,,5,LD,cornus,,dogwood,0.833,
+290,,5,LD,,,s.maple,0.62,
+291,,5,LD,,,s. maple,0.74,
+292,,6,LD,,,s. maple,0.5,
+293,,6,LD,cornus,,,0.5,
+294,,6,LD,,,s. maple,0.62,
+295,,6,LD,,,s. maple,0.51,
+296,,6,LD,mal/pr,,,0.53,
+297,,6,LD,,,,0.62,tree??? Rough leaves
+298,,6,LD,,,s. maple,0.87,
+299,,6,LD,,,dogwood,1.54,
+300,,6,LD,mal/pr,,,1.72,
+301,,6,LD,,,s. elm,0.82,
+302,,6,LD,,,s. maple,0.76,on strip
+303,,6,LD,,,s. maple,0.65,
+304,,6,LD,,,s. maple,0.68,on strip
+305,,6,LD,,,s. maple,0.74,
+306,,6,LD,,,s. maple,0.98,on strip 
+307,,6,LD,,,s. maple,0.69,
+308,,6,LD,cornus,,,0.9,
+309,,6,LD,,,s. maple,0.56,
+310,,6,LD,,,s. maple,0.67,
+311,,6,LD,,,s. maple,0.62,
+312,,6,LD,,,sycamore,0.61,
+313,,6,LD,,,s. maple,0.51,
+314,,6,LD,,,s. maple,0.71,
+315,,6,LD,cornus,,,0.71,
+316,,6,LD,,,s. maple,1.42,on strip
+317,,6,LD,,,s. maple,0.72,
+318,,6,LD,,,s. maple,0.77,
+319,,6,LD,,,s. maple,0.7,
+320,,6,LD/H,cornus,,,1.26,
+321,,6,LD/HD,cornus,,,0.7,
+322,,6,LD/HD,vitus,,,-,
+323,,6,LD,,,s. maple,0.98,
+324,,6,HD,,,s. maple,0.76,
+325,,6,HD,,,s. maple,0.58,
+326,,6,LD,,,s. maple,0.65,on strip
+327,,6,LD,,,s. maple,1.33,
+328,,6,LD,,,s. maple,2.33,on strip
+329,,6,LD,,,s. maple,0.87,
+330,,6,LD,cornus,,,1.11,
+331,,6,LD,mal/pr,,,2.23,
+332,,6,LD,mal/pr,,,0.9,
+333,,6,LD,,,,0.61,tree?? Same as 297
+334,,6,LD/HD,cornus,,,0.94,
+335,,6,HD,,,sycamore,0.52,
+336,,6,LD/HD,,,green ash,0.98,
+337,,6,HD,,,s. maple,0.52,
+338,,6,HD,cornus,,,0.72,
+339,,6,HD,cornus,,,0.63,
+340,,6,HD,cornus,,,1.22,
+341,,6,HD,cornus,,,0.75,
+342,,6,HD,cornus,,,0.69,
+343,,6,HD,cornus,,,0.52,
+344,,6,LD,cornus,,,0.8,
+345,,6,LD,cornus,,,0.52,
+346,,6,LD,,,,0.7,"simple, alt., lobed and not, buds small brown, stem grey-red "
+347,,6,LD,cornus,,,0.75,
+348,,6,HD,cornus,,,1.04,
+349,,6,HD,cornus,,,1.28,
+350,,6,HD,,,s. maple,0.87,
+351,,6,HD,cherry?,,,1.05,
+352,,6,HD,,,s. maple,0.74,
+353,,6,HD,,,s.maple,0.55,
+354,,6,HD/LD,,,s. maple,0.73,
+355,,6,LD/HD,cornus,,,1.13,
+356,,6,HD/LD,,,s. maple,1.35,
+357,,6,LD,,,s. maple,0.64,
+358,,6,LD,cornus,,,0.89,
+359,,6,LD,cornus,,,1.06,
+360,,6,LD,mal/pr,,,1,
+361,,6,LD,,,s. maple,0.64,
+362,,6,LD,,,s. maple,0.65,
+363,,6,LD,,,s. maple,1.44,
+364,,6,LD/HD,,,s. maple,0.57,
+365,,6,HD,,,s. maple,0.51,
+366,,6,HD,mal/pr,,,0.84,
+367,,6,HD,,,s. maple,0.84,
+368,,6,HD,,,s. maple,0.73,
+369,,6,HD,cornus,,,1.26,
+370,,6,HD,mal/pr,,,1.07,
+371,,6,HD,,,sycamore,0.5,
+372,,6,HD,,,s. maple,0.6,
+373,,6,LD,,,s. maple,0.81,next to cover plot
+374,,6,LD,mal/pr,,,0.97,
+375,,6,LD,,,green ash,1.18,
+376,,6,,,,,,not tall enough 
+377,,6,LD,cornus,,dog,0.83,
+378,,6,LD,mal/pr,,,0.65,
+379,,6,LD,cornus,,,1.26,
+380,,6,LD,,,s. maple,0.97,
+381,,6,HD,,,s. maple,0.93,
+382,,6,HD,cornus,,,1.18,
+383,,6,LD,mal/pr,,,0.85,
+384,,6,LD/HD,vitus,,,-,
+385,,6,LD/HD,,,boxelder,1.28,
+386,,6,LD/HD,cornus,,,1.27,
+387,,6,LD/HD,,,s. maple,0.68,
+388,,6,LD,,,s. maple,0.58,
+389,,6,LD,,,s. maple,0.75,
+390,,6,LD,,,s. maple,0.9,
+391,,6,HD,vitus,,,-,
+392,,6,LD/HD,vitus,,,-,
+393,,6,LD,mal/pr,,,1.06,
+394,,6,LD,cornus,,,0.67,
+395,,6,LD,mal/pr,,,0.92,
+396,,6,LD,,,s. maple,0.55,
+397,,6,LD,,,s. maple,0.53,
+398,,6,LD,,,s. maple,0.59,
+399,,6,LD,,,s. maple,0.72,
+400,,6,LD,,,s. maple,0.57,
+401,,6,LD,,,redbud,0.6,???
+402,,6,LD,,,,1.2,same as 346
+403,,6,LD,vitus,,,-,
+404,,6,LD,,,s. maple,0.61,
+405,,6,LD,cornus,,,0.73,
+406,,6,LD,cornus,,,0.65,
+407,,6,LD,cornus,,,0.58,
+408,,6,LD,cornus,,,0.53,
+409,,6,LD,cornus,,,1.55,
+410,,6,LD,cornus,,,0.95,
+411,,6,LD,,,s. maple ,0.69,
+412,,6,LD,,,s. maple ,0.65,on strip
+413,,6,LD,,,s. maple ,0.68,
+414,,6,LD,,,s. maple ,1.15,
+415,,6,LD,,,s. maple ,0.79,
+416,,6,LD,,,s. maple ,1.27,
+417,,6,LD,,,s. maple ,0.55,
+418,,6,LD,,,g. ash,0.77,
+419,,6,LD,,,sycamore,0.89,on strip
+420,,6,LD,,,sycamore,0.57,
+421,,6,LD,,,s. maple ,0.71,
+422,,6,LD,m/p,,,0.95,
+423,,6,LD,cornus,,,1.62,
+424,,6,LD,cornus,,,0.57,
+425,,6,LD,,,s. maple,0.9,
+426,,6,LD,,,s. maple,1.13,
+427,,6,LD,,,s. maple,0.68,
+428,,6,LD,cornus,,,1.18,
+429,,6,LD,,,s. maple,0.82,
+430,,6,LD,m/p,,,1.03,
+431,,6,LD,m/p,,,1.06,
+432,,6,LD,,,s. maple,0.52,
+433,,6,LD,m/p,,,0.85,
+434,,6,LD,,,s. maple,0.53,
+435,,6,LD,,,,1.1,"tree? Opposite, not lobed, entire, rough, light b. buds"
+436,,6,LD,,,s. maple,0.6,
+437,,6,LD,,,s. maple,0.54,
+438,,6,LD,,,s. maple,0.74,
+439,,6,LD,,,s. maple,0.6,
+440,,6,LD,,,s. maple,0.68,
+441,,6,LD,,,,0.68,same as 297 service?
+442,,6,LD,cornus,,,0.88,
+443,,6,LD,,,,0.62,tree? Dogwood?
+444,,6,LD,,,s. maple,0.7,
+445,,6,LD,,,s. maple,0.5,
+446,,6,LD,,,,,not tall
+447,,6,LD,,,s. maple,0.84,
+448,,6,LD,,,s. maple,0.53,
+449,,6,LD,,,s. maple,1.1,
+450,,6,LD,,,s. maple,0.66,
+451,,6,LD,m/p,,,1.17,less red leaves?
+452,,6,LD,,,s. maple,0.75,
+453,,6,LD,,,s. maple,0.68,
+453b,,7,LD,,,dogwood?,0.68,
+454,,7,LD,mal/pru,,,0.68,
+455,,7,LD,mal/pru,,,0.74,
+456,,7,LD,,,?,1.04,adult s. elm?
+457,,7,LD,,,s. elm,0.57,
+458,,7,LD,,,s. elm,1.11,check
+459,,7,LD,,,s. elm,0.81,check
+460,,7,LD,,,s. elm,0.62,
+461,,7,LD,,,s. elm,0.59,
+462,,7,LD,,,s. elm,0.72,
+463,,7,LD,,,s. elm,0.65,
+464,,7,LD,,,s. elm,0.74,
+465,,7,LD,,,s. elm,0.75,
+466,,7,LD,,,dogwood,1.16,same as 453
+467,,7,LD,,,s. elm,0.82,
+468,,7,LD,,,s. elm,0.63,
+469,,7,LD,,,s. elm,0.66,on strip
+470,,7,LD,,,s. elm,0.6,
+471,,7,LD,,,s. elm,0.68,
+472,,7,LD,,,s. elm,0.52,
+473,,7,LD,,,s. maple,1.04,on strip
+474,,7,LD,,,s. elm,0.52,
+475,,7,LD,,,s. maple,0.51,
+476,,7,LD/HD,vitus,,,-,
+477,,7,LD/HD,vitus,,,-,
+478,,7,LD/HD,vitus,,,-,
+479,,7,LD/HD,vitus,,,-,
+480,,7,LD/HD,,,green ash,0.84,
+481,,7,LD/HD,vitus,,,-,
+482,,7,LD,m/p,,malus,0.57,
+483,,7,LD/HD,,,green ash,0.62,no leaves/ buds
+484,,7,LD,mal/pru,,,0.7,
+485,,7,LD,vitus,,,-,on strip
+486,,7,LD,vitus,,,-,on strip
+487,,7,HD,vitus,,,-,
+488,,7,HD,,,s. maple,0.96,
+489,,7,LD,vitus,,,-,
+490,,7,LD,vitus,,,-,
+491,,7,LD,,,s. maple,0.74,
+492,,7,LD,vitus,,,-,
+493,,7,LD,mal/pru??,,,1.76,"not as red, fuzzy stems"
+494,,7,LD,mal/pru,,,0.9,
+495,,7,LD,vitus,,,-,
+496,,7,LD,vitus,,,-,
+497,,7,LD,vitus,,,-,
+498,,7,HD,vitus,,,-,
+499,,7,HD,vitus,,,-,
+500,,7,HD,mal/pru,,,1.3,waxier
+501,,7,HD,vitus,,,-,
+502,,7,HD/LD,vitus,,,-,
+503,,7,HD/LD,,,raspberry,1.03,
+504,,7,LD,,,s. elm,0.68,
+505,,7,LD,vitus,,,-,
+506,,7,LD,vitus,,,-,
+507,,7,LD,vitus,,,-,
+508,,7,LD,vitus,,,-,
+509,,7,LD,vitus,,,-,
+510,,7,LD,vitus,,,-,
+511,,7,LD,,,mulberry,1.86,dif. Leaves
+512,,7,LD,vitus,,,-,
+513,,7,LD,,,mulberry?,1.86,no leaves
+514,,7,LD,,,mulberry,2.9,
+515,,7,LD,vitus,,,-,
+516,,7,LD,,,green ash,1.11,
+517,,7,LD,vitus,,,-,
+518,,7,LD,vitus,,,-,
+519,,7,LD,vitus,,,-,
+520,,7,LD,,,,1.13,blue berries
+521,,7,LD,vitus,,,-,
+522,,7,LD,,,,0.84,same as 453
+523,,7,LD,vitus,,,-,
+524,,7,LD,vitus,,,-,
+525,,7,LD,,,s. maple,0.78,
+526,,7,LD,,,s. maple,0.68,
+527,,7,LD,vitus,,,-,
+528,,7,LD,vitus,,,-,
+529,,7,LD,,,s. maple,0.7,
+530,,7,LD,vitus,,,-,
+531,,7,LD,,,mulberry,0.8,no leaves - one deeply lobed
+532,,7,LD,vitus,,,-,
+533,,7,LD,vitus,,,-,
+534,,7,LD,vitus,,,-,
+535,,7,LD,vitus,,,-,
+536,,7,LD,,,s. maple,1.11,on strip
+537,,7,LD,vitus,,,-,
+538,,3,LD,,,dogwood,0.82,"on strip/no leaves, red stems"
+539,,3,LD,,,sycamore,0.52,
+540,,3,LD,,,sycamore,0.75,on strip
+541,,3,LD/HD,,,s. maple,0.58,
+542,,3,LD/HD,,,s. maple,0.58,
+543,,3,LD/HD,,,s. maple,1.28,
+544,,3,HD,,,s. maple,0.57,
+545,,3,LD,,,s. maple,0.52,
+546,,3,LD,mal/pru,,,1.02,few leaves/redder than dogwood
+547,,3,LD,,,s.maple,0.94,on strip
+548,,3,LD,mal/pru,,,,"on strip, no leaves"
+549,,3,HD,vitus,,,-,
+550,,3,HD,vitus,,,-,
+551,,3,HD,vitus,,,-,
+552,,3,HD,vitus,,,-,
+553,,3,HD,,,s. maple,1.19,
+554,,3,LD,cornus,,,1.46,
+555,,3,LD,,,green ash,0.94,
+556,,3,LD,,,dogwood,0.85,
+557,,3,HD,vitus,,,-,
+558,,3,HD,,,s. maple,1.32,
+559,,3,LD/HD,,,s. maple,0.57,
+560,,3,LD,vitus,,,-,
+561,,3,LD,,,sycamore,1.3,on strip 
+562,,3,LD,vitus,,,-,
+563,,3,LD,mal/pru,,,0.67,
+564,,3,LD,,,s. maple,0.73,
+565,,3,LD,cornus,,,0.61,
+577,,8,LD,,,s. elm,0.68,darker
+578,,8,LD,,,s. elm,1.64,lighter
+579,,8,LD,,,s. elm,0.67,lighter
+580,,8,LD,vitus,,,-,
+581,,8,LD,,,mulberry,1.23,no leaves
+582,,8,LD,vitus,,,0.79,
+583,,8,LD,,,s. maple,0.76,
+584,,8,LD,,,sycamore,0.73,
+585,,8,LD,,,s. maple,0.72,
+586,,8,LD,m/p,,,1.16,red veins
+587,,8,LD,,,s. maple,0.87,
+588,,8,LD,vitus,,,-,
+589,,8,LD,,,s. elm,0.5,lighter
+590,,8,LD,,,s. maple,0.96,
+591,,8,LD,,,mulberry,0.69,deep lobes
+592,,8,LD,vitus,,,-,
+593,,8,LD,cornus,,,1.22,
+594,,8,LD,vitus,,,-,
+595,,8,LD,,,s. maple,0.68,
+596,,8,LD,vitus,,,-,
+597,,8,LD,,,,0.74,"opposite leaves, red stem, blunt edge"
+598,,8,LD,m/p,,,1.01,red veins
+599,,8,LD,,,s. maple,0.52,
+600,,8,LD,m/p,,,0.56,598
+601,,8,LD,,,green ash,1.04,
+602,,8,LD,vitus,,,-,
+603,,8,LD,vitus,,,-,on strip
+604,,8,LD,,,s. elm,0.5,lighter but small
+605,,8,LD,,,s. elm,0.63,
+606,,8,LD,,,tree?,0.62,one leaf
+607,,8,LD,,,raspberry,0.99,
+608,,8,HD,cornus,,,0.99,
+609,,8,HD,,,b. cherry,1.01,
+610,,8,LD/HD,vitus,,,-,
+611,,8,LD,vitus,,,-,
+612,,8,LD,,,s. maple,0.6,
+613,,8,LD,,,s. maple,0.63,
+614,,8,LD,,,s. maple,1.2,
+615,,8,LD,,,mulberry,1.12,deeply lobed
+616,,8,LD,,,s. maple,1.05,
+617,,8,LD,,,mulberry,0.65,both leaves
+618,,8,LD,,,vitus,-,
+619,,8,,,,,,not tall enough
+620,,8,LD/HD,,,s. maple,0.87,
+621,,8,LD/HD,,,s. maple,2.22,
+622,,8,LD/HD,,,sycamore ,2.54,
+623,,8,LD/HD,,,s. maple,0.97,
+624,,8,HD,m/p,,,0.67,red vein
+625,,8,HD,,,boxelder,0.61,"white buds, red stem"
+626,,8,HD,m/p,,,0.62,624
+627,,8,LD/HD,vitus,,,-,
+628,,8,LD/HD,vitus,,,-,
+629,,8,LD/HD,,,s. elm,1.3,"small, light/bent 1-stick"
+630,,8,LD/HD,m/p,,,0.61,
+631,,8,LD,,,s. maple,0.76,
+632,,8,LD,m/p,,,1.04,not as red
+633,,8,LD,,,s. maple,0.78,
+634,,8,LD,,,s. maple,0.83,
+635,,8,LD,,,s. maple,1.09,
+636,,8,LD,vitus,,,-,
+637,,8,LD,,,mul?,1.26,"waxy grey/no leaves, on strip"
+638,,8,LD,,,s. maple,1.27,on strip 
+639,,8,LD,vitus,,,-,
+640,,8,LD,vitus,,,-,
+641,,8,LD,vitus,,,-,
+642,,8,LD,,,sycamore,1.55,
+643,,8,LD,,,mulberry,0.96,deeply lobed
+644,,8,LD,,,s. maple,0.7,
+645,,8,LD,vitus,,,-,
+646,,8,LD,vitus,,,-,
+647,,8,HD,vitus,,,-,
+648,,8,HD,vitus,,,-,
+649,,8,HD,m/p,,,0.58,not red
+650,,8,LD,,,s. elm,1.2,
+651,,8,LD,,,raspberry,0.54,
+652,,8,LD,vitus,,,-,
+653,,8,LD,vitus,,,-,
+654,,8,LD,vitus,,,-,on strip
+655,,8,LD,,,mulberry ,0.82,both leaves
+656,,8,LD,,,mulberry ,0.75,deep lobes - extra lobe
+657,,8,LD,vitus,,,-,
+658,,8,LD,m/p,,,0.89,red
+659,,8,LD,m/p,,,1.8,stem not as red
+660,,8,LD,,,s. maple,0.61,
+661,,8,LD,vitus,,,-,
+662,,8,LD,,,mulberry,1.34,deep lobe
+663,,8,LD,m/p,,,1.06,"red stems, not veins"
+664,,8,LD,,,sycamore,0.58,on strip 
+665,,8,LD,vitus,,,-,on strip 
+666,,8,LD,,,s. maple,0.87,
+667,,8,LD,cornus,,,0.94,
+668,,8,LD,vitus,,,-,
+669,,8,LD,,,sycamore ,1.37,
+670,,8,LD,cornus,stolinifera,,,very red
+671,,8,LD,,,s. maple,0.64,
+672,,8,LD,cornus,,,0.69,
+673,,,,,,mulberry,0.88,
