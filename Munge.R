@@ -1,4 +1,5 @@
 #Munging Script for SeedlingData_Raw_Compiled 
+SeedlingData_Raw_Compiled <- read.csv("SeedlingData_Raw_Compiled.csv")
 
 #for replacing words
 #data$column <- gsub("thing to be replaced", "what you want to replace it with", data$column)
@@ -101,13 +102,11 @@ levels(SeedlingData_Raw_Compiled$Genus)
 SeedlingData_Raw_Compiled$Species <- as.factor(SeedlingData_Raw_Compiled$Species)
 levels(SeedlingData_Raw_Compiled$Species)
 
-SeedlingData_Raw_Compiled$Treatment <- as.factor(SeedlingData_Raw_Compiled$Treatment)
-levels(SeedlingData_Raw_Compiled$Treatment)
-hist(SeedlingData_Raw_Compiled$Treatment)
-
-SeedlingData_Raw_Compiled$Treatment <- as.numeric(SeedlingData_Raw_Compiled$Treatment)
-#hist 
 
 
+
+
+
+write.csv(SeedlingData_Raw_Compiled, "SeedlingData_Tidy.csv")
 
 
