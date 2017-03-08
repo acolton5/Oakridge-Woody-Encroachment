@@ -1,0 +1,71 @@
+#try to run a boxplot for Height vs Diversity and instead get 
+#"adding class "factor" to an invalid object" warning
+
+head(Seedling)
+boxplot(Seedling$Height..m., ylab = "Heights")
+#so switch to integer
+Seedling$Height..m. <- as.integer(Seedling$Height..m.)
+#above result in boxplot of heights, no outliers, skewed left(?), most heights short? 
+
+#separating by block, there are outliers in block 1 and 7 
+summary(boxplot(Seedling$Height..m.~Seedling$Block, ylab="Height (m)", xlab= "Block", main="Heights of Woody Stems"))
+
+install.packages("ggplot2")
+library(ggplot2)
+
+ggplot(Seedling, aes(Treatment, Height..m., color=Herbivory)+
+  geom_boxplot() 
+#fancy editing
+Seedling <- read.csv("SeedlingData_Tidy.csv", na.string=c("", "na", "NA"))
+with(Seedling[Seedling$Treatment=="LD"|Seedling$Treatment=="HD",], table(Treatment, Height..m.))
+Seedling$Herbivory<-"NA"
+Seedling$Herbivory[Seedling$Block==5|Seedling$Block==6|Seedling$Block==7|Seedling$Block==8]<-"Exclosure"
+Seedling$Herbivory[Seedling$Block==1|Seedling$Block==2|Seedling$Block==3|Seedling$Block==4]<-"Open"
+
+#collinearity x, samples uneven - can't use anova, unequal sample sizes? 507 vs 152
+with(Seedling, table(Herbivory, Treatment))
+
+# y vs x
+ggplot(Seedling, aes(Treatment, Height..m., color=Herbivory, ylab="Heights (m)", main="Heights by Diversity and Herbivory Treatments")+
+  geom_boxplot()
+
+#are y's independent
+#checks for any variance patterns over date - i don't think i see any? 
+ggplot(Seedling, aes(Treatment, Height..m., color=Herbivory))+
+  geom_boxplot()+
+  facet_grid(.~Date)
+with(Seedling, ftable(Herbivory, Treatment, Date))
+
+#*****************************ANALYSIS**************************
+
+#ANOVAS I don't think I can use - this is a linear model ie normal dis. which i don't have? 
+webmod1<-lm(Height..m.~Herbivory*Treatment, data=Seedling)
+summary(webmod1)
+anova(webmod1)
+lm(Height..m.~Herbivory*Treatment, data=Seedling)
+head(model.matrix(webmod1))
+
+
+#linear mixed model
+install.packages("lsmeans")
+library(lsmeans)
+library(lme4)
+library(ggplot2)
+install.packages("car")
+library(car)
+HeightMod <- lmer(Height..m. ~ Treatment * Herbivory + (1|Block), data=Seedling)
+#do i need to run this again for date
+summary(HeightMod)
+coef(summary(HeightMod))
+confint(HeightMod)
+
+
+#some extra munge
+SeedlingData_Tidy$Treatment[SeedlingData_Tidy$ID == "80"]<- "LD"
+SeedlingData_Tidy$Date[SeedlingData_Tidy$ID == "673"] <- "10/26/2016"
+  #chaning info for 673 but I'm not actually sure if it's right - have to check GPS
+
+
+#should be done with height unless i did it completely wrong
+
+write.csv(SeedlingData_Tidy, "Seedling.csv")
