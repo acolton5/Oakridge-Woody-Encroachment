@@ -1,664 +1,664 @@
-"","ID","Date","Block","Treatment","Genus","Species","Common.Name","Height..m.","Notes"
-"1","1","10/8/2016",4,"LD","Acer","saccharinum","silver maple","0.55",""
-"2","2","10/8/2016",4,"LD","Acer","saccharinum","silver maple","0.55",""
-"3","3","10/8/2016",4,"LD","Acer","saccharinum","silver maple","0.84","some herb. Deer"
-"4","4","10/8/2016",4,"LD","Acer","saccharinum","silver maple","0.55",""
-"5","5","10/8/2016",4,"LD","Acer","saccharinum","silver maple","0.995",""
-"6","6","10/8/2016",4,"LD","Acer","saccharinum","silver maple","0.61",""
-"7","7","10/8/2016",4,"LD","Acer","saccharinum","silver maple","1.34","deer herb."
-"8","8","10/8/2016",4,"LD","Cornus","drummondii","roughleaf dogwood","0.6","unknown - leaves entire, rough, opposite, long leaves, browny-red, not glaborous "
-"9","9","10/8/2016",4,"LD","","","Crataegus spp.1 ","1.04","pics 1,2"
-"10","10","10/8/2016",4,"LD","","","","0.88","not a tree"
-"11","11","10/8/2016",4,"LD","Acer","saccharinum","silver maple","0.51",""
-"12","12","10/8/2016",4,"LD","Cornus","drummondii","roughleaf dogwood","1.11","same as 8"
-"13","13","10/8/2016",4,"LD","Prunus","serotina","black cherry","0.84","black cherry - orange hairs on midvein, black nodules "
-"14","14","10/8/2016",4,"LD","Prunus","serotina","black cherry","0.63",""
-"15","15","10/8/2016",4,"LD","Prunus","serotina","black cherry","0.5",""
-"16","16","10/8/2016",4,"LD","Prunus","serotina","black cherry","0.63",""
-"17","17","10/8/2016",4,"LD","Prunus","serotina","black cherry","0.68",""
-"18","18","10/8/2016",4,"LD","Prunus","serotina","black cherry","0.69",""
-"19","19","10/8/2016",4,"LD","Prunus","serotina","black cherry","0.9",""
-"20","20","10/8/2016",4,"LD","Prunus","serotina","black cherry","0.56",""
-"21","21","10/8/2016",4,"HD","Prunus","serotina","black cherry","0.84","probs in HD"
-"22","22","10/8/2016",4,"HD","Vitus","riparia","grape vine","-","grape vine"
-"23","23","10/8/2016",4,"LD","Acer","saccharinum","silver maple","0.5",""
-"24","24","10/8/2016",4,"LD","Fraxinus","pennsylvanica","green ash","0.7","strip - right outside"
-"25","25","10/8/2016",4,"LD","Cornus","drummondii","roughleaf dogwood","0.69","edge - same as 8"
-"26","26","10/8/2016",4,"LD","Fraxinus","pennsylvanica","green ash","0.51","edge - same as 8"
-"27","27","10/8/2016",4,"HD","Pyrus","calleryana","callery pear","0.58","or prunus, but no glands. Picture - 11.30 "
-"28","28","10/8/2016",4,"HD","Prunus","serotina","black cherry","0.56",""
-"29","29","10/8/2016",4,"HD","Acer","negundo","boxelder","0.59",""
-"30","30","10/8/2016",4,"HD","Prunus","serotina","black cherry","0.81","pin cherry? No hair"
-"31","31","10/8/2016",4,"HD","","","crataegus sp. 1 ","0.83","some lobed, some unlobed"
-"32","32","10/8/2016",4,"HD","Prunus","serotina","black cherry","0.91",""
-"33","33","10/8/2016",4,"HD","Prunus","serotina","black cherry","0.73",""
-"34","34","10/8/2016",4,"HD","Acer","saccharinum","silver maple","0.51",""
-"35","35","10/8/2016",4,"HD","Prunus","serotina","black cherry","0.715",""
-"36","36","10/8/2016",4,"HD","Prunus","serotina","black cherry","0.54",""
-"37","37","10/8/2016",4,"LD","Acer","saccharinum","silver maple","0.505",""
-"38","38","10/8/2016",4,"LD","Acer","negundo","boxelder","0.715",""
-"39","39","10/8/2016",4,"LD","Acer","saccharinum","silver maple","0.505",""
-"40","40","10/8/2016",4,"LD","Acer","saccharinum","silver maple","0.717","at edge of strip"
-"41","41","10/8/2016",4,"LD","Acer","saccharinum","silver maple","0.966","at edge of strip"
-"42","42","10/8/2016",4,"HD","","","unknown","0.845","honeysuckle vs. cornus?"
-"43","43","10/8/2016",4,"HD","Acer","saccharinum","silver maple","0.824",""
-"44","44","10/8/2016",4,"HD","","","rubus spp","0.847","not 100% positive this is woody"
-"45","45","10/8/2016",4,"LD","Acer","saccharinum","silver maple","0.52","close to edge of strip"
-"46","46","10/8/2016",4,"LD","Acer","saccharinum","silver maple","0.58",""
-"47","47","10/8/2016",4,"LD","Cercis","canadensis","redbud","0.605","3 GPS points use 47 real"
-"48","48","10/8/2016",4,"LD","Morus","alba","white mulberry","0.831","aon edge"
-"49","49","10/8/2016",4,"LD","Cornus","stolonifera","red osier dogwood","0.676","on strip - red!!"
-"50","50","10/8/2016",4,"LD","","","unknown","0.804","malus/hawthorn, sharp,thorns"
-"51","51","10/8/2016",4,"LD","Vitus","riparia","grape vine","0.303","spp uncertain"
-"52","52","10/8/2016",4,"LD","","","hawthorn","0.52","protected by chenopodium + switchgrass"
-"53","53","10/8/2016",4,"LD","Fraxinus","pennsylvanica","green ash","0.517",""
-"54","54","10/8/2016",4,"LD","Acer","saccharinum","silver maple","0.71",""
-"55","55","10/8/2016",4,"LD","Acer","saccharinum","silver maple","0.624","on strip "
-"56","56","10/8/2016",4,"LD","Vitus","riparia","grape vine","0.775","growing up a lespidiza stem "
-"57","57","10/12/2016",2,"LD","Acer","negundo","boxelder","0.77","boxelder? Check bark"
-"58","58","10/12/2016",2,"LD","Acer","saccharinum","silver maple","0.51",""
-"59","59","10/12/2016",2,"LD","Vitus","riparia","grape vine","-","on strip"
-"60","60","10/12/2016",2,"LD","Acer","saccharinum","silver maple","0.59",""
-"61","61","10/12/2016",2,"LD","Acer","saccharinum","silver maple","0.78",""
-"62","62","10/12/2016",2,"LD","Acer","saccharinum","silver maple","0.69",""
-"63","63","10/12/2016",2,"LD/HD","Fraxinus","pennsylvanica","green ash","0.71","buds brown, box=white"
-"64","64","10/12/2016",2,"LD/HD","Vitus","riparia","grape vine","-",""
-"65","65","10/12/2016",2,"LD","Acer","saccharinum","silver maple","0.57","on strip"
-"66","66","10/12/2016",2,"LD","Acer","saccharinum","silver maple","0.74","no leaves"
-"67","67","10/12/2016",2,"HD","Platanus","occidentalis","sycamore","1.34",""
-"68","68","10/12/2016",2,"LD","Acer","negundo","boxelder","0.62",""
-"69","69","10/12/2016",2,"LD","Acer","negundo","boxelder","0.69",""
-"70","70","10/12/2016",2,"LD/HD","Acer","saccharinum","silver maple","0.68",""
-"71","71","10/12/2016",2,"HD","","","?","0.81","no leaves - can't tell, herb"
-"72","72","10/12/2016",2,"HD","Acer","negundo","boxelder","0.75",""
-"73","73","10/12/2016",2,"HD","","","?","0.6","herb - no leaves - can't tell, ash?"
-"74","74","10/12/2016",2,"LD/HD","Prunus","serotina","black cherry","1.59",""
-"75","75","10/12/2016",2,"LD/HD","Acer","saccharinum","silver maple","1.02","next to deer trail"
-"76","76","10/12/2016",2,"LD/HD","Prunus","serotina","black cherry","1.71","next to deer trail"
-"77","77","10/12/2016",2,"LD/HD","Prunus","serotina","black cherry","1.01","next to deer trail"
-"78","78","10/12/2016",2,"LD/HD","Fraxinus","pennsylvanica","green ash","0.57","next to deer trail, almost on strip end"
-"79","79","10/12/2016",2,"LD/HD","Prunus","serotina","black cherry","0.98","herb damage, next to deer trail, almost on strip end"
-"80","80","10/12/2016",2,"LD/edg","Vitus","riparia","grape vine","-",""
-"81","81","10/12/2016",2,"LD","Prunus","serotina","black cherry","0.92",""
-"82","82","10/12/2016",2,"LD","Prunus","serotina","black cherry","0.99",""
-"83","83","10/12/2016",2,"LD","Prunus","serotina","black cherry","1.08",""
-"84","84","10/12/2016",2,"HD","Vitus","riparia","grape vine","-","very small"
-"85","85","10/12/2016",2,"LD","Vitus","riparia","grape vine","","silver maple to small"
-"86","86","10/12/2016",2,"HD","Prunus","serotina","black cherry","0.98",""
-"87","87","10/12/2016",2,"HD","Acer","saccharinum","silver maple","1.82",""
-"88","88","10/12/2016",2,"LD","Prunus","serotina","black cherry","1.16",""
-"89","89","10/12/2016",2,"LD","Acer","saccharinum","silver maple","0.76","lots of herb. Deer"
-"90","90","10/12/2016",2,"LD","Prunus","serotina","black cherry","0.86","edge"
-"91","91","10/12/2016",2,"LD","Prunus","serotina","black cherry","0.71","edge"
-"92","92","10/12/2016",2,"LD","Prunus","serotina","black cherry","0.5","edge"
-"93","93","10/13/2016",2,"HD","Acer","negundo","boxelder","0.53",""
-"94","94","10/13/2016",2,"LD/HD","Acer","saccharinum","silver maple","0.66",""
-"95","95","10/13/2016",2,"LD/HD","Acer","saccharinum","silver maple","0.5",""
-"96","96","10/13/2016",2,"LD/HD","Acer","saccharinum","silver maple","0.5",""
-"97","97","10/13/2016",2,"LD","Acer","saccharinum","silver maple","0.77",""
-"98","98","10/13/2016",2,"LD","Acer","saccharinum","silver maple","0.53",""
-"99","99","10/13/2016",1,"LD","Acer","saccharinum","silver maple","1.02",""
-"100","100","10/13/2016",1,"LD","Acer","negundo","boxelder","0.97","near strip/not within 15cm"
-"101","101","10/13/2016",1,"HD","Acer","negundo","boxelder","0.98","right next to burrown, next to cover plot"
-"102","102","10/13/2016",1,"HD","Acer","negundo","boxelder","0.81","next to cover plot"
-"103","103","10/13/2016",1,"HD","Vitus","riparia","grape vine","-",""
-"104","104","10/13/2016",1,"HD","Acer","negundo","boxelder","0.87","cover plot"
-"105","105","10/13/2016",1,"HD","Acer","saccharinum","silver maple","0.5",""
-"106","106","10/16/2016",1,"HD","","","?","0.73","one elaf - rough, not lobed, buds lobed, small brown"
-"107","107","10/16/2016",1,"HD","Fraxinus","pennsylvanica","green ash","0.59",""
-"108","108","10/16/2016",1,"HD","Vitus","riparia","grape vine","-","pretty dead"
-"109","109","10/16/2016",1,"HD","Acer","negundo","boxelder","0.58",""
-"110","110","10/16/2016",1,"LD","","","siberian elm?","0.52","leaves not glaborous"
-"111","111","10/16/2016",1,"LD/HD","Acer","saccharinum","silver maple","0.56",""
-"112","112","10/16/2016",1,"HD","Vitus","riparia","grape vine","-","dead"
-"113","113","10/16/2016",1,"HD","Acer","negundo","boxelder","0.7",""
-"114","114","10/16/2016",1,"LD","Acer","negundo","boxelder","1.13","on strip "
-"115","115","10/16/2016",1,"LD","Fraxinus","pennsylvanica","green ash","0.74",""
-"116","116","10/16/2016",1,"LD","Acer","negundo","boxelder","0.54",""
-"117","117","10/16/2016",1,"LD","Acer","negundo","boxelder","0.6",""
-"118","118","10/16/2016",1,"LD","Vitus","riparia","grape vine","-","dead"
-"119","119","10/16/2016",1,"LD","Acer","negundo","boxelder","0.56",""
-"120","120","10/16/2016",1,"LD","Vitus","riparia","grape vine","-",""
-"121","121","10/16/2016",1,"LD","Acer","negundo","boxelder","0.55",""
-"122","122","10/16/2016",1,"LD","Acer","negundo","boxelder","0.59",""
-"123","123","10/16/2016",1,"LD","Acer","negundo","boxelder","0.64","little leaves, stems too red?"
-"124","124","10/16/2016",1,"LD","Acer","negundo","boxelder","0.56",""
-"125","125","10/16/2016",5,"LD","","","","0.54",""
-"126","126","10/16/2016",5,"LD","Platanus","occidentalis","sycamore","0.67","on a strip"
-"127","127","10/16/2016",5,"LD","","","cherry family","0.78",""
-"128","128","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.77",""
-"129","129","10/16/2016",5,"LD","Ulmus","pumila","siberian elm","","not high enough"
-"130","130","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.56",""
-"131","131","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.62",""
-"132","132","10/16/2016",5,"LD","Cornus","drummondii","roughleaf dogwood","1.26",""
-"133","133","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.52",""
-"134","134","10/16/2016",5,"LD","Ulmus","pumila","siberian elm","1.06","? Simple and compound"
-"135","135","10/16/2016",5,"LD","","","serviceberry?","0.69",""
-"136","136","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.59",""
-"137","137","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.8",""
-"138","138","10/16/2016",5,"LD","Prunus","serotina","black cherry","0.68",""
-"139","139","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.66",""
-"140","140","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.71",""
-"141","141","10/16/2016",5,"LD","Cornus","drummondii","roughleaf dogwood","0.85",""
-"142","142","10/16/2016",5,"LD","Ulmus","pumila","siberian elm","0.99","-"
-"143","143","10/16/2016",5,"LD","Cornus","drummondii","roughleaf dogwood","0.5",""
-"144","144","10/16/2016",5,"LD","Cornus","drummondii","roughleaf dogwood","0.66",""
-"145","145","10/16/2016",5,"LD","","","cherry family","0.59",""
-"146","146","10/16/2016",5,"LD","Cornus","drummondii","roughleaf dogwood","1.8",""
-"147","147","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.66",""
-"148","148","10/16/2016",5,"LD","Cornus","drummondii","roughleaf dogwood","0.58",""
-"149","149","10/16/2016",5,"LD","Acer","saccharinum","silver maple","1.8",""
-"150","150","10/16/2016",5,"LD","","","","","too short "
-"151","151","10/16/2016",5,"LD","Acer","saccharinum","silver maple","1.2",""
-"152","152","10/16/2016",5,"LD","Acer","negundo","boxelder","0.94","red waxy stems"
-"153","153","10/16/2016",5,"LD/HD","Fraxinus","pennsylvanica","green ash","1.18",""
-"154","154","10/16/2016",5,"LD/HD","Acer","negundo","boxelder","1.17",""
-"155","155","10/16/2016",5,"","","","","",""
-"156","156","10/16/2016",5,"LD/HD","Acer","saccharinum","silver maple","0.85",""
-"157","157","10/16/2016",5,"LD/HD","Acer","saccharinum","silver maple","0.92","deep lboes"
-"158","158","10/16/2016",5,"LD/HD","","","","69","simple, opposite"
-"159","159","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.824",""
-"160","160","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.685",""
-"161","161","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.78",""
-"162","162","10/16/2016",5,"LD","Acer","saccharinum","silver maple","1.08",""
-"163","163","10/16/2016",5,"HD","Prunus","serotina","black cherry","1.39",""
-"164","164","10/16/2016",5,"HD","Prunus","serotina","black cherry","1.25",""
-"165","165","10/16/2016",5,"","","","","","not a tree"
-"166","166","10/16/2016",5,"HD","Prunus","serotina","black cherry","0.68",""
-"167","167","10/16/2016",5,"HD","Acer","saccharinum","silver maple","1.33",""
-"168","168","10/16/2016",5,"HD","Prunus","serotina","black cherry","1.03",""
-"169","169","10/16/2016",5,"LD/HD","Acer","saccharinum","silver maple","1.05",""
-"170","170","10/16/2016",5,"LD/HD","Acer","saccharinum","silver maple","0.87",""
-"171","171","10/16/2016",5,"LD","Platanus","occidentalis","sycamore","1.46",""
-"172","172","10/16/2016",5,"LD","Ulmus","americana","american elm","1.54","find edge vs. slip."
-"173","173","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.5",""
-"174","174","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.6",""
-"175","175","10/16/2016",5,"LD","Ulmus","pumila","siberian elm","1.01",""
-"176","176","10/16/2016",5,"LD","Acer","saccharinum","silver maple","1.04",""
-"177","177","10/16/2016",5,"HD","Acer","saccharinum","silver maple","1.11",""
-"178","178","10/16/2016",5,"HD","","","serviceberry?","1.25","??"
-"179","179","10/16/2016",5,"HD","","","black cherry fam.","1.39","145"
-"180","180","10/16/2016",5,"HD","Acer","saccharinum","silver maple","1.21",""
-"181","181","10/16/2016",5,"LD/HD","Vitus","riparia","grape vine","-",""
-"182","182","10/16/2016",5,"LD/HD","Cornus","drummondii","roughleaf dogwood","1.11",""
-"183","183","10/16/2016",5,"LD/HD","Acer","saccharinum","silver maple","1.42",""
-"184","184","10/16/2016",5,"LD","Prunus","serotina","black cherry","1.37",""
-"185","185","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.81",""
-"186","186","10/16/2016",5,"HD","Acer","saccharinum","silver maple","0.71",""
-"187","187","10/16/2016",5,"HD","Acer","saccharinum","silver maple","0.69",""
-"188","188","10/16/2016",5,"LD/HD","Acer","saccharinum","silver maple","1.02",""
-"189","189","10/16/2016",5,"LD/HD","Acer","saccharinum","silver maple","1.04",""
-"190","190","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.88",""
-"191","191","10/16/2016",5,"LD","Fraxinus","pennsylvanica","green ash","1.23",""
-"192","192","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.66",""
-"193","193","10/16/2016",5,"LD","Cornus","drummondii","roughleaf dogwood","1.22","m/p"
-"194","194","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.57",""
-"195","195","10/16/2016",5,"LD","Acer","saccharinum","silver maple","1.06",""
-"196","196","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.55",""
-"197","197","10/16/2016",5,"LD","Cornus","drummondii","roughleaf dogwood","0.68",""
-"198","198","10/16/2016",5,"LD","Cornus","drummondii","roughleaf dogwood","1.33",""
-"199","199","10/16/2016",5,"LD","Acer","saccharinum","silver maple","1.07",""
-"200","200","10/16/2016",5,"LD","Pyrus","calleryana","callery pear","0.6",""
-"201","201","10/16/2016",5,"LD/HD","Acer","saccharinum","silver maple","0.8",""
-"202","202","10/16/2016",5,"LD/HD","Fraxinus","pennsylvanica","green ash","0.6",""
-"203","203","10/16/2016",5,"LD/HD","Acer","saccharinum","silver maple","0.76",""
-"204","204","10/16/2016",5,"LD/HD","Acer","saccharinum","silver maple","0.77",""
-"205","205","10/16/2016",5,"LD/HD","Acer","saccharinum","silver maple","0.77",""
-"206","206","10/16/2016",5,"LD","Morus","alba","white mulberry","0.73","deep lobes "
-"207","207","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.82",""
-"208","208","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.78",""
-"209","209","10/16/2016",5,"LD","Pyrus","calleryana","callery pear","0.67",""
-"210","210","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.74",""
-"211","211","10/16/2016",5,"LD","Vitus","riparia","grape vine","-","no leaves - dead leaves"
-"212","212","10/16/2016",5,"LD","Vitus","riparia","grape vine","-","no leaves"
-"213","213","10/16/2016",5,"LD/HD","Acer","saccharinum","silver maple","0.62",""
-"214","214","10/16/2016",5,"LD","Acer","saccharinum","silver maple","1.23",""
-"215","215","10/16/2016",5,"LD","Vitus","riparia","grape vine","-","no leaves "
-"216","216","10/16/2016",5,"LD","Acer","saccharinum","silver maple","1.06",""
-"217","217","10/16/2016",5,"LD","Pyrus","calleryana","callery pear","1.08",""
-"218","218","10/16/2016",5,"LD","Fraxinus","pennsylvanica","green ash","0.93",""
-"219","219","10/16/2016",5,"LD","Vitus","riparia","grape vine","-",""
-"220","220","10/16/2016",5,"LD","Vitus","riparia","grape vine","-",""
-"221","221","10/16/2016",5,"LD","Cornus","drummondii","roughleaf dogwood","1.58",""
-"222","222","10/16/2016",5,"LD","Morus","alba","white mulberry","21.81","no leaves/dead"
-"223","223","10/16/2016",5,"LD","Morus","alba","white mulberry","0.76","no leaves/dead"
-"224","224","10/16/2016",5,"LD","Morus","alba","white mulberry","1.34","no leaves/dead, on strip"
-"225","225","10/16/2016",5,"LD","Platanus","occidentalis","sycamore","2.62","on strip"
-"226","226","10/16/2016",5,"LD","Acer","saccharinum","silver maple","2.03",""
-"227","227","10/16/2016",5,"LD","Pyrus","calleryana","callery pear","1.29",""
-"228","228","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.75",""
-"229","229","10/16/2016",5,"LD","Pyrus","calleryana","callery pear","0.99",""
-"230","230","10/16/2016",5,"LD","Acer","saccharinum","silver maple","1.8",""
-"231","231","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.72",""
-"232","232","10/16/2016",5,"LD","Cornus","drummondii","roughleaf dogwood","1.5","droopier leaves, fuzzy stem, op. stringy "
-"233","233","10/16/2016",5,"LD","Pyrus","calleryana","callery pear","0.96","leaves up a little, red midvein, stringy"
-"234","234","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.8",""
-"235","235","10/16/2016",5,"LD","","","","0.7",""
-"236","236","10/16/2016",5,"LD","Acer","saccharinum","silver maple ","0.8",""
-"237","237","10/16/2016",5,"LD","Acer","saccharinum","silver maple ","1.43",""
-"238","238","10/16/2016",5,"LD","Acer","saccharinum","silver maple ","0.75","stems very red"
-"239","239","10/16/2016",5,"LD","Acer","saccharinum","silver maple ","0.67",""
-"240","240","10/16/2016",5,"LD","Acer","saccharinum","silver maple ","1.34",""
-"241","241","10/16/2016",5,"LD","Acer","saccharinum","silver maple ","1.3",""
-"242","242","10/16/2016",5,"LD","Acer","saccharinum","silver maple ","1.59",""
-"243","243","10/16/2016",5,"LD","Acer","saccharinum","silver maple ","0.87",""
-"244","244","10/16/2016",5,"LD","Pyrus","calleryana","callery pear","1.01",""
-"245","245","10/16/2016",5,"LD","Acer","saccharinum","silver maple","1.01","same as 233"
-"246","246","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.55",""
-"247","247","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.88",""
-"248","248","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.83",""
-"249","249","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.52",""
-"250","250","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.78",""
-"251","251","10/16/2016",5,"LD","Acer","saccharinum","silver maple","1.03",""
-"252","252","10/16/2016",5,"LD","Acer","saccharinum","silver maple","1.82","edge"
-"253","253","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.51","on strip"
-"254","254","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.52","on strip "
-"255","255","10/16/2016",5,"LD","Acer","saccharinum","silver maple","1.19",""
-"256","256","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.52",""
-"257","257","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.66",""
-"258","258","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.93","on strip"
-"259","259","10/16/2016",5,"LD","Acer","saccharinum","silver maple","1.42","on strip"
-"260","260","10/16/2016",5,"LD","Acer","saccharinum","silver maple","1.4","on strip"
-"261","261","10/16/2016",5,"LD","Pyrus","calleryana","callery pear","0.73","same as 233"
-"262","262","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.62","edge"
-"263","263","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.8",""
-"264","264","10/16/2016",5,"LD","Acer","saccharinum","silver maple","1.11","on strip"
-"265","265","10/16/2016",5,"LD","Platanus","occidentalis","sycamore","1.4",""
-"266","266","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.86",""
-"267","267","10/16/2016",5,"LD","","","roughleaf dogwood?","1.37","same as 232"
-"268","268","10/16/2016",5,"LD","Acer","negundo","boxelder","0.72",""
-"269","269","10/16/2016",5,"LD","","","","0.66","like Bc, buds small, black"
-"270","270","10/16/2016",5,"LD","Platanus","occidentalis","sycamore","1.14",""
-"271","271","10/16/2016",5,"LD","Ulmus","pumila","siberian elm","0.77",""
-"272","272","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.7",""
-"273","273","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.71","mul?"
-"274","274","10/16/2016",5,"LD","Acer","saccharinum","silver maple","1.18",""
-"275","275","10/16/2016",5,"LD","Cornus","drummondii","roughleaf dogwood","0.77","herb."
-"276","276","10/16/2016",5,"LD","Cornus","drummondii","roughleaf dogwood","0.92","herb."
-"277","277","10/16/2016",5,"LD","Cornus","drummondii","roughleaf dogwood","1.45","herb."
-"278","278","10/16/2016",5,"LD","Cornus","drummondii","roughleaf dogwood","0.83",""
-"279","279","10/16/2016",5,"LD","Cornus","drummondii","roughleaf dogwood","1.25",""
-"280","280","10/16/2016",5,"LD","Cornus","drummondii","roughleaf dogwood","0.6",""
-"281","281","10/16/2016",5,"LD","Cornus","drummondii","roughleaf dogwood","0.65",""
-"282","282","10/16/2016",5,"LD","Morus","alba","white mulberry","0.68","same as 222-224, rough leaves lobed/non lobed"
-"283","283","10/16/2016",5,"LD","Prunus","serotina","black cherry","0.53","no orange hairs"
-"284","284","10/16/2016",5,"LD","Morus","alba","white mulberry","0.92","no leaves"
-"285","285","10/16/2016",5,"LD","Morus","alba","white mulberry","2.5",""
-"286","286","10/16/2016",5,"LD","Morus","alba","white mulberry","0.97","near strip"
-"287","287","10/16/2016",5,"LD","Platanus","occidentalis","sycamore","1.06","strip"
-"288","288","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.56","strip"
-"289","289","10/16/2016",5,"LD","Cornus","drummondii","roughleaf dogwood","0.833",""
-"290","290","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.62",""
-"291","291","10/16/2016",5,"LD","Acer","saccharinum","silver maple","0.74",""
-"292","292","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.5",""
-"293","293","10/19/2016",6,"LD","Cornus","drummondii","roughleaf dogwood","0.5",""
-"294","294","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.62",""
-"295","295","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.51",""
-"296","296","10/19/2016",6,"LD","Pyrus","calleryana","callery pear","0.53",""
-"297","297","10/19/2016",6,"LD","","","","0.62","tree??? Rough leaves"
-"298","298","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.87",""
-"299","299","10/19/2016",6,"LD","Cornus","drummondii","roughleaf dogwood","1.54",""
-"300","300","10/19/2016",6,"LD","Pyrus","calleryana","callery pear","1.72",""
-"301","301","10/19/2016",6,"LD","Ulmus","pumila","siberian elm","0.82",""
-"302","302","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.76","on strip"
-"303","303","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.65",""
-"304","304","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.68","on strip"
-"305","305","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.74",""
-"306","306","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.98","on strip "
-"307","307","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.69",""
-"308","308","10/19/2016",6,"LD","Cornus","drummondii","roughleaf dogwood","0.9",""
-"309","309","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.56",""
-"310","310","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.67",""
-"311","311","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.62",""
-"312","312","10/19/2016",6,"LD","Platanus","occidentalis","sycamore","0.61",""
-"313","313","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.51",""
-"314","314","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.71",""
-"315","315","10/19/2016",6,"LD","Cornus","drummondii","roughleaf dogwood","0.71",""
-"316","316","10/19/2016",6,"LD","Acer","saccharinum","silver maple","1.42","on strip"
-"317","317","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.72",""
-"318","318","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.77",""
-"319","319","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.7",""
-"320","320","10/19/2016",6,"LD/HD","Cornus","drummondii","roughleaf dogwood","1.26",""
-"321","321","10/19/2016",6,"LD/HD","Cornus","drummondii","roughleaf dogwood","0.7",""
-"322","322","10/19/2016",6,"LD/HD","Vitus","riparia","grape vine","-",""
-"323","323","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.98",""
-"324","324","10/19/2016",6,"HD","Acer","saccharinum","silver maple","0.76",""
-"325","325","10/19/2016",6,"HD","Acer","saccharinum","silver maple","0.58",""
-"326","326","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.65","on strip"
-"327","327","10/19/2016",6,"LD","Acer","saccharinum","silver maple","1.33",""
-"328","328","10/19/2016",6,"LD","Acer","saccharinum","silver maple","2.33","on strip"
-"329","329","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.87",""
-"330","330","10/19/2016",6,"LD","Cornus","drummondii","roughleaf dogwood","1.11",""
-"331","331","10/19/2016",6,"LD","Pyrus","calleryana","callery pear","2.23",""
-"332","332","10/19/2016",6,"LD","Pyrus","calleryana","callery pear","0.9",""
-"333","333","10/19/2016",6,"LD","","","","0.61","tree?? Same as 297"
-"334","334","10/19/2016",6,"LD/HD","Cornus","drummondii","roughleaf dogwood","0.94",""
-"335","335","10/19/2016",6,"HD","Platanus","occidentalis","sycamore","0.52",""
-"336","336","10/19/2016",6,"LD/HD","Fraxinus","pennsylvanica","green ash","0.98",""
-"337","337","10/19/2016",6,"HD","Acer","saccharinum","silver maple","0.52",""
-"338","338","10/19/2016",6,"HD","Cornus","drummondii","roughleaf dogwood","0.72",""
-"339","339","10/19/2016",6,"HD","Cornus","drummondii","roughleaf dogwood","0.63",""
-"340","340","10/19/2016",6,"HD","Cornus","drummondii","roughleaf dogwood","1.22",""
-"341","341","10/19/2016",6,"HD","Cornus","drummondii","roughleaf dogwood","0.75",""
-"342","342","10/19/2016",6,"HD","Cornus","drummondii","roughleaf dogwood","0.69",""
-"343","343","10/19/2016",6,"HD","Cornus","drummondii","roughleaf dogwood","0.52",""
-"344","344","10/19/2016",6,"LD","Cornus","drummondii","roughleaf dogwood","0.8",""
-"345","345","10/19/2016",6,"LD","Cornus","drummondii","roughleaf dogwood","0.52",""
-"346","346","10/19/2016",6,"LD","","","","0.7","simple, alt., lobed and not, buds small brown, stem grey-red "
-"347","347","10/19/2016",6,"LD","Cornus","drummondii","roughleaf dogwood","0.75",""
-"348","348","10/19/2016",6,"HD","Cornus","drummondii","roughleaf dogwood","1.04",""
-"349","349","10/19/2016",6,"HD","Cornus","drummondii","roughleaf dogwood","1.28",""
-"350","350","10/19/2016",6,"HD","Acer","saccharinum","silver maple","0.87",""
-"351","351","10/19/2016",6,"HD","Prunus","serotina","black cherry","1.05",""
-"352","352","10/19/2016",6,"HD","Acer","saccharinum","silver maple","0.74",""
-"353","353","10/19/2016",6,"HD","Acer","saccharinum","silver maple","0.55",""
-"354","354","10/19/2016",6,"LD/HD","Acer","saccharinum","silver maple","0.73",""
-"355","355","10/19/2016",6,"LD/HD","Cornus","drummondii","roughleaf dogwood","1.13",""
-"356","356","10/19/2016",6,"LD/HD","Acer","saccharinum","silver maple","1.35",""
-"357","357","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.64",""
-"358","358","10/19/2016",6,"LD","Cornus","drummondii","roughleaf dogwood","0.89",""
-"359","359","10/19/2016",6,"LD","Cornus","drummondii","roughleaf dogwood","1.06",""
-"360","360","10/19/2016",6,"LD","Pyrus","calleryana","callery pear","1",""
-"361","361","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.64",""
-"362","362","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.65",""
-"363","363","10/19/2016",6,"LD","Acer","saccharinum","silver maple","1.44",""
-"364","364","10/19/2016",6,"LD/HD","Acer","saccharinum","silver maple","0.57",""
-"365","365","10/19/2016",6,"HD","Acer","saccharinum","silver maple","0.51",""
-"366","366","10/19/2016",6,"HD","Pyrus","calleryana","callery pear","0.84",""
-"367","367","10/19/2016",6,"HD","Acer","saccharinum","silver maple","0.84",""
-"368","368","10/19/2016",6,"HD","Acer","saccharinum","silver maple","0.73",""
-"369","369","10/19/2016",6,"HD","Cornus","drummondii","roughleaf dogwood","1.26",""
-"370","370","10/19/2016",6,"HD","Pyrus","calleryana","callery pear","1.07",""
-"371","371","10/19/2016",6,"HD","Platanus","occidentalis","sycamore","0.5",""
-"372","372","10/19/2016",6,"HD","Acer","saccharinum","silver maple","0.6",""
-"373","373","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.81","next to cover plot"
-"374","374","10/19/2016",6,"LD","Pyrus","calleryana","callery pear","0.97",""
-"375","375","10/19/2016",6,"LD","Fraxinus","pennsylvanica","green ash","1.18",""
-"376","376","10/19/2016",6,"","","","","","not tall enough "
-"377","377","10/19/2016",6,"LD","Cornus","drummondii","roughleaf dogwood","0.83",""
-"378","378","10/19/2016",6,"LD","Pyrus","calleryana","callery pear","0.65",""
-"379","379","10/19/2016",6,"LD","Cornus","drummondii","roughleaf dogwood","1.26",""
-"380","380","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.97",""
-"381","381","10/19/2016",6,"HD","Acer","saccharinum","silver maple","0.93",""
-"382","382","10/19/2016",6,"HD","Cornus","drummondii","roughleaf dogwood","1.18",""
-"383","383","10/19/2016",6,"LD","Pyrus","calleryana","callery pear","0.85",""
-"384","384","10/19/2016",6,"LD/HD","Vitus","riparia","grape vine","-",""
-"385","385","10/19/2016",6,"LD/HD","Acer","negundo","boxelder","1.28",""
-"386","386","10/19/2016",6,"LD/HD","Cornus","drummondii","roughleaf dogwood","1.27",""
-"387","387","10/19/2016",6,"LD/HD","Acer","saccharinum","silver maple","0.68",""
-"388","388","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.58",""
-"389","389","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.75",""
-"390","390","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.9",""
-"391","391","10/19/2016",6,"HD","Vitus","riparia","grape vine","-",""
-"392","392","10/19/2016",6,"LD/HD","Vitus","riparia","grape vine","-",""
-"393","393","10/19/2016",6,"LD","Pyrus","calleryana","callery pear","1.06",""
-"394","394","10/19/2016",6,"LD","Cornus","drummondii","roughleaf dogwood","0.67",""
-"395","395","10/19/2016",6,"LD","Pyrus","calleryana","callery pear","0.92",""
-"396","396","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.55",""
-"397","397","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.53",""
-"398","398","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.59",""
-"399","399","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.72",""
-"400","400","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.57",""
-"401","401","10/19/2016",6,"LD","Cercis","canadensis","redbud","0.6","???"
-"402","402","10/19/2016",6,"LD","","","","1.2","same as 346"
-"403","403","10/19/2016",6,"LD","Vitus","riparia","grape vine","-",""
-"404","404","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.61",""
-"405","405","10/19/2016",6,"LD","Cornus","drummondii","roughleaf dogwood","0.73",""
-"406","406","10/19/2016",6,"LD","Cornus","drummondii","roughleaf dogwood","0.65",""
-"407","407","10/19/2016",6,"LD","Cornus","drummondii","roughleaf dogwood","0.58",""
-"408","408","10/19/2016",6,"LD","Cornus","drummondii","roughleaf dogwood","0.53",""
-"409","409","10/19/2016",6,"LD","Cornus","drummondii","roughleaf dogwood","1.55",""
-"410","410","10/19/2016",6,"LD","Cornus","drummondii","roughleaf dogwood","0.95",""
-"411","411","10/19/2016",6,"LD","Acer","saccharinum","silver maple ","0.69",""
-"412","412","10/19/2016",6,"LD","Acer","saccharinum","silver maple ","0.65","on strip"
-"413","413","10/19/2016",6,"LD","Acer","saccharinum","silver maple ","0.68",""
-"414","414","10/19/2016",6,"LD","Acer","saccharinum","silver maple ","1.15",""
-"415","415","10/19/2016",6,"LD","Acer","saccharinum","silver maple ","0.79",""
-"416","416","10/19/2016",6,"LD","Acer","saccharinum","silver maple ","1.27",""
-"417","417","10/19/2016",6,"LD","Acer","saccharinum","silver maple ","0.55",""
-"418","418","10/19/2016",6,"LD","Fraxinus","pennsylvanica","green ash","0.77",""
-"419","419","10/19/2016",6,"LD","Platanus","occidentalis","sycamore","0.89","on strip"
-"420","420","10/19/2016",6,"LD","Platanus","occidentalis","sycamore","0.57",""
-"421","421","10/19/2016",6,"LD","Acer","saccharinum","silver maple ","0.71",""
-"422","422","10/19/2016",6,"LD","Pyrus","calleryana","callery pear","0.95",""
-"423","423","10/19/2016",6,"LD","Cornus","drummondii","roughleaf dogwood","1.62",""
-"424","424","10/19/2016",6,"LD","Cornus","drummondii","roughleaf dogwood","0.57",""
-"425","425","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.9",""
-"426","426","10/19/2016",6,"LD","Acer","saccharinum","silver maple","1.13",""
-"427","427","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.68",""
-"428","428","10/19/2016",6,"LD","Cornus","drummondii","roughleaf dogwood","1.18",""
-"429","429","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.82",""
-"430","430","10/19/2016",6,"LD","Pyrus","calleryana","callery pear","1.03",""
-"431","431","10/19/2016",6,"LD","Pyrus","calleryana","callery pear","1.06",""
-"432","432","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.52",""
-"433","433","10/19/2016",6,"LD","Pyrus","calleryana","callery pear","0.85",""
-"434","434","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.53",""
-"435","435","10/19/2016",6,"LD","","","","1.1","tree? Opposite, not lobed, entire, rough, light b. buds"
-"436","436","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.6",""
-"437","437","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.54",""
-"438","438","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.74",""
-"439","439","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.6",""
-"440","440","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.68",""
-"441","441","10/19/2016",6,"LD","","","","0.68","same as 297 service?"
-"442","442","10/19/2016",6,"LD","Cornus","drummondii","roughleaf dogwood","0.88",""
-"443","443","10/19/2016",6,"LD","","","","0.62","tree? Dogwood?"
-"444","444","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.7",""
-"445","445","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.5",""
-"446","446","10/19/2016",6,"LD","","","","","not tall"
-"447","447","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.84",""
-"448","448","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.53",""
-"449","449","10/19/2016",6,"LD","Acer","saccharinum","silver maple","1.1",""
-"450","450","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.66",""
-"451","451","10/19/2016",6,"LD","Pyrus","calleryana","callery pear","1.17","less red leaves?"
-"452","452","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.75",""
-"453","453","10/19/2016",6,"LD","Acer","saccharinum","silver maple","0.68",""
-"454","453b","10/23/2016",7,"LD","","","roughleaf dogwood?","0.68",""
-"455","454","10/23/2016",7,"LD","Pyrus","calleryana","callery pear","0.68",""
-"456","455","10/23/2016",7,"LD","Pyrus","calleryana","callery pear","0.74",""
-"457","456","10/23/2016",7,"LD","","","?","1.04","adult s. elm?"
-"458","457","10/23/2016",7,"LD","Ulmus","pumila","siberian elm","0.57",""
-"459","458","10/23/2016",7,"LD","Ulmus","pumila","siberian elm","1.11","check"
-"460","459","10/23/2016",7,"LD","Ulmus","pumila","siberian elm","0.81","check"
-"461","460","10/23/2016",7,"LD","Ulmus","pumila","siberian elm","0.62",""
-"462","461","10/23/2016",7,"LD","Ulmus","pumila","siberian elm","0.59",""
-"463","462","10/23/2016",7,"LD","Ulmus","pumila","siberian elm","0.72",""
-"464","463","10/23/2016",7,"LD","Ulmus","pumila","siberian elm","0.65",""
-"465","464","10/23/2016",7,"LD","Ulmus","pumila","siberian elm","0.74",""
-"466","465","10/23/2016",7,"LD","Ulmus","pumila","siberian elm","0.75",""
-"467","466","10/23/2016",7,"LD","Cornus","drummondii","roughleaf dogwood","1.16","same as 453"
-"468","467","10/23/2016",7,"LD","Ulmus","pumila","siberian elm","0.82",""
-"469","468","10/23/2016",7,"LD","Ulmus","pumila","siberian elm","0.63",""
-"470","469","10/23/2016",7,"LD","Ulmus","pumila","siberian elm","0.66","on strip"
-"471","470","10/23/2016",7,"LD","Ulmus","pumila","siberian elm","0.6",""
-"472","471","10/23/2016",7,"LD","Ulmus","pumila","siberian elm","0.68",""
-"473","472","10/23/2016",7,"LD","Ulmus","pumila","siberian elm","0.52",""
-"474","473","10/23/2016",7,"LD","Acer","saccharinum","silver maple","1.04","on strip"
-"475","474","10/23/2016",7,"LD","Ulmus","pumila","siberian elm","0.52",""
-"476","475","10/23/2016",7,"LD","Acer","saccharinum","silver maple","0.51",""
-"477","476","10/23/2016",7,"LD/HD","Vitus","riparia","grape vine","-",""
-"478","477","10/23/2016",7,"LD/HD","Vitus","riparia","grape vine","-",""
-"479","478","10/23/2016",7,"LD/HD","Vitus","riparia","grape vine","-",""
-"480","479","10/23/2016",7,"LD/HD","Vitus","riparia","grape vine","-",""
-"481","480","10/23/2016",7,"LD/HD","Fraxinus","pennsylvanica","green ash","0.84",""
-"482","481","10/23/2016",7,"LD/HD","Vitus","riparia","grape vine","-",""
-"483","482","10/23/2016",7,"LD","Pyrus","calleryana","callery pear","0.57",""
-"484","483","10/23/2016",7,"LD/HD","Fraxinus","pennsylvanica","green ash","0.62","no leaves/ buds"
-"485","484","10/23/2016",7,"LD","Pyrus","calleryana","callery pear","0.7",""
-"486","485","10/23/2016",7,"LD","Vitus","riparia","grape vine","-","on strip"
-"487","486","10/23/2016",7,"LD","Vitus","riparia","grape vine","-","on strip"
-"488","487","10/23/2016",7,"HD","Vitus","riparia","grape vine","-",""
-"489","488","10/23/2016",7,"HD","Acer","saccharinum","silver maple","0.96",""
-"490","489","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"491","490","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"492","491","10/23/2016",7,"LD","Acer","saccharinum","silver maple","0.74",""
-"493","492","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"494","493","10/23/2016",7,"LD","Pyrus","calleryana","callery pear","1.76","not as red, fuzzy stems"
-"495","494","10/23/2016",7,"LD","Pyrus","calleryana","callery pear","0.9",""
-"496","495","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"497","496","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"498","497","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"499","498","10/23/2016",7,"HD","Vitus","riparia","grape vine","-",""
-"500","499","10/23/2016",7,"HD","Vitus","riparia","grape vine","-",""
-"501","500","10/23/2016",7,"HD","Pyrus","calleryana","callery pear","1.3","waxier"
-"502","501","10/23/2016",7,"HD","Vitus","riparia","grape vine","-",""
-"503","502","10/23/2016",7,"LD/HD","Vitus","riparia","grape vine","-",""
-"504","503","10/23/2016",7,"LD/HD","","","raspberry","1.03",""
-"505","504","10/23/2016",7,"LD","Ulmus","pumila","siberian elm","0.68",""
-"506","505","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"507","506","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"508","507","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"509","508","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"510","509","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"511","510","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"512","511","10/23/2016",7,"LD","Morus","alba","white mulberry","1.86","dif. Leaves"
-"513","512","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"514","513","10/23/2016",7,"LD","Morus","alba","white mulberry","1.86","no leaves"
-"515","514","10/23/2016",7,"LD","Morus","alba","white mulberry","2.9",""
-"516","515","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"517","516","10/23/2016",7,"LD","Fraxinus","pennsylvanica","green ash","1.11",""
-"518","517","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"519","518","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"520","519","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"521","520","10/23/2016",7,"LD","","","","1.13","blue berries"
-"522","521","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"523","522","10/23/2016",7,"LD","","","","0.84","same as 453"
-"524","523","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"525","524","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"526","525","10/23/2016",7,"LD","Acer","saccharinum","silver maple","0.78",""
-"527","526","10/23/2016",7,"LD","Acer","saccharinum","silver maple","0.68",""
-"528","527","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"529","528","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"530","529","10/23/2016",7,"LD","Acer","saccharinum","silver maple","0.7",""
-"531","530","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"532","531","10/23/2016",7,"LD","Morus","alba","white mulberry","0.8","no leaves - one deeply lobed"
-"533","532","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"534","533","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"535","534","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"536","535","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"537","536","10/23/2016",7,"LD","Acer","saccharinum","silver maple","1.11","on strip"
-"538","537","10/23/2016",7,"LD","Vitus","riparia","grape vine","-",""
-"539","538","10/23/2016",3,"LD","Cornus","drummondii","roughleaf dogwood","0.82","on strip/no leaves, red stems"
-"540","539","10/23/2016",3,"LD","Platanus","occidentalis","sycamore","0.52",""
-"541","540","10/23/2016",3,"LD","Platanus","occidentalis","sycamore","0.75","on strip"
-"542","541","10/23/2016",3,"LD/HD","Acer","saccharinum","silver maple","0.58",""
-"543","542","10/23/2016",3,"LD/HD","Acer","saccharinum","silver maple","0.58",""
-"544","543","10/23/2016",3,"LD/HD","Acer","saccharinum","silver maple","1.28",""
-"545","544","10/23/2016",3,"HD","Acer","saccharinum","silver maple","0.57",""
-"546","545","10/23/2016",3,"LD","Acer","saccharinum","silver maple","0.52",""
-"547","546","10/23/2016",3,"LD","Pyrus","calleryana","callery pear","1.02","few leaves/redder than dogwood"
-"548","547","10/23/2016",3,"LD","Acer","saccharinum","silver maple","0.94","on strip"
-"549","548","10/23/2016",3,"LD","Pyrus","calleryana","callery pear","","on strip, no leaves"
-"550","549","10/23/2016",3,"HD","Vitus","riparia","grape vine","-",""
-"551","550","10/23/2016",3,"HD","Vitus","riparia","grape vine","-",""
-"552","551","10/23/2016",3,"HD","Vitus","riparia","grape vine","-",""
-"553","552","10/23/2016",3,"HD","Vitus","riparia","grape vine","-",""
-"554","553","10/23/2016",3,"HD","Acer","saccharinum","silver maple","1.19",""
-"555","554","10/23/2016",3,"LD","Cornus","drummondii","roughleaf dogwood","1.46",""
-"556","555","10/23/2016",3,"LD","Fraxinus","pennsylvanica","green ash","0.94",""
-"557","556","10/23/2016",3,"LD","Cornus","drummondii","roughleaf dogwood","0.85",""
-"558","557","10/23/2016",3,"HD","Vitus","riparia","grape vine","-",""
-"559","558","10/23/2016",3,"HD","Acer","saccharinum","silver maple","1.32",""
-"560","559","10/23/2016",3,"LD/HD","Acer","saccharinum","silver maple","0.57",""
-"561","560","10/23/2016",3,"LD","Vitus","riparia","grape vine","-",""
-"562","561","10/23/2016",3,"LD","Platanus","occidentalis","sycamore","1.3","on strip "
-"563","562","10/23/2016",3,"LD","Vitus","riparia","grape vine","-",""
-"564","563","10/23/2016",3,"LD","Pyrus","calleryana","callery pear","0.67",""
-"565","564","10/23/2016",3,"LD","Acer","saccharinum","silver maple","0.73",""
-"566","565","10/23/2016",3,"LD","Cornus","drummondii","roughleaf dogwood","0.61",""
-"567","577","10/26/2016",8,"LD","Ulmus","pumila","siberian elm","0.68","darker"
-"568","578","10/26/2016",8,"LD","Ulmus","pumila","siberian elm","1.64","lighter"
-"569","579","10/26/2016",8,"LD","Ulmus","pumila","siberian elm","0.67","lighter"
-"570","580","10/26/2016",8,"LD","Vitus","riparia","grape vine","-",""
-"571","581","10/26/2016",8,"LD","Morus","alba","white mulberry","1.23","no leaves"
-"572","582","10/26/2016",8,"LD","Vitus","riparia","grape vine","0.79",""
-"573","583","10/26/2016",8,"LD","Acer","saccharinum","silver maple","0.76",""
-"574","584","10/26/2016",8,"LD","Platanus","occidentalis","sycamore","0.73",""
-"575","585","10/26/2016",8,"LD","Acer","saccharinum","silver maple","0.72",""
-"576","586","10/26/2016",8,"LD","Pyrus","calleryana","callery pear","1.16","red veins"
-"577","587","10/26/2016",8,"LD","Acer","saccharinum","silver maple","0.87",""
-"578","588","10/26/2016",8,"LD","Vitus","riparia","grape vine","-",""
-"579","589","10/26/2016",8,"LD","Ulmus","pumila","siberian elm","0.5","lighter"
-"580","590","10/26/2016",8,"LD","Acer","saccharinum","silver maple","0.96",""
-"581","591","10/26/2016",8,"LD","Morus","alba","white mulberry","0.69","deep lobes"
-"582","592","10/26/2016",8,"LD","Vitus","riparia","grape vine","-",""
-"583","593","10/26/2016",8,"LD","Cornus","drummondii","roughleaf dogwood","1.22",""
-"584","594","10/26/2016",8,"LD","Vitus","riparia","grape vine","-",""
-"585","595","10/26/2016",8,"LD","Acer","saccharinum","silver maple","0.68",""
-"586","596","10/26/2016",8,"LD","Vitus","riparia","grape vine","-",""
-"587","597","10/26/2016",8,"LD","","","","0.74","opposite leaves, red stem, blunt edge"
-"588","598","10/26/2016",8,"LD","Pyrus","calleryana","callery pear","1.01","red veins"
-"589","599","10/26/2016",8,"LD","Acer","saccharinum","silver maple","0.52",""
-"590","600","10/26/2016",8,"LD","Pyrus","calleryana","callery pear","0.56","598"
-"591","601","10/26/2016",8,"LD","Fraxinus","pennsylvanica","green ash","1.04",""
-"592","602","10/26/2016",8,"LD","Vitus","riparia","grape vine","-",""
-"593","603","10/26/2016",8,"LD","Vitus","riparia","grape vine","-","on strip"
-"594","604","10/26/2016",8,"LD","Ulmus","pumila","siberian elm","0.5","lighter but small"
-"595","605","10/26/2016",8,"LD","Ulmus","pumila","siberian elm","0.63",""
-"596","606","10/26/2016",8,"LD","","","tree?","0.62","one leaf"
-"597","607","10/26/2016",8,"LD","","","raspberry","0.99",""
-"598","608","10/26/2016",8,"HD","Cornus","drummondii","roughleaf dogwood","0.99",""
-"599","609","10/26/2016",8,"HD","Prunus","serotina","black cherry","1.01",""
-"600","610","10/26/2016",8,"LD/HD","Vitus","riparia","grape vine","-",""
-"601","611","10/26/2016",8,"LD","Vitus","riparia","grape vine","-",""
-"602","612","10/26/2016",8,"LD","Acer","saccharinum","silver maple","0.6",""
-"603","613","10/26/2016",8,"LD","Acer","saccharinum","silver maple","0.63",""
-"604","614","10/26/2016",8,"LD","Acer","saccharinum","silver maple","1.2",""
-"605","615","10/26/2016",8,"LD","Morus","alba","white mulberry","1.12","deeply lobed"
-"606","616","10/26/2016",8,"LD","Acer","saccharinum","silver maple","1.05",""
-"607","617","10/26/2016",8,"LD","Morus","alba","white mulberry","0.65","both leaves"
-"608","618","10/26/2016",8,"LD","Vitus","riparia","grape vine","-",""
-"609","619","10/26/2016",8,"","","","","","not tall enough"
-"610","620","10/26/2016",8,"LD/HD","Acer","saccharinum","silver maple","0.87",""
-"611","621","10/26/2016",8,"LD/HD","Acer","saccharinum","silver maple","2.22",""
-"612","622","10/26/2016",8,"LD/HD","Platanus","occidentalis","sycamore","2.54",""
-"613","623","10/26/2016",8,"LD/HD","Acer","saccharinum","silver maple","0.97",""
-"614","624","10/26/2016",8,"HD","Pyrus","calleryana","callery pear","0.67","red vein"
-"615","625","10/26/2016",8,"HD","Acer","negundo","boxelder","0.61","white buds, red stem"
-"616","626","10/26/2016",8,"HD","Pyrus","calleryana","callery pear","0.62","624"
-"617","627","10/26/2016",8,"LD/HD","Vitus","riparia","grape vine","-",""
-"618","628","10/26/2016",8,"LD/HD","Vitus","riparia","grape vine","-",""
-"619","629","10/26/2016",8,"LD/HD","Ulmus","pumila","siberian elm","1.3","small, light/bent 1-stick"
-"620","630","10/26/2016",8,"LD/HD","Pyrus","calleryana","callery pear","0.61",""
-"621","631","10/26/2016",8,"LD","Acer","saccharinum","silver maple","0.76",""
-"622","632","10/26/2016",8,"LD","Pyrus","calleryana","callery pear","1.04","not as red"
-"623","633","10/26/2016",8,"LD","Acer","saccharinum","silver maple","0.78",""
-"624","634","10/26/2016",8,"LD","Acer","saccharinum","silver maple","0.83",""
-"625","635","10/26/2016",8,"LD","Acer","saccharinum","silver maple","1.09",""
-"626","636","10/26/2016",8,"LD","Vitus","riparia","grape vine","-",""
-"627","637","10/26/2016",8,"LD","Morus","alba","white mulberry","1.26","waxy grey/no leaves, on strip"
-"628","638","10/26/2016",8,"LD","Acer","saccharinum","silver maple","1.27","on strip "
-"629","639","10/26/2016",8,"LD","Vitus","riparia","grape vine","-",""
-"630","640","10/26/2016",8,"LD","Vitus","riparia","grape vine","-",""
-"631","641","10/26/2016",8,"LD","Vitus","riparia","grape vine","-",""
-"632","642","10/26/2016",8,"LD","Platanus","occidentalis","sycamore","1.55",""
-"633","643","10/26/2016",8,"LD","Morus","alba","white white mulberry","0.96","deeply lobed"
-"634","644","10/26/2016",8,"LD","Acer","saccharinum","silver maple","0.7",""
-"635","645","10/26/2016",8,"LD","Vitus","riparia","grape vine","-",""
-"636","646","10/26/2016",8,"LD","Vitus","riparia","grape vine","-",""
-"637","647","10/26/2016",8,"HD","Vitus","riparia","grape vine","-",""
-"638","648","10/26/2016",8,"HD","Vitus","riparia","grape vine","-",""
-"639","649","10/26/2016",8,"HD","Pyrus","calleryana","callery pear","0.58","not red"
-"640","650","10/26/2016",8,"LD","Ulmus","pumila","siberian elm","1.2",""
-"641","651","10/26/2016",8,"LD","","","raspberry","0.54",""
-"642","652","10/26/2016",8,"LD","Vitus","riparia","grape vine","-",""
-"643","653","10/26/2016",8,"LD","Vitus","riparia","grape vine","-",""
-"644","654","10/26/2016",8,"LD","Vitus","riparia","grape vine","-","on strip"
-"645","655","10/26/2016",8,"LD","Morus","alba","white white mulberry","0.82","both leaves"
-"646","656","10/26/2016",8,"LD","Morus","alba","white white mulberry","0.75","deep lobes - extra lobe"
-"647","657","10/26/2016",8,"LD","Vitus","riparia","grape vine","-",""
-"648","658","10/26/2016",8,"LD","Pyrus","calleryana","callery pear","0.89","red"
-"649","659","10/26/2016",8,"LD","Pyrus","calleryana","callery pear","1.8","stem not as red"
-"650","660","10/26/2016",8,"LD","Acer","saccharinum","silver maple","0.61",""
-"651","661","10/26/2016",8,"LD","Vitus","riparia","grape vine","-",""
-"652","662","10/26/2016",8,"LD","Morus","alba","white white mulberry","1.34","deep lobe"
-"653","663","10/26/2016",8,"LD","Pyrus","calleryana","callery pear","1.06","red stems, not veins"
-"654","664","10/26/2016",8,"LD","Platanus","occidentalis","sycamore","0.58","on strip "
-"655","665","10/26/2016",8,"LD","Vitus","riparia","grape vine","-","on strip "
-"656","666","10/26/2016",8,"LD","Acer","saccharinum","silver maple","0.87",""
-"657","667","10/26/2016",8,"LD","Cornus","drummondii","roughleaf dogwood","0.94",""
-"658","668","10/26/2016",8,"LD","Vitus","riparia","grape vine","-",""
-"659","669","10/26/2016",8,"LD","","","sycamore","1.37",""
-"660","670","10/26/2016",8,"LD","Cornus","stolonifera","red osier dogwood","","very red"
-"661","671","10/26/2016",8,"LD","Acer","saccharinum","silver maple","0.64",""
-"662","672","10/26/2016",8,"LD","Cornus","drummondii","roughleaf dogwood","0.69",""
-"663","673","",NA,"","Morus","alba","white white mulberry","0.88",""
+ID,Date,Block,Treatment,Genus,Species,Common.Name,Height,Notes
+1,10/8/16,4,LD,Acer,saccharinum,silver maple,0.55,
+2,10/8/16,4,LD,Acer,saccharinum,silver maple,0.55,
+3,10/8/16,4,LD,Acer,saccharinum,silver maple,0.84,some herb. Deer
+4,10/8/16,4,LD,Acer,saccharinum,silver maple,0.55,
+5,10/8/16,4,LD,Acer,saccharinum,silver maple,0.995,
+6,10/8/16,4,LD,Acer,saccharinum,silver maple,0.61,
+7,10/8/16,4,LD,Acer,saccharinum,silver maple,1.34,deer herb.
+8,10/8/16,4,LD,Cornus,drummondii,roughleaf dogwood,0.6,"unknown - leaves entire, rough, opposite, long leaves, browny-red, not glaborous "
+9,10/8/16,4,LD,,,Crataegus spp.1 ,1.04,"pics 1,2"
+10,10/8/16,4,LD,,,,0.88,not a tree
+11,10/8/16,4,LD,Acer,saccharinum,silver maple,0.51,
+12,10/8/16,4,LD,Cornus,drummondii,roughleaf dogwood,1.11,same as 8
+13,10/8/16,4,LD,Prunus,serotina,black cherry,0.84,"black cherry - orange hairs on midvein, black nodules "
+14,10/8/16,4,LD,Prunus,serotina,black cherry,0.63,
+15,10/8/16,4,LD,Prunus,serotina,black cherry,0.5,
+16,10/8/16,4,LD,Prunus,serotina,black cherry,0.63,
+17,10/8/16,4,LD,Prunus,serotina,black cherry,0.68,
+18,10/8/16,4,LD,Prunus,serotina,black cherry,0.69,
+19,10/8/16,4,LD,Prunus,serotina,black cherry,0.9,
+20,10/8/16,4,LD,Prunus,serotina,black cherry,0.56,
+21,10/8/16,4,HD,Prunus,serotina,black cherry,0.84,probs in HD
+22,10/8/16,4,HD,Vitus,riparia,grape vine,-,grape vine
+23,10/8/16,4,LD,Acer,saccharinum,silver maple,0.5,
+24,10/8/16,4,LD,Fraxinus,pennsylvanica,green ash,0.7,strip - right outside
+25,10/8/16,4,LD,Cornus,drummondii,roughleaf dogwood,0.69,edge - same as 8
+26,10/8/16,4,LD,Fraxinus,pennsylvanica,green ash,0.51,edge - same as 8
+27,10/8/16,4,HD,Pyrus,calleryana,callery pear,0.58,"or prunus, but no glands. Picture - 11.30 "
+28,10/8/16,4,HD,Prunus,serotina,black cherry,0.56,
+29,10/8/16,4,HD,Acer,negundo,boxelder,0.59,
+30,10/8/16,4,HD,Prunus,serotina,black cherry,0.81,pin cherry? No hair
+31,10/8/16,4,HD,,,crataegus sp. 1 ,0.83,"some lobed, some unlobed"
+32,10/8/16,4,HD,Prunus,serotina,black cherry,0.91,
+33,10/8/16,4,HD,Prunus,serotina,black cherry,0.73,
+34,10/8/16,4,HD,Acer,saccharinum,silver maple,0.51,
+35,10/8/16,4,HD,Prunus,serotina,black cherry,0.715,
+36,10/8/16,4,HD,Prunus,serotina,black cherry,0.54,
+37,10/8/16,4,LD,Acer,saccharinum,silver maple,0.505,
+38,10/8/16,4,LD,Acer,negundo,boxelder,0.715,
+39,10/8/16,4,LD,Acer,saccharinum,silver maple,0.505,
+40,10/8/16,4,LD,Acer,saccharinum,silver maple,0.717,at edge of strip
+41,10/8/16,4,LD,Acer,saccharinum,silver maple,0.966,at edge of strip
+42,10/8/16,4,HD,,,unknown,0.845,honeysuckle vs. cornus?
+43,10/8/16,4,HD,Acer,saccharinum,silver maple,0.824,
+44,10/8/16,4,HD,,,rubus spp,0.847,not 100% positive this is woody
+45,10/8/16,4,LD,Acer,saccharinum,silver maple,0.52,close to edge of strip
+46,10/8/16,4,LD,Acer,saccharinum,silver maple,0.58,
+47,10/8/16,4,LD,Cercis,canadensis,redbud,0.605,3 GPS points use 47 real
+48,10/8/16,4,LD,Morus,alba,white mulberry,0.831,aon edge
+49,10/8/16,4,LD,Cornus,stolonifera,red osier dogwood,0.676,on strip - red!!
+50,10/8/16,4,LD,,,unknown,0.804,"malus/hawthorn, sharp,thorns"
+51,10/8/16,4,LD,Vitus,riparia,grape vine,0.303,spp uncertain
+52,10/8/16,4,LD,,,hawthorn,0.52,protected by chenopodium + switchgrass
+53,10/8/16,4,LD,Fraxinus,pennsylvanica,green ash,0.517,
+54,10/8/16,4,LD,Acer,saccharinum,silver maple,0.71,
+55,10/8/16,4,LD,Acer,saccharinum,silver maple,0.624,on strip 
+56,10/8/16,4,LD,Vitus,riparia,grape vine,0.775,growing up a lespidiza stem 
+57,10/12/16,2,LD,Acer,negundo,boxelder,0.77,boxelder? Check bark
+58,10/12/16,2,LD,Acer,saccharinum,silver maple,0.51,
+59,10/12/16,2,LD,Vitus,riparia,grape vine,-,on strip
+60,10/12/16,2,LD,Acer,saccharinum,silver maple,0.59,
+61,10/12/16,2,LD,Acer,saccharinum,silver maple,0.78,
+62,10/12/16,2,LD,Acer,saccharinum,silver maple,0.69,
+63,10/12/16,2,LD/HD,Fraxinus,pennsylvanica,green ash,0.71,"buds brown, box=white"
+64,10/12/16,2,LD/HD,Vitus,riparia,grape vine,-,
+65,10/12/16,2,LD,Acer,saccharinum,silver maple,0.57,on strip
+66,10/12/16,2,LD,Acer,saccharinum,silver maple,0.74,no leaves
+67,10/12/16,2,HD,Platanus,occidentalis,sycamore,1.34,
+68,10/12/16,2,LD,Acer,negundo,boxelder,0.62,
+69,10/12/16,2,LD,Acer,negundo,boxelder,0.69,
+70,10/12/16,2,LD/HD,Acer,saccharinum,silver maple,0.68,
+71,10/12/16,2,HD,,,?,0.81,"no leaves - can't tell, herb"
+72,10/12/16,2,HD,Acer,negundo,boxelder,0.75,
+73,10/12/16,2,HD,,,?,0.6,"herb - no leaves - can't tell, ash?"
+74,10/12/16,2,LD/HD,Prunus,serotina,black cherry,1.59,
+75,10/12/16,2,LD/HD,Acer,saccharinum,silver maple,1.02,next to deer trail
+76,10/12/16,2,LD/HD,Prunus,serotina,black cherry,1.71,next to deer trail
+77,10/12/16,2,LD/HD,Prunus,serotina,black cherry,1.01,next to deer trail
+78,10/12/16,2,LD/HD,Fraxinus,pennsylvanica,green ash,0.57,"next to deer trail, almost on strip end"
+79,10/12/16,2,LD/HD,Prunus,serotina,black cherry,0.98,"herb damage, next to deer trail, almost on strip end"
+80,10/12/16,2,LD/edg,Vitus,riparia,grape vine,-,
+81,10/12/16,2,LD,Prunus,serotina,black cherry,0.92,
+82,10/12/16,2,LD,Prunus,serotina,black cherry,0.99,
+83,10/12/16,2,LD,Prunus,serotina,black cherry,1.08,
+84,10/12/16,2,HD,Vitus,riparia,grape vine,-,very small
+85,10/12/16,2,LD,Vitus,riparia,grape vine,,silver maple to small
+86,10/12/16,2,HD,Prunus,serotina,black cherry,0.98,
+87,10/12/16,2,HD,Acer,saccharinum,silver maple,1.82,
+88,10/12/16,2,LD,Prunus,serotina,black cherry,1.16,
+89,10/12/16,2,LD,Acer,saccharinum,silver maple,0.76,lots of herb. Deer
+90,10/12/16,2,LD,Prunus,serotina,black cherry,0.86,edge
+91,10/12/16,2,LD,Prunus,serotina,black cherry,0.71,edge
+92,10/12/16,2,LD,Prunus,serotina,black cherry,0.5,edge
+93,10/13/16,2,HD,Acer,negundo,boxelder,0.53,
+94,10/13/16,2,LD/HD,Acer,saccharinum,silver maple,0.66,
+95,10/13/16,2,LD/HD,Acer,saccharinum,silver maple,0.5,
+96,10/13/16,2,LD/HD,Acer,saccharinum,silver maple,0.5,
+97,10/13/16,2,LD,Acer,saccharinum,silver maple,0.77,
+98,10/13/16,2,LD,Acer,saccharinum,silver maple,0.53,
+99,10/13/16,1,LD,Acer,saccharinum,silver maple,1.02,
+100,10/13/16,1,LD,Acer,negundo,boxelder,0.97,near strip/not within 15cm
+101,10/13/16,1,HD,Acer,negundo,boxelder,0.98,"right next to burrown, next to cover plot"
+102,10/13/16,1,HD,Acer,negundo,boxelder,0.81,next to cover plot
+103,10/13/16,1,HD,Vitus,riparia,grape vine,-,
+104,10/13/16,1,HD,Acer,negundo,boxelder,0.87,cover plot
+105,10/13/16,1,HD,Acer,saccharinum,silver maple,0.5,
+106,10/16/16,1,HD,,,?,0.73,"one elaf - rough, not lobed, buds lobed, small brown"
+107,10/16/16,1,HD,Fraxinus,pennsylvanica,green ash,0.59,
+108,10/16/16,1,HD,Vitus,riparia,grape vine,-,pretty dead
+109,10/16/16,1,HD,Acer,negundo,boxelder,0.58,
+110,10/16/16,1,LD,,,siberian elm?,0.52,leaves not glaborous
+111,10/16/16,1,LD/HD,Acer,saccharinum,silver maple,0.56,
+112,10/16/16,1,HD,Vitus,riparia,grape vine,-,dead
+113,10/16/16,1,HD,Acer,negundo,boxelder,0.7,
+114,10/16/16,1,LD,Acer,negundo,boxelder,1.13,on strip 
+115,10/16/16,1,LD,Fraxinus,pennsylvanica,green ash,0.74,
+116,10/16/16,1,LD,Acer,negundo,boxelder,0.54,
+117,10/16/16,1,LD,Acer,negundo,boxelder,0.6,
+118,10/16/16,1,LD,Vitus,riparia,grape vine,-,dead
+119,10/16/16,1,LD,Acer,negundo,boxelder,0.56,
+120,10/16/16,1,LD,Vitus,riparia,grape vine,-,
+121,10/16/16,1,LD,Acer,negundo,boxelder,0.55,
+122,10/16/16,1,LD,Acer,negundo,boxelder,0.59,
+123,10/16/16,1,LD,Acer,negundo,boxelder,0.64,"little leaves, stems too red?"
+124,10/16/16,1,LD,Acer,negundo,boxelder,0.56,
+125,10/16/16,5,LD,,,,0.54,
+126,10/16/16,5,LD,Platanus,occidentalis,sycamore,0.67,on a strip
+127,10/16/16,5,LD,,,cherry family,0.78,
+128,10/16/16,5,LD,Acer,saccharinum,silver maple,0.77,
+129,10/16/16,5,LD,Ulmus,pumila,siberian elm,,not high enough
+130,10/16/16,5,LD,Acer,saccharinum,silver maple,0.56,
+131,10/16/16,5,LD,Acer,saccharinum,silver maple,0.62,
+132,10/16/16,5,LD,Cornus,drummondii,roughleaf dogwood,1.26,
+133,10/16/16,5,LD,Acer,saccharinum,silver maple,0.52,
+134,10/16/16,5,LD,Ulmus,pumila,siberian elm,1.06,? Simple and compound
+135,10/16/16,5,LD,,,serviceberry?,0.69,
+136,10/16/16,5,LD,Acer,saccharinum,silver maple,0.59,
+137,10/16/16,5,LD,Acer,saccharinum,silver maple,0.8,
+138,10/16/16,5,LD,Prunus,serotina,black cherry,0.68,
+139,10/16/16,5,LD,Acer,saccharinum,silver maple,0.66,
+140,10/16/16,5,LD,Acer,saccharinum,silver maple,0.71,
+141,10/16/16,5,LD,Cornus,drummondii,roughleaf dogwood,0.85,
+142,10/16/16,5,LD,Ulmus,pumila,siberian elm,0.99,-
+143,10/16/16,5,LD,Cornus,drummondii,roughleaf dogwood,0.5,
+144,10/16/16,5,LD,Cornus,drummondii,roughleaf dogwood,0.66,
+145,10/16/16,5,LD,,,cherry family,0.59,
+146,10/16/16,5,LD,Cornus,drummondii,roughleaf dogwood,1.8,
+147,10/16/16,5,LD,Acer,saccharinum,silver maple,0.66,
+148,10/16/16,5,LD,Cornus,drummondii,roughleaf dogwood,0.58,
+149,10/16/16,5,LD,Acer,saccharinum,silver maple,1.8,
+150,10/16/16,5,LD,,,,,too short 
+151,10/16/16,5,LD,Acer,saccharinum,silver maple,1.2,
+152,10/16/16,5,LD,Acer,negundo,boxelder,0.94,red waxy stems
+153,10/16/16,5,LD/HD,Fraxinus,pennsylvanica,green ash,1.18,
+154,10/16/16,5,LD/HD,Acer,negundo,boxelder,1.17,
+155,10/16/16,5,,,,,,
+156,10/16/16,5,LD/HD,Acer,saccharinum,silver maple,0.85,
+157,10/16/16,5,LD/HD,Acer,saccharinum,silver maple,0.92,deep lboes
+158,10/16/16,5,LD/HD,,,,69,"simple, opposite"
+159,10/16/16,5,LD,Acer,saccharinum,silver maple,0.824,
+160,10/16/16,5,LD,Acer,saccharinum,silver maple,0.685,
+161,10/16/16,5,LD,Acer,saccharinum,silver maple,0.78,
+162,10/16/16,5,LD,Acer,saccharinum,silver maple,1.08,
+163,10/16/16,5,HD,Prunus,serotina,black cherry,1.39,
+164,10/16/16,5,HD,Prunus,serotina,black cherry,1.25,
+165,10/16/16,5,,,,,,not a tree
+166,10/16/16,5,HD,Prunus,serotina,black cherry,0.68,
+167,10/16/16,5,HD,Acer,saccharinum,silver maple,1.33,
+168,10/16/16,5,HD,Prunus,serotina,black cherry,1.03,
+169,10/16/16,5,LD/HD,Acer,saccharinum,silver maple,1.05,
+170,10/16/16,5,LD/HD,Acer,saccharinum,silver maple,0.87,
+171,10/16/16,5,LD,Platanus,occidentalis,sycamore,1.46,
+172,10/16/16,5,LD,Ulmus,americana,american elm,1.54,find edge vs. slip.
+173,10/16/16,5,LD,Acer,saccharinum,silver maple,0.5,
+174,10/16/16,5,LD,Acer,saccharinum,silver maple,0.6,
+175,10/16/16,5,LD,Ulmus,pumila,siberian elm,1.01,
+176,10/16/16,5,LD,Acer,saccharinum,silver maple,1.04,
+177,10/16/16,5,HD,Acer,saccharinum,silver maple,1.11,
+178,10/16/16,5,HD,,,serviceberry?,1.25,??
+179,10/16/16,5,HD,,,black cherry fam.,1.39,145
+180,10/16/16,5,HD,Acer,saccharinum,silver maple,1.21,
+181,10/16/16,5,LD/HD,Vitus,riparia,grape vine,-,
+182,10/16/16,5,LD/HD,Cornus,drummondii,roughleaf dogwood,1.11,
+183,10/16/16,5,LD/HD,Acer,saccharinum,silver maple,1.42,
+184,10/16/16,5,LD,Prunus,serotina,black cherry,1.37,
+185,10/16/16,5,LD,Acer,saccharinum,silver maple,0.81,
+186,10/16/16,5,HD,Acer,saccharinum,silver maple,0.71,
+187,10/16/16,5,HD,Acer,saccharinum,silver maple,0.69,
+188,10/16/16,5,LD/HD,Acer,saccharinum,silver maple,1.02,
+189,10/16/16,5,LD/HD,Acer,saccharinum,silver maple,1.04,
+190,10/16/16,5,LD,Acer,saccharinum,silver maple,0.88,
+191,10/16/16,5,LD,Fraxinus,pennsylvanica,green ash,1.23,
+192,10/16/16,5,LD,Acer,saccharinum,silver maple,0.66,
+193,10/16/16,5,LD,Cornus,drummondii,roughleaf dogwood,1.22,m/p
+194,10/16/16,5,LD,Acer,saccharinum,silver maple,0.57,
+195,10/16/16,5,LD,Acer,saccharinum,silver maple,1.06,
+196,10/16/16,5,LD,Acer,saccharinum,silver maple,0.55,
+197,10/16/16,5,LD,Cornus,drummondii,roughleaf dogwood,0.68,
+198,10/16/16,5,LD,Cornus,drummondii,roughleaf dogwood,1.33,
+199,10/16/16,5,LD,Acer,saccharinum,silver maple,1.07,
+200,10/16/16,5,LD,Pyrus,calleryana,callery pear,0.6,
+201,10/16/16,5,LD/HD,Acer,saccharinum,silver maple,0.8,
+202,10/16/16,5,LD/HD,Fraxinus,pennsylvanica,green ash,0.6,
+203,10/16/16,5,LD/HD,Acer,saccharinum,silver maple,0.76,
+204,10/16/16,5,LD/HD,Acer,saccharinum,silver maple,0.77,
+205,10/16/16,5,LD/HD,Acer,saccharinum,silver maple,0.77,
+206,10/16/16,5,LD,Morus,alba,white mulberry,0.73,deep lobes 
+207,10/16/16,5,LD,Acer,saccharinum,silver maple,0.82,
+208,10/16/16,5,LD,Acer,saccharinum,silver maple,0.78,
+209,10/16/16,5,LD,Pyrus,calleryana,callery pear,0.67,
+210,10/16/16,5,LD,Acer,saccharinum,silver maple,0.74,
+211,10/16/16,5,LD,Vitus,riparia,grape vine,-,no leaves - dead leaves
+212,10/16/16,5,LD,Vitus,riparia,grape vine,-,no leaves
+213,10/16/16,5,LD/HD,Acer,saccharinum,silver maple,0.62,
+214,10/16/16,5,LD,Acer,saccharinum,silver maple,1.23,
+215,10/16/16,5,LD,Vitus,riparia,grape vine,-,no leaves 
+216,10/16/16,5,LD,Acer,saccharinum,silver maple,1.06,
+217,10/16/16,5,LD,Pyrus,calleryana,callery pear,1.08,
+218,10/16/16,5,LD,Fraxinus,pennsylvanica,green ash,0.93,
+219,10/16/16,5,LD,Vitus,riparia,grape vine,-,
+220,10/16/16,5,LD,Vitus,riparia,grape vine,-,
+221,10/16/16,5,LD,Cornus,drummondii,roughleaf dogwood,1.58,
+222,10/16/16,5,LD,Morus,alba,white mulberry,21.81,no leaves/dead
+223,10/16/16,5,LD,Morus,alba,white mulberry,0.76,no leaves/dead
+224,10/16/16,5,LD,Morus,alba,white mulberry,1.34,"no leaves/dead, on strip"
+225,10/16/16,5,LD,Platanus,occidentalis,sycamore,2.62,on strip
+226,10/16/16,5,LD,Acer,saccharinum,silver maple,2.03,
+227,10/16/16,5,LD,Pyrus,calleryana,callery pear,1.29,
+228,10/16/16,5,LD,Acer,saccharinum,silver maple,0.75,
+229,10/16/16,5,LD,Pyrus,calleryana,callery pear,0.99,
+230,10/16/16,5,LD,Acer,saccharinum,silver maple,1.8,
+231,10/16/16,5,LD,Acer,saccharinum,silver maple,0.72,
+232,10/16/16,5,LD,Cornus,drummondii,roughleaf dogwood,1.5,"droopier leaves, fuzzy stem, op. stringy "
+233,10/16/16,5,LD,Pyrus,calleryana,callery pear,0.96,"leaves up a little, red midvein, stringy"
+234,10/16/16,5,LD,Acer,saccharinum,silver maple,0.8,
+235,10/16/16,5,LD,,,,0.7,
+236,10/16/16,5,LD,Acer,saccharinum,silver maple ,0.8,
+237,10/16/16,5,LD,Acer,saccharinum,silver maple ,1.43,
+238,10/16/16,5,LD,Acer,saccharinum,silver maple ,0.75,stems very red
+239,10/16/16,5,LD,Acer,saccharinum,silver maple ,0.67,
+240,10/16/16,5,LD,Acer,saccharinum,silver maple ,1.34,
+241,10/16/16,5,LD,Acer,saccharinum,silver maple ,1.3,
+242,10/16/16,5,LD,Acer,saccharinum,silver maple ,1.59,
+243,10/16/16,5,LD,Acer,saccharinum,silver maple ,0.87,
+244,10/16/16,5,LD,Pyrus,calleryana,callery pear,1.01,
+245,10/16/16,5,LD,Acer,saccharinum,silver maple,1.01,same as 233
+246,10/16/16,5,LD,Acer,saccharinum,silver maple,0.55,
+247,10/16/16,5,LD,Acer,saccharinum,silver maple,0.88,
+248,10/16/16,5,LD,Acer,saccharinum,silver maple,0.83,
+249,10/16/16,5,LD,Acer,saccharinum,silver maple,0.52,
+250,10/16/16,5,LD,Acer,saccharinum,silver maple,0.78,
+251,10/16/16,5,LD,Acer,saccharinum,silver maple,1.03,
+252,10/16/16,5,LD,Acer,saccharinum,silver maple,1.82,edge
+253,10/16/16,5,LD,Acer,saccharinum,silver maple,0.51,on strip
+254,10/16/16,5,LD,Acer,saccharinum,silver maple,0.52,on strip 
+255,10/16/16,5,LD,Acer,saccharinum,silver maple,1.19,
+256,10/16/16,5,LD,Acer,saccharinum,silver maple,0.52,
+257,10/16/16,5,LD,Acer,saccharinum,silver maple,0.66,
+258,10/16/16,5,LD,Acer,saccharinum,silver maple,0.93,on strip
+259,10/16/16,5,LD,Acer,saccharinum,silver maple,1.42,on strip
+260,10/16/16,5,LD,Acer,saccharinum,silver maple,1.4,on strip
+261,10/16/16,5,LD,Pyrus,calleryana,callery pear,0.73,same as 233
+262,10/16/16,5,LD,Acer,saccharinum,silver maple,0.62,edge
+263,10/16/16,5,LD,Acer,saccharinum,silver maple,0.8,
+264,10/16/16,5,LD,Acer,saccharinum,silver maple,1.11,on strip
+265,10/16/16,5,LD,Platanus,occidentalis,sycamore,1.4,
+266,10/16/16,5,LD,Acer,saccharinum,silver maple,0.86,
+267,10/16/16,5,LD,,,roughleaf dogwood?,1.37,same as 232
+268,10/16/16,5,LD,Acer,negundo,boxelder,0.72,
+269,10/16/16,5,LD,,,,0.66,"like Bc, buds small, black"
+270,10/16/16,5,LD,Platanus,occidentalis,sycamore,1.14,
+271,10/16/16,5,LD,Ulmus,pumila,siberian elm,0.77,
+272,10/16/16,5,LD,Acer,saccharinum,silver maple,0.7,
+273,10/16/16,5,LD,Acer,saccharinum,silver maple,0.71,mul?
+274,10/16/16,5,LD,Acer,saccharinum,silver maple,1.18,
+275,10/16/16,5,LD,Cornus,drummondii,roughleaf dogwood,0.77,herb.
+276,10/16/16,5,LD,Cornus,drummondii,roughleaf dogwood,0.92,herb.
+277,10/16/16,5,LD,Cornus,drummondii,roughleaf dogwood,1.45,herb.
+278,10/16/16,5,LD,Cornus,drummondii,roughleaf dogwood,0.83,
+279,10/16/16,5,LD,Cornus,drummondii,roughleaf dogwood,1.25,
+280,10/16/16,5,LD,Cornus,drummondii,roughleaf dogwood,0.6,
+281,10/16/16,5,LD,Cornus,drummondii,roughleaf dogwood,0.65,
+282,10/16/16,5,LD,Morus,alba,white mulberry,0.68,"same as 222-224, rough leaves lobed/non lobed"
+283,10/16/16,5,LD,Prunus,serotina,black cherry,0.53,no orange hairs
+284,10/16/16,5,LD,Morus,alba,white mulberry,0.92,no leaves
+285,10/16/16,5,LD,Morus,alba,white mulberry,2.5,
+286,10/16/16,5,LD,Morus,alba,white mulberry,0.97,near strip
+287,10/16/16,5,LD,Platanus,occidentalis,sycamore,1.06,strip
+288,10/16/16,5,LD,Acer,saccharinum,silver maple,0.56,strip
+289,10/16/16,5,LD,Cornus,drummondii,roughleaf dogwood,0.833,
+290,10/16/16,5,LD,Acer,saccharinum,silver maple,0.62,
+291,10/16/16,5,LD,Acer,saccharinum,silver maple,0.74,
+292,10/19/16,6,LD,Acer,saccharinum,silver maple,0.5,
+293,10/19/16,6,LD,Cornus,drummondii,roughleaf dogwood,0.5,
+294,10/19/16,6,LD,Acer,saccharinum,silver maple,0.62,
+295,10/19/16,6,LD,Acer,saccharinum,silver maple,0.51,
+296,10/19/16,6,LD,Pyrus,calleryana,callery pear,0.53,
+297,10/19/16,6,LD,,,,0.62,tree??? Rough leaves
+298,10/19/16,6,LD,Acer,saccharinum,silver maple,0.87,
+299,10/19/16,6,LD,Cornus,drummondii,roughleaf dogwood,1.54,
+300,10/19/16,6,LD,Pyrus,calleryana,callery pear,1.72,
+301,10/19/16,6,LD,Ulmus,pumila,siberian elm,0.82,
+302,10/19/16,6,LD,Acer,saccharinum,silver maple,0.76,on strip
+303,10/19/16,6,LD,Acer,saccharinum,silver maple,0.65,
+304,10/19/16,6,LD,Acer,saccharinum,silver maple,0.68,on strip
+305,10/19/16,6,LD,Acer,saccharinum,silver maple,0.74,
+306,10/19/16,6,LD,Acer,saccharinum,silver maple,0.98,on strip 
+307,10/19/16,6,LD,Acer,saccharinum,silver maple,0.69,
+308,10/19/16,6,LD,Cornus,drummondii,roughleaf dogwood,0.9,
+309,10/19/16,6,LD,Acer,saccharinum,silver maple,0.56,
+310,10/19/16,6,LD,Acer,saccharinum,silver maple,0.67,
+311,10/19/16,6,LD,Acer,saccharinum,silver maple,0.62,
+312,10/19/16,6,LD,Platanus,occidentalis,sycamore,0.61,
+313,10/19/16,6,LD,Acer,saccharinum,silver maple,0.51,
+314,10/19/16,6,LD,Acer,saccharinum,silver maple,0.71,
+315,10/19/16,6,LD,Cornus,drummondii,roughleaf dogwood,0.71,
+316,10/19/16,6,LD,Acer,saccharinum,silver maple,1.42,on strip
+317,10/19/16,6,LD,Acer,saccharinum,silver maple,0.72,
+318,10/19/16,6,LD,Acer,saccharinum,silver maple,0.77,
+319,10/19/16,6,LD,Acer,saccharinum,silver maple,0.7,
+320,10/19/16,6,LD/HD,Cornus,drummondii,roughleaf dogwood,1.26,
+321,10/19/16,6,LD/HD,Cornus,drummondii,roughleaf dogwood,0.7,
+322,10/19/16,6,LD/HD,Vitus,riparia,grape vine,-,
+323,10/19/16,6,LD,Acer,saccharinum,silver maple,0.98,
+324,10/19/16,6,HD,Acer,saccharinum,silver maple,0.76,
+325,10/19/16,6,HD,Acer,saccharinum,silver maple,0.58,
+326,10/19/16,6,LD,Acer,saccharinum,silver maple,0.65,on strip
+327,10/19/16,6,LD,Acer,saccharinum,silver maple,1.33,
+328,10/19/16,6,LD,Acer,saccharinum,silver maple,2.33,on strip
+329,10/19/16,6,LD,Acer,saccharinum,silver maple,0.87,
+330,10/19/16,6,LD,Cornus,drummondii,roughleaf dogwood,1.11,
+331,10/19/16,6,LD,Pyrus,calleryana,callery pear,2.23,
+332,10/19/16,6,LD,Pyrus,calleryana,callery pear,0.9,
+333,10/19/16,6,LD,,,,0.61,tree?? Same as 297
+334,10/19/16,6,LD/HD,Cornus,drummondii,roughleaf dogwood,0.94,
+335,10/19/16,6,HD,Platanus,occidentalis,sycamore,0.52,
+336,10/19/16,6,LD/HD,Fraxinus,pennsylvanica,green ash,0.98,
+337,10/19/16,6,HD,Acer,saccharinum,silver maple,0.52,
+338,10/19/16,6,HD,Cornus,drummondii,roughleaf dogwood,0.72,
+339,10/19/16,6,HD,Cornus,drummondii,roughleaf dogwood,0.63,
+340,10/19/16,6,HD,Cornus,drummondii,roughleaf dogwood,1.22,
+341,10/19/16,6,HD,Cornus,drummondii,roughleaf dogwood,0.75,
+342,10/19/16,6,HD,Cornus,drummondii,roughleaf dogwood,0.69,
+343,10/19/16,6,HD,Cornus,drummondii,roughleaf dogwood,0.52,
+344,10/19/16,6,LD,Cornus,drummondii,roughleaf dogwood,0.8,
+345,10/19/16,6,LD,Cornus,drummondii,roughleaf dogwood,0.52,
+346,10/19/16,6,LD,,,,0.7,"simple, alt., lobed and not, buds small brown, stem grey-red "
+347,10/19/16,6,LD,Cornus,drummondii,roughleaf dogwood,0.75,
+348,10/19/16,6,HD,Cornus,drummondii,roughleaf dogwood,1.04,
+349,10/19/16,6,HD,Cornus,drummondii,roughleaf dogwood,1.28,
+350,10/19/16,6,HD,Acer,saccharinum,silver maple,0.87,
+351,10/19/16,6,HD,Prunus,serotina,black cherry,1.05,
+352,10/19/16,6,HD,Acer,saccharinum,silver maple,0.74,
+353,10/19/16,6,HD,Acer,saccharinum,silver maple,0.55,
+354,10/19/16,6,LD/HD,Acer,saccharinum,silver maple,0.73,
+355,10/19/16,6,LD/HD,Cornus,drummondii,roughleaf dogwood,1.13,
+356,10/19/16,6,LD/HD,Acer,saccharinum,silver maple,1.35,
+357,10/19/16,6,LD,Acer,saccharinum,silver maple,0.64,
+358,10/19/16,6,LD,Cornus,drummondii,roughleaf dogwood,0.89,
+359,10/19/16,6,LD,Cornus,drummondii,roughleaf dogwood,1.06,
+360,10/19/16,6,LD,Pyrus,calleryana,callery pear,1,
+361,10/19/16,6,LD,Acer,saccharinum,silver maple,0.64,
+362,10/19/16,6,LD,Acer,saccharinum,silver maple,0.65,
+363,10/19/16,6,LD,Acer,saccharinum,silver maple,1.44,
+364,10/19/16,6,LD/HD,Acer,saccharinum,silver maple,0.57,
+365,10/19/16,6,HD,Acer,saccharinum,silver maple,0.51,
+366,10/19/16,6,HD,Pyrus,calleryana,callery pear,0.84,
+367,10/19/16,6,HD,Acer,saccharinum,silver maple,0.84,
+368,10/19/16,6,HD,Acer,saccharinum,silver maple,0.73,
+369,10/19/16,6,HD,Cornus,drummondii,roughleaf dogwood,1.26,
+370,10/19/16,6,HD,Pyrus,calleryana,callery pear,1.07,
+371,10/19/16,6,HD,Platanus,occidentalis,sycamore,0.5,
+372,10/19/16,6,HD,Acer,saccharinum,silver maple,0.6,
+373,10/19/16,6,LD,Acer,saccharinum,silver maple,0.81,next to cover plot
+374,10/19/16,6,LD,Pyrus,calleryana,callery pear,0.97,
+375,10/19/16,6,LD,Fraxinus,pennsylvanica,green ash,1.18,
+376,10/19/16,6,,,,,,not tall enough 
+377,10/19/16,6,LD,Cornus,drummondii,roughleaf dogwood,0.83,
+378,10/19/16,6,LD,Pyrus,calleryana,callery pear,0.65,
+379,10/19/16,6,LD,Cornus,drummondii,roughleaf dogwood,1.26,
+380,10/19/16,6,LD,Acer,saccharinum,silver maple,0.97,
+381,10/19/16,6,HD,Acer,saccharinum,silver maple,0.93,
+382,10/19/16,6,HD,Cornus,drummondii,roughleaf dogwood,1.18,
+383,10/19/16,6,LD,Pyrus,calleryana,callery pear,0.85,
+384,10/19/16,6,LD/HD,Vitus,riparia,grape vine,-,
+385,10/19/16,6,LD/HD,Acer,negundo,boxelder,1.28,
+386,10/19/16,6,LD/HD,Cornus,drummondii,roughleaf dogwood,1.27,
+387,10/19/16,6,LD/HD,Acer,saccharinum,silver maple,0.68,
+388,10/19/16,6,LD,Acer,saccharinum,silver maple,0.58,
+389,10/19/16,6,LD,Acer,saccharinum,silver maple,0.75,
+390,10/19/16,6,LD,Acer,saccharinum,silver maple,0.9,
+391,10/19/16,6,HD,Vitus,riparia,grape vine,-,
+392,10/19/16,6,LD/HD,Vitus,riparia,grape vine,-,
+393,10/19/16,6,LD,Pyrus,calleryana,callery pear,1.06,
+394,10/19/16,6,LD,Cornus,drummondii,roughleaf dogwood,0.67,
+395,10/19/16,6,LD,Pyrus,calleryana,callery pear,0.92,
+396,10/19/16,6,LD,Acer,saccharinum,silver maple,0.55,
+397,10/19/16,6,LD,Acer,saccharinum,silver maple,0.53,
+398,10/19/16,6,LD,Acer,saccharinum,silver maple,0.59,
+399,10/19/16,6,LD,Acer,saccharinum,silver maple,0.72,
+400,10/19/16,6,LD,Acer,saccharinum,silver maple,0.57,
+401,10/19/16,6,LD,Cercis,canadensis,redbud,0.6,???
+402,10/19/16,6,LD,,,,1.2,same as 346
+403,10/19/16,6,LD,Vitus,riparia,grape vine,-,
+404,10/19/16,6,LD,Acer,saccharinum,silver maple,0.61,
+405,10/19/16,6,LD,Cornus,drummondii,roughleaf dogwood,0.73,
+406,10/19/16,6,LD,Cornus,drummondii,roughleaf dogwood,0.65,
+407,10/19/16,6,LD,Cornus,drummondii,roughleaf dogwood,0.58,
+408,10/19/16,6,LD,Cornus,drummondii,roughleaf dogwood,0.53,
+409,10/19/16,6,LD,Cornus,drummondii,roughleaf dogwood,1.55,
+410,10/19/16,6,LD,Cornus,drummondii,roughleaf dogwood,0.95,
+411,10/19/16,6,LD,Acer,saccharinum,silver maple ,0.69,
+412,10/19/16,6,LD,Acer,saccharinum,silver maple ,0.65,on strip
+413,10/19/16,6,LD,Acer,saccharinum,silver maple ,0.68,
+414,10/19/16,6,LD,Acer,saccharinum,silver maple ,1.15,
+415,10/19/16,6,LD,Acer,saccharinum,silver maple ,0.79,
+416,10/19/16,6,LD,Acer,saccharinum,silver maple ,1.27,
+417,10/19/16,6,LD,Acer,saccharinum,silver maple ,0.55,
+418,10/19/16,6,LD,Fraxinus,pennsylvanica,green ash,0.77,
+419,10/19/16,6,LD,Platanus,occidentalis,sycamore,0.89,on strip
+420,10/19/16,6,LD,Platanus,occidentalis,sycamore,0.57,
+421,10/19/16,6,LD,Acer,saccharinum,silver maple ,0.71,
+422,10/19/16,6,LD,Pyrus,calleryana,callery pear,0.95,
+423,10/19/16,6,LD,Cornus,drummondii,roughleaf dogwood,1.62,
+424,10/19/16,6,LD,Cornus,drummondii,roughleaf dogwood,0.57,
+425,10/19/16,6,LD,Acer,saccharinum,silver maple,0.9,
+426,10/19/16,6,LD,Acer,saccharinum,silver maple,1.13,
+427,10/19/16,6,LD,Acer,saccharinum,silver maple,0.68,
+428,10/19/16,6,LD,Cornus,drummondii,roughleaf dogwood,1.18,
+429,10/19/16,6,LD,Acer,saccharinum,silver maple,0.82,
+430,10/19/16,6,LD,Pyrus,calleryana,callery pear,1.03,
+431,10/19/16,6,LD,Pyrus,calleryana,callery pear,1.06,
+432,10/19/16,6,LD,Acer,saccharinum,silver maple,0.52,
+433,10/19/16,6,LD,Pyrus,calleryana,callery pear,0.85,
+434,10/19/16,6,LD,Acer,saccharinum,silver maple,0.53,
+435,10/19/16,6,LD,,,,1.1,"tree? Opposite, not lobed, entire, rough, light b. buds"
+436,10/19/16,6,LD,Acer,saccharinum,silver maple,0.6,
+437,10/19/16,6,LD,Acer,saccharinum,silver maple,0.54,
+438,10/19/16,6,LD,Acer,saccharinum,silver maple,0.74,
+439,10/19/16,6,LD,Acer,saccharinum,silver maple,0.6,
+440,10/19/16,6,LD,Acer,saccharinum,silver maple,0.68,
+441,10/19/16,6,LD,,,,0.68,same as 297 service?
+442,10/19/16,6,LD,Cornus,drummondii,roughleaf dogwood,0.88,
+443,10/19/16,6,LD,,,,0.62,tree? Dogwood?
+444,10/19/16,6,LD,Acer,saccharinum,silver maple,0.7,
+445,10/19/16,6,LD,Acer,saccharinum,silver maple,0.5,
+446,10/19/16,6,LD,,,,,not tall
+447,10/19/16,6,LD,Acer,saccharinum,silver maple,0.84,
+448,10/19/16,6,LD,Acer,saccharinum,silver maple,0.53,
+449,10/19/16,6,LD,Acer,saccharinum,silver maple,1.1,
+450,10/19/16,6,LD,Acer,saccharinum,silver maple,0.66,
+451,10/19/16,6,LD,Pyrus,calleryana,callery pear,1.17,less red leaves?
+452,10/19/16,6,LD,Acer,saccharinum,silver maple,0.75,
+453,10/19/16,6,LD,Acer,saccharinum,silver maple,0.68,
+453b,10/23/16,7,LD,,,roughleaf dogwood?,0.68,
+454,10/23/16,7,LD,Pyrus,calleryana,callery pear,0.68,
+455,10/23/16,7,LD,Pyrus,calleryana,callery pear,0.74,
+456,10/23/16,7,LD,,,?,1.04,adult s. elm?
+457,10/23/16,7,LD,Ulmus,pumila,siberian elm,0.57,
+458,10/23/16,7,LD,Ulmus,pumila,siberian elm,1.11,check
+459,10/23/16,7,LD,Ulmus,pumila,siberian elm,0.81,check
+460,10/23/16,7,LD,Ulmus,pumila,siberian elm,0.62,
+461,10/23/16,7,LD,Ulmus,pumila,siberian elm,0.59,
+462,10/23/16,7,LD,Ulmus,pumila,siberian elm,0.72,
+463,10/23/16,7,LD,Ulmus,pumila,siberian elm,0.65,
+464,10/23/16,7,LD,Ulmus,pumila,siberian elm,0.74,
+465,10/23/16,7,LD,Ulmus,pumila,siberian elm,0.75,
+466,10/23/16,7,LD,Cornus,drummondii,roughleaf dogwood,1.16,same as 453
+467,10/23/16,7,LD,Ulmus,pumila,siberian elm,0.82,
+468,10/23/16,7,LD,Ulmus,pumila,siberian elm,0.63,
+469,10/23/16,7,LD,Ulmus,pumila,siberian elm,0.66,on strip
+470,10/23/16,7,LD,Ulmus,pumila,siberian elm,0.6,
+471,10/23/16,7,LD,Ulmus,pumila,siberian elm,0.68,
+472,10/23/16,7,LD,Ulmus,pumila,siberian elm,0.52,
+473,10/23/16,7,LD,Acer,saccharinum,silver maple,1.04,on strip
+474,10/23/16,7,LD,Ulmus,pumila,siberian elm,0.52,
+475,10/23/16,7,LD,Acer,saccharinum,silver maple,0.51,
+476,10/23/16,7,LD/HD,Vitus,riparia,grape vine,-,
+477,10/23/16,7,LD/HD,Vitus,riparia,grape vine,-,
+478,10/23/16,7,LD/HD,Vitus,riparia,grape vine,-,
+479,10/23/16,7,LD/HD,Vitus,riparia,grape vine,-,
+480,10/23/16,7,LD/HD,Fraxinus,pennsylvanica,green ash,0.84,
+481,10/23/16,7,LD/HD,Vitus,riparia,grape vine,-,
+482,10/23/16,7,LD,Pyrus,calleryana,callery pear,0.57,
+483,10/23/16,7,LD/HD,Fraxinus,pennsylvanica,green ash,0.62,no leaves/ buds
+484,10/23/16,7,LD,Pyrus,calleryana,callery pear,0.7,
+485,10/23/16,7,LD,Vitus,riparia,grape vine,-,on strip
+486,10/23/16,7,LD,Vitus,riparia,grape vine,-,on strip
+487,10/23/16,7,HD,Vitus,riparia,grape vine,-,
+488,10/23/16,7,HD,Acer,saccharinum,silver maple,0.96,
+489,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+490,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+491,10/23/16,7,LD,Acer,saccharinum,silver maple,0.74,
+492,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+493,10/23/16,7,LD,Pyrus,calleryana,callery pear,1.76,"not as red, fuzzy stems"
+494,10/23/16,7,LD,Pyrus,calleryana,callery pear,0.9,
+495,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+496,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+497,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+498,10/23/16,7,HD,Vitus,riparia,grape vine,-,
+499,10/23/16,7,HD,Vitus,riparia,grape vine,-,
+500,10/23/16,7,HD,Pyrus,calleryana,callery pear,1.3,waxier
+501,10/23/16,7,HD,Vitus,riparia,grape vine,-,
+502,10/23/16,7,LD/HD,Vitus,riparia,grape vine,-,
+503,10/23/16,7,LD/HD,,,raspberry,1.03,
+504,10/23/16,7,LD,Ulmus,pumila,siberian elm,0.68,
+505,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+506,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+507,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+508,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+509,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+510,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+511,10/23/16,7,LD,Morus,alba,white mulberry,1.86,dif. Leaves
+512,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+513,10/23/16,7,LD,Morus,alba,white mulberry,1.86,no leaves
+514,10/23/16,7,LD,Morus,alba,white mulberry,2.9,
+515,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+516,10/23/16,7,LD,Fraxinus,pennsylvanica,green ash,1.11,
+517,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+518,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+519,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+520,10/23/16,7,LD,,,,1.13,blue berries
+521,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+522,10/23/16,7,LD,,,,0.84,same as 453
+523,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+524,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+525,10/23/16,7,LD,Acer,saccharinum,silver maple,0.78,
+526,10/23/16,7,LD,Acer,saccharinum,silver maple,0.68,
+527,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+528,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+529,10/23/16,7,LD,Acer,saccharinum,silver maple,0.7,
+530,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+531,10/23/16,7,LD,Morus,alba,white mulberry,0.8,no leaves - one deeply lobed
+532,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+533,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+534,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+535,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+536,10/23/16,7,LD,Acer,saccharinum,silver maple,1.11,on strip
+537,10/23/16,7,LD,Vitus,riparia,grape vine,-,
+538,10/23/16,3,LD,Cornus,drummondii,roughleaf dogwood,0.82,"on strip/no leaves, red stems"
+539,10/23/16,3,LD,Platanus,occidentalis,sycamore,0.52,
+540,10/23/16,3,LD,Platanus,occidentalis,sycamore,0.75,on strip
+541,10/23/16,3,LD/HD,Acer,saccharinum,silver maple,0.58,
+542,10/23/16,3,LD/HD,Acer,saccharinum,silver maple,0.58,
+543,10/23/16,3,LD/HD,Acer,saccharinum,silver maple,1.28,
+544,10/23/16,3,HD,Acer,saccharinum,silver maple,0.57,
+545,10/23/16,3,LD,Acer,saccharinum,silver maple,0.52,
+546,10/23/16,3,LD,Pyrus,calleryana,callery pear,1.02,few leaves/redder than dogwood
+547,10/23/16,3,LD,Acer,saccharinum,silver maple,0.94,on strip
+548,10/23/16,3,LD,Pyrus,calleryana,callery pear,,"on strip, no leaves"
+549,10/23/16,3,HD,Vitus,riparia,grape vine,-,
+550,10/23/16,3,HD,Vitus,riparia,grape vine,-,
+551,10/23/16,3,HD,Vitus,riparia,grape vine,-,
+552,10/23/16,3,HD,Vitus,riparia,grape vine,-,
+553,10/23/16,3,HD,Acer,saccharinum,silver maple,1.19,
+554,10/23/16,3,LD,Cornus,drummondii,roughleaf dogwood,1.46,
+555,10/23/16,3,LD,Fraxinus,pennsylvanica,green ash,0.94,
+556,10/23/16,3,LD,Cornus,drummondii,roughleaf dogwood,0.85,
+557,10/23/16,3,HD,Vitus,riparia,grape vine,-,
+558,10/23/16,3,HD,Acer,saccharinum,silver maple,1.32,
+559,10/23/16,3,LD/HD,Acer,saccharinum,silver maple,0.57,
+560,10/23/16,3,LD,Vitus,riparia,grape vine,-,
+561,10/23/16,3,LD,Platanus,occidentalis,sycamore,1.3,on strip 
+562,10/23/16,3,LD,Vitus,riparia,grape vine,-,
+563,10/23/16,3,LD,Pyrus,calleryana,callery pear,0.67,
+564,10/23/16,3,LD,Acer,saccharinum,silver maple,0.73,
+565,10/23/16,3,LD,Cornus,drummondii,roughleaf dogwood,0.61,
+577,10/26/16,8,LD,Ulmus,pumila,siberian elm,0.68,darker
+578,10/26/16,8,LD,Ulmus,pumila,siberian elm,1.64,lighter
+579,10/26/16,8,LD,Ulmus,pumila,siberian elm,0.67,lighter
+580,10/26/16,8,LD,Vitus,riparia,grape vine,-,
+581,10/26/16,8,LD,Morus,alba,white mulberry,1.23,no leaves
+582,10/26/16,8,LD,Vitus,riparia,grape vine,0.79,
+583,10/26/16,8,LD,Acer,saccharinum,silver maple,0.76,
+584,10/26/16,8,LD,Platanus,occidentalis,sycamore,0.73,
+585,10/26/16,8,LD,Acer,saccharinum,silver maple,0.72,
+586,10/26/16,8,LD,Pyrus,calleryana,callery pear,1.16,red veins
+587,10/26/16,8,LD,Acer,saccharinum,silver maple,0.87,
+588,10/26/16,8,LD,Vitus,riparia,grape vine,-,
+589,10/26/16,8,LD,Ulmus,pumila,siberian elm,0.5,lighter
+590,10/26/16,8,LD,Acer,saccharinum,silver maple,0.96,
+591,10/26/16,8,LD,Morus,alba,white mulberry,0.69,deep lobes
+592,10/26/16,8,LD,Vitus,riparia,grape vine,-,
+593,10/26/16,8,LD,Cornus,drummondii,roughleaf dogwood,1.22,
+594,10/26/16,8,LD,Vitus,riparia,grape vine,-,
+595,10/26/16,8,LD,Acer,saccharinum,silver maple,0.68,
+596,10/26/16,8,LD,Vitus,riparia,grape vine,-,
+597,10/26/16,8,LD,,,,0.74,"opposite leaves, red stem, blunt edge"
+598,10/26/16,8,LD,Pyrus,calleryana,callery pear,1.01,red veins
+599,10/26/16,8,LD,Acer,saccharinum,silver maple,0.52,
+600,10/26/16,8,LD,Pyrus,calleryana,callery pear,0.56,598
+601,10/26/16,8,LD,Fraxinus,pennsylvanica,green ash,1.04,
+602,10/26/16,8,LD,Vitus,riparia,grape vine,-,
+603,10/26/16,8,LD,Vitus,riparia,grape vine,-,on strip
+604,10/26/16,8,LD,Ulmus,pumila,siberian elm,0.5,lighter but small
+605,10/26/16,8,LD,Ulmus,pumila,siberian elm,0.63,
+606,10/26/16,8,LD,,,tree?,0.62,one leaf
+607,10/26/16,8,LD,,,raspberry,0.99,
+608,10/26/16,8,HD,Cornus,drummondii,roughleaf dogwood,0.99,
+609,10/26/16,8,HD,Prunus,serotina,black cherry,1.01,
+610,10/26/16,8,LD/HD,Vitus,riparia,grape vine,-,
+611,10/26/16,8,LD,Vitus,riparia,grape vine,-,
+612,10/26/16,8,LD,Acer,saccharinum,silver maple,0.6,
+613,10/26/16,8,LD,Acer,saccharinum,silver maple,0.63,
+614,10/26/16,8,LD,Acer,saccharinum,silver maple,1.2,
+615,10/26/16,8,LD,Morus,alba,white mulberry,1.12,deeply lobed
+616,10/26/16,8,LD,Acer,saccharinum,silver maple,1.05,
+617,10/26/16,8,LD,Morus,alba,white mulberry,0.65,both leaves
+618,10/26/16,8,LD,Vitus,riparia,grape vine,-,
+619,10/26/16,8,,,,,,not tall enough
+620,10/26/16,8,LD/HD,Acer,saccharinum,silver maple,0.87,
+621,10/26/16,8,LD/HD,Acer,saccharinum,silver maple,2.22,
+622,10/26/16,8,LD/HD,Platanus,occidentalis,sycamore,2.54,
+623,10/26/16,8,LD/HD,Acer,saccharinum,silver maple,0.97,
+624,10/26/16,8,HD,Pyrus,calleryana,callery pear,0.67,red vein
+625,10/26/16,8,HD,Acer,negundo,boxelder,0.61,"white buds, red stem"
+626,10/26/16,8,HD,Pyrus,calleryana,callery pear,0.62,624
+627,10/26/16,8,LD/HD,Vitus,riparia,grape vine,-,
+628,10/26/16,8,LD/HD,Vitus,riparia,grape vine,-,
+629,10/26/16,8,LD/HD,Ulmus,pumila,siberian elm,1.3,"small, light/bent 1-stick"
+630,10/26/16,8,LD/HD,Pyrus,calleryana,callery pear,0.61,
+631,10/26/16,8,LD,Acer,saccharinum,silver maple,0.76,
+632,10/26/16,8,LD,Pyrus,calleryana,callery pear,1.04,not as red
+633,10/26/16,8,LD,Acer,saccharinum,silver maple,0.78,
+634,10/26/16,8,LD,Acer,saccharinum,silver maple,0.83,
+635,10/26/16,8,LD,Acer,saccharinum,silver maple,1.09,
+636,10/26/16,8,LD,Vitus,riparia,grape vine,-,
+637,10/26/16,8,LD,Morus,alba,white mulberry,1.26,"waxy grey/no leaves, on strip"
+638,10/26/16,8,LD,Acer,saccharinum,silver maple,1.27,on strip 
+639,10/26/16,8,LD,Vitus,riparia,grape vine,-,
+640,10/26/16,8,LD,Vitus,riparia,grape vine,-,
+641,10/26/16,8,LD,Vitus,riparia,grape vine,-,
+642,10/26/16,8,LD,Platanus,occidentalis,sycamore,1.55,
+643,10/26/16,8,LD,Morus,alba,white white mulberry,0.96,deeply lobed
+644,10/26/16,8,LD,Acer,saccharinum,silver maple,0.7,
+645,10/26/16,8,LD,Vitus,riparia,grape vine,-,
+646,10/26/16,8,LD,Vitus,riparia,grape vine,-,
+647,10/26/16,8,HD,Vitus,riparia,grape vine,-,
+648,10/26/16,8,HD,Vitus,riparia,grape vine,-,
+649,10/26/16,8,HD,Pyrus,calleryana,callery pear,0.58,not red
+650,10/26/16,8,LD,Ulmus,pumila,siberian elm,1.2,
+651,10/26/16,8,LD,,,raspberry,0.54,
+652,10/26/16,8,LD,Vitus,riparia,grape vine,-,
+653,10/26/16,8,LD,Vitus,riparia,grape vine,-,
+654,10/26/16,8,LD,Vitus,riparia,grape vine,-,on strip
+655,10/26/16,8,LD,Morus,alba,white white mulberry,0.82,both leaves
+656,10/26/16,8,LD,Morus,alba,white white mulberry,0.75,deep lobes - extra lobe
+657,10/26/16,8,LD,Vitus,riparia,grape vine,-,
+658,10/26/16,8,LD,Pyrus,calleryana,callery pear,0.89,red
+659,10/26/16,8,LD,Pyrus,calleryana,callery pear,1.8,stem not as red
+660,10/26/16,8,LD,Acer,saccharinum,silver maple,0.61,
+661,10/26/16,8,LD,Vitus,riparia,grape vine,-,
+662,10/26/16,8,LD,Morus,alba,white white mulberry,1.34,deep lobe
+663,10/26/16,8,LD,Pyrus,calleryana,callery pear,1.06,"red stems, not veins"
+664,10/26/16,8,LD,Platanus,occidentalis,sycamore,0.58,on strip 
+665,10/26/16,8,LD,Vitus,riparia,grape vine,-,on strip 
+666,10/26/16,8,LD,Acer,saccharinum,silver maple,0.87,
+667,10/26/16,8,LD,Cornus,drummondii,roughleaf dogwood,0.94,
+668,10/26/16,8,LD,Vitus,riparia,grape vine,-,
+669,10/26/16,8,LD,,,sycamore,1.37,
+670,10/26/16,8,LD,Cornus,stolonifera,red osier dogwood,,very red
+671,10/26/16,8,LD,Acer,saccharinum,silver maple,0.64,
+672,10/26/16,8,LD,Cornus,drummondii,roughleaf dogwood,0.69,
+673,,NA,,Morus,alba,white white mulberry,0.88,
