@@ -38,6 +38,24 @@ SeedlingData_Raw_Compiled$Genus <- gsub("Vitus? ", "Vitus", SeedlingData_Raw_Com
 SeedlingData_Raw_Compiled$Common.Name <- gsub("siberian elm?", "siberian elm", SeedlingData_Raw_Compiled$Common.Name)
 SeedlingData_Raw_Compiled$Common.Name <- gsub("mulberryerryberry?", "mulberry", SeedlingData_Raw_Compiled$Common.Name)
 SeedlingData_Raw_Compiled$Genus <- gsub("Vitus?", "Vitus", SeedlingData_Raw_Compiled$Genus)
+SeedlingData_Raw_Compiled$Common.Name <- gsub("black black cherry", "black cherry", SeedlingData_Raw_Compiled$Common.Name)
+SeedlingData_Raw_Compiled$Common.Name <- gsub("black cherry family", "cherry family", SeedlingData_Raw_Compiled$Common.Name)
+SeedlingData_Raw_Compiled$Common.Name <- gsub("mulberry?", "white mulberry", SeedlingData_Raw_Compiled$Common.Name)
+SeedlingData_Raw_Compiled$Common.Name <- gsub("roughleaf roughleaf dogwoodwood", "roughleaf dogwood", SeedlingData_Raw_Compiled$Common.Name)
+SeedlingData_Raw_Compiled$Common.Name <- gsub("callery pear/pyrus", "callery pear", SeedlingData_Raw_Compiled$Common.Name)
+SeedlingData_Raw_Compiled$Common.Name <- gsub("silver silver maple", "silver maple", SeedlingData_Raw_Compiled$Common.Name)
+SeedlingData_Raw_Compiled$Common.Name <- gsub("mulberryerry?", "white mulberry", SeedlingData_Raw_Compiled$Common.Name)
+SeedlingData_Raw_Compiled$Common.Name <- gsub("red mulberry", "white mulberry", SeedlingData_Raw_Compiled$Common.Name)
+SeedlingData_Raw_Compiled$Common.Name <- gsub("black cherry family", "cherry family", SeedlingData_Raw_Compiled$Common.Name)
+SeedlingData_Raw_Compiled$Common.Name <- gsub("mulberry", "white mulberry", SeedlingData_Raw_Compiled$Common.Name)
+SeedlingData_Raw_Compiled$Common.Name <- gsub("sycamore ", "sycamore", SeedlingData_Raw_Compiled$Common.Name)
+SeedlingData_Raw_Compiled$Common.Name <- gsub("unknown ", "unknown", SeedlingData_Raw_Compiled$Common.Name)
+SeedlingData_Raw_Compiled$Common.Name <- gsub("white white white mulberry", "white mulberry", SeedlingData_Raw_Compiled$Common.Name)
+SeedlingData_Raw_Compiled$Common.Name <- gsub("boxelder ", "boxelder", SeedlingData_Raw_Compiled$Common.Name)
+SeedlingData_Raw_Compiled$Common.Name <- gsub("red  white white mulberry?", "white mulberry", SeedlingData_Raw_Compiled$Common.Name)
+SeedlingData_Raw_Compiled$Treatment <- gsub("HD/LD", "LD/HD", SeedlingData_Raw_Compiled$Treatment)
+SeedlingData_Raw_Compiled$Treatment <- gsub("HD?", "HD", SeedlingData_Raw_Compiled$Treatment)
+SeedlingData_Raw_Compiled$Treatment <- gsub("", "LD/HD", SeedlingData_Raw_Compiled$Treatment)
 
 
 #for filling in columns 
@@ -45,10 +63,11 @@ SeedlingData_Raw_Compiled$Genus <- gsub("Vitus?", "Vitus", SeedlingData_Raw_Comp
 SeedlingData_Raw_Compiled$Genus<-as.character(SeedlingData_Raw_Compiled$Genus)
 SeedlingData_Raw_Compiled$Species<-as.character(SeedlingData_Raw_Compiled$Species)
 SeedlingData_Raw_Compiled$Date<-as.character(SeedlingData_Raw_Compiled$Date)
+SeedlingData_Raw_Compiled$Common.Name<-as.character(SeedlingData_Raw_Compiled$Common.Name)
 
 
-SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Common.Name=="silver maple"]<- "Acer"
-SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Common.Name== "silver maple"]<- "saccharinum"
+SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Common.Name=="silver maple "]<- "Acer"
+SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Common.Name== "silver maple "]<- "saccharinum"
 SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Common.Name== "roughleaf dogwood"]<- "Cornus"
 SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Common.Name== "roughleaf dogwood"]<- "drummondii"
 SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Common.Name== "black cherry"]<- "Prunus"
@@ -57,8 +76,8 @@ SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Common.Name== "grape v
 SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Common.Name== "grape vine"]<- "riparia"
 SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Common.Name== "green ash"]<- "Fraxinus"
 SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Common.Name== "green ash"]<- "pennsylvanica"
-SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Common.Name== "boxelder "]<- "Acer"
-SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Common.Name== "boxelder "]<- "negundo"
+SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Common.Name== "boxelder"]<- "Acer"
+SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Common.Name== "boxelder"]<- "negundo"
 SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Common.Name== "mulberry"]<- "Morus"
 SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Common.Name== "red mulberry"]<- "Morus"
 SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Common.Name== "white mulberry"]<- "Morus"
@@ -87,10 +106,15 @@ SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$Genus== "Prunus"
 SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Common.Name=="american elm"]<- "Ulmus"
 SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Common.Name== "american elm"]<- "americana"
 SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Common.Name== "red mulberry"]<- "Morus"
+SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$Species== "b. cherry"]<- "black cherry"
+SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Common.Name== "white mulberry"]<- "Morus"
+SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Species== "NA"]<- "alba"
+SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Genus== "Morus"]<- "alba"
+SeedlingData_Raw_Compiled$Date[SeedlingData_Raw_Compiled$ID== "99"]<- "10/13/2016"
 
 
 #fixing individual problems
-SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$ID== "493"]<- "callery pear"
+SeedlingData_Raw_Compiled$Date[SeedlingData_Raw_Compiled$Block== "8"]<- "10/26/2016"
 
 
 
@@ -101,8 +125,8 @@ SeedlingData_Raw_Compiled$Genus <- as.factor(SeedlingData_Raw_Compiled$Genus)
 levels(SeedlingData_Raw_Compiled$Genus)
 SeedlingData_Raw_Compiled$Species <- as.factor(SeedlingData_Raw_Compiled$Species)
 levels(SeedlingData_Raw_Compiled$Species)
-
-
+SeedlingData_Raw_Compiled$Treatment <- as.factor(SeedlingData_Raw_Compiled$Treatment)
+levels(SeedlingData_Raw_Compiled$Treatment)
 
 
 
