@@ -1,4 +1,23 @@
-# Analysis of height by diversity trt and herbivore trt
+# Oakridge woody encroachment project
+# Analysis of height by diversity trt and herbivore trt ##
+
+#### General notes about next steps ####
+#in munging script, add NA's for all blank cells (read.csv(file, na.strings=c("", "NA", "na")))
+#make decision about LD/edge, LD/HD, 
+
+#in raw data
+#figure out what white mulberry is. 
+#figure out seedling 155 (if no data, then put NA's all across)
+#distinguish between couldn't identify, and NA (meaning not a seedling to be included in study) in genus and species
+
+#how much area is in LD vs HD? (2x as much!)
+
+#########################
+#load libraries
+library(lsmeans)
+library(lme4)
+library(ggplot2)
+library(car)
 
 #load data
 setwd("Data/Tidy")
@@ -10,43 +29,23 @@ head(Seedling)
 summary(Seedling)
 Seedling$Height<-as.numeric(Seedling$Height)
 
-#in munging script, add NA's for all blank cells (read.csv(file, na.strings=c("", "NA", "na")))
-#make decision about LD/edge, LD/HD, 
+###### Data Exploration ############
 
-#in raw data
-#figure out what white mulberry is. 
-#figure out seedling 155 (if no data, then put NA's all across)
-#distinguish between couldn't identify, and NA (meaning not a seedling to be included in study) in genus and species
-
-#how much area is in LD vs HD? (2x as much!)
-
-#graphing###########
-#try to run a boxplot for Height vs Diversity and instead get 
-#"adding class "factor" to an invalid object" warning
+##a.  Outliers in Y / Outliers in X 
+#i.	plot response and predictors to check for outliers  (only with continuous data)
+#1.	Use Mydotplot or dotplot or boxplot, identify outliers
 
 hist(Seedling$Height, ylab = "Heights")
-#so switch to integer
-
 #above result in boxplot of heights, no outliers, skewed left(?), most heights short? 
 
 #separating by block, there are outliers in block 1 and 7 
-summary(boxplot(Seedling$Height..m.~Seedling$Block, ylab="Height (m)", xlab= "Block", main="Heights of Woody Stems"))
-
-install.packages("ggplot2")
-library(ggplot2)
+boxplot(Seedling$Height~Seedling$Block, ylab="Height (m)", xlab= "Block", main="Heights of Woody Stems")
 
 ggplot(Seedling, aes(Treatment, Height, color=Herbivory))+
   geom_boxplot() 
+
+with(Seedling[Seedling$Treatment=="LD"|Seedling$Treatment=="HD",], table(Treatment, Height))
   
-#fancy editing to make a herbivory category
-
-with(Seedling[Seedling$Treatment=="LD"|Seedling$Treatment=="HD",], table(Treatment, Height..m.))
-
-Seedling$Herbivory<-"NA"
-Seedling$Herbivory[Seedling$Block==5|Seedling$Block==6|Seedling$Block==7|Seedling$Block==8]<-"Exclosure"
-Seedling$Herbivory[Seedling$Block==1|Seedling$Block==2|Seedling$Block==3|Seedling$Block==4]<-"Open"
-Seedling$Herbivory<-as.factor(Seedling$Herbivory)
-
 #collinearity x, samples uneven - can't use anova, unequal sample sizes? 507 vs 152
 with(Seedling, table(Herbivory, Treatment))
 
@@ -60,6 +59,7 @@ ggplot(Seedling, aes(Treatment, Height..m., color=Herbivory))+
   geom_boxplot()+
   facet_grid(.~Date)
 with(Seedling, ftable(Herbivory, Treatment, Date))
+
 
 #*****************************ANALYSIS**************************
 
@@ -77,12 +77,6 @@ head(model.matrix(webmod1))
 
 
 #linear mixed model
-install.packages("lsmeans")
-library(lsmeans)
-library(lme4)
-library(ggplot2)
-install.packages("car")
-library(car)
 HeightMod <- lmer(Height..m. ~ Treatment * Herbivory + (1|Block), data=Seedling)
 #do i need to run this again for date
 summary(HeightMod)
