@@ -29,7 +29,6 @@ ggplot(sumseedling[!is.na(sumseedling$Treatment) & !is.na(sumseedling$herbexcl),
   facet_grid(Treatment~Genus)+
   theme_bw()
 
-
 #my go
 
 Seedling <- read.csv("SeedlingData_Tidy.csv", na.string=c("", "na", "NA"))
@@ -55,7 +54,7 @@ ggplot(sumSeedling[!is.na(sumSeedling$Treatment) & !is.na(sumSeedling$herbexcl),
   facet_grid(Treatment~Genus)+
   theme_bw()
 
-
+confint(sumSeedling)
 
 #barplots (using updated )
 head(Seedling)
