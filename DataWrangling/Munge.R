@@ -128,8 +128,10 @@ levels(SeedlingData_Raw_Compiled$Species)
 SeedlingData_Raw_Compiled$Treatment <- as.factor(SeedlingData_Raw_Compiled$Treatment)
 levels(SeedlingData_Raw_Compiled$Treatment)
 
-
-
+#adding NAs to SeedlingData_Tidy edited in Excel 
+write.csv(SeedlingData_Tidy, "SeedlingData_Tidy.CSV"")
+read.csv("SeedlingData_Tidy.csv", na.string=c("", "na", "NA"))
+#this did not work
 
 write.csv(SeedlingData_Raw_Compiled, "SeedlingData_Tidy.csv")
 
