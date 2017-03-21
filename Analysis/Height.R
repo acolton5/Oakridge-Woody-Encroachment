@@ -43,7 +43,6 @@ boxplot(Seedling$Height~Seedling$Block, ylab="Height (m)", xlab= "Block", main="
 
 ggplot(Seedling, aes(Treatment, Height, color=Herbivory))+
   geom_boxplot() 
-
 with(Seedling[Seedling$Treatment=="LD"|Seedling$Treatment=="HD",], table(Treatment, Height))
   
 #collinearity x, samples uneven - can't use anova, unequal sample sizes? 507 vs 152
