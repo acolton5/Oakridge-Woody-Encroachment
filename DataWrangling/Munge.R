@@ -1,10 +1,15 @@
 #Munging Script for SeedlingData_Raw_Compiled 
+library(dplyr)
+library(lubridate)
 
 SeedlingData_Raw_Compiled <- read.csv("Data/Raw/seedling_survey/SeedlingData_Raw_Compiled.csv", na.string=c("", "na", "NA"))
 
 SeedlingData_Raw_Compiled$Common.Name<-trimws(SeedlingData_Raw_Compiled$Common.Name)
 SeedlingData_Raw_Compiled$Common.Name<-tolower(SeedlingData_Raw_Compiled$Common.Name)
 levels(factor(SeedlingData_Raw_Compiled$Common.Name))
+
+names(SeedlingData_Raw_Compiled)[names(SeedlingData_Raw_Compiled)=="Height..m."] <- "height"
+SeedlingData_Raw_Compiled$height<-as.numeric(as.character(SeedlingData_Raw_Compiled$height))
 
 #clean up common names
 #data$column <- gsub("thing to be replaced", "what you want to replace it with", data$column)
@@ -130,6 +135,7 @@ SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Genus== "Morus"]<- "
 SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$Treatment=="HD/LD"]<- "LD/HD"
 SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$Treatment=="LD/H"]<- "LD/HD"
 SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$Treatment=="HD?"]<- "HD" #for now, assume all HD? are in HD
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$Treatment=="LD/edg"]<- "LD" #for now, assume all LD/edg are LD
 SeedlingData_Raw_Compiled$Treatment[is.na(SeedlingData_Raw_Compiled$Treatment)]<- "LD/HD"
 levels(factor(SeedlingData_Raw_Compiled$Treatment))
 #still need to sort out where LD/HD and HD? plants actually are (HD or LD)
@@ -361,7 +367,6 @@ SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$ID== "651"]<- "Rubus"
 SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$ID== "651"]<- "unknown"
 
 #fill in date and block for ID673
-SeedlingData_Raw_Compiled$Date[SeedlingData_Raw_Compiled$ID== "673"]<- "10/26/2016"
 SeedlingData_Raw_Compiled$Block[SeedlingData_Raw_Compiled$ID== "673"]<- "8"
 
 #filling in missing dates
@@ -382,15 +387,19 @@ SeedlingData_Raw_Compiled$Date[SeedlingData_Raw_Compiled$ID== "103"]<- "10/13/20
 SeedlingData_Raw_Compiled$Date[SeedlingData_Raw_Compiled$ID== "104"]<- "10/13/2016"
 SeedlingData_Raw_Compiled$Date[SeedlingData_Raw_Compiled$ID== "105"]<- "10/13/2016"
 
+SeedlingData_Raw_Compiled$Date[SeedlingData_Raw_Compiled$Block== "3"]<- "10/23/2016"
 SeedlingData_Raw_Compiled$Date[SeedlingData_Raw_Compiled$Block== "5"]<- "10/16/2016"
 SeedlingData_Raw_Compiled$Date[SeedlingData_Raw_Compiled$Block== "6"]<- "10/19/2016"
 SeedlingData_Raw_Compiled$Date[SeedlingData_Raw_Compiled$Block== "7"]<- "10/23/2016"
+SeedlingData_Raw_Compiled$Date[SeedlingData_Raw_Compiled$Block== "8"]<- "10/26/2016"
+SeedlingData_Raw_Compiled$Date<-mdy(SeedlingData_Raw_Compiled$Date)
 
 #fixing heights
-SeedlingData_Raw_Compiled$Height..m.[SeedlingData_Raw_Compiled$ID== "158"]<- "0.69"
-SeedlingData_Raw_Compiled$Date[SeedlingData_Raw_Compiled$ID== "222"]<- "1.81"
+SeedlingData_Raw_Compiled$height[SeedlingData_Raw_Compiled$ID== "158"]<- 0.69
+SeedlingData_Raw_Compiled$height[SeedlingData_Raw_Compiled$ID== "222"]<- 1.81
+SeedlingData_Raw_Compiled$height[SeedlingData_Raw_Compiled$ID== "51"]<- ""
 
-
+#get rid of LD/edg category
 
 #Check all levels to make sure data wrangling worked
 levels(factor(SeedlingData_Raw_Compiled$Common.Name))
