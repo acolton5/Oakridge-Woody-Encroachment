@@ -26,8 +26,8 @@ block6 <-c(66,1,23,0,0,2,0,15,1,1)
 block7 <-c(7,0,1,0,4,0,0,6,17,30)
 block8 <-c(19,0,1,0,10,3,0,7,8,23)
 
-
-
+library(vegan)
+diversity(SeedlingData_Tidy, index = "shannon", MARGIN = 1, base = exp(1))
 
 
 
