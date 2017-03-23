@@ -28,8 +28,8 @@ summary(Seedling$height)
 ##a.  Outliers in Y / Outliers in X 
 #i.	plot response and predictors to check for outliers  (only with continuous data)
 #1.	Use Mydotplot or dotplot or boxplot, identify outliers
-dotchart(Seedling$height)
-hist(Seedling$height, ylab = "heights")
+dotchart(Seedling$height, xlab="Height (cm)", main = "Seedling Heights Again")
+hist(Seedling$height, ylab = "Number of Individuals", xlab= "Height (cm)", main = "Seedling Heights")
 #above result in boxplot of heights, no outliers, skewed left(?), most heights short? 
 
 #separating by block - definite pattern of tallest individuals being in blocks 5-8. Lot more variance in exclosure than open. 
