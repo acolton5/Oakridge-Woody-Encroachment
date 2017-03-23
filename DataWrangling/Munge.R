@@ -323,7 +323,7 @@ SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$ID== "443"]<- "unkno
 
 #fill in genus/species for ID453b
 SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$ID== "453b"]<- "roughleaf dogwood"
-SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$ID== "453b"]<- "cornus"
+SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$ID== "453b"]<- "Cornus"
 SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$ID== "453b"]<- "drummondii"
 
 #fill in genus/species for ID456
