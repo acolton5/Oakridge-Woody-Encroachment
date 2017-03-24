@@ -398,7 +398,7 @@ SeedlingData_Raw_Compiled$height[SeedlingData_Raw_Compiled$ID== "51"]<- ""
 #get rid of LD/edg category
 
 #remove rows where the seedlings were not tall enough (i.e. NA in genus)
-SeedlingData_Raw_Compiled2<-SeedlingData_Raw_Compiled[is.na(SeedlingData_Raw_Compiled$Genus),]
+SeedlingData_Raw_Compiled<-SeedlingData_Raw_Compiled[!is.na(SeedlingData_Raw_Compiled$Genus),]
 
 #Check all levels to make sure data wrangling worked
 levels(factor(SeedlingData_Raw_Compiled$Common.Name))
