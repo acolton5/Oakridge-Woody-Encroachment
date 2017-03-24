@@ -44,10 +44,13 @@ SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$Common.Name== "m
 #pay attention to "black cherry family" change for unknown cherries
 SeedlingData_Raw_Compiled$Common.Name <- gsub("b.cherry", "black cherry", SeedlingData_Raw_Compiled$Common.Name)
 SeedlingData_Raw_Compiled$Common.Name <- gsub("b. cherry", "black cherry", SeedlingData_Raw_Compiled$Common.Name)
-SeedlingData_Raw_Compiled$Common.Name <- gsub("black cherry family", "cherry family", SeedlingData_Raw_Compiled$Common.Name)
+SeedlingData_Raw_Compiled$Common.Name <- gsub("black cherry family", "black cherry", SeedlingData_Raw_Compiled$Common.Name)
+SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$Common.Name== "cherry"]<- "black cherry"
+SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$Genus== "Prunus"]<- "black cherry"
+SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$Species== "b. cherry"]<- "black cherry"
+SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Species== "b. cherry"]<- "serotina"
 
 SeedlingData_Raw_Compiled$Common.Name <- gsub("callery pear/pyrus", "callery pear", SeedlingData_Raw_Compiled$Common.Name)
-
 
 #clean up genus and species names
 
@@ -64,12 +67,9 @@ SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Species== "s. maple"
 SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$Species== "s. maple"]<- "silver maple"
 SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Genus== "s. maple"]<- "Acer"
 
-
-SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$Common.Name== "cherry"]<- "black cherry"
 SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Common.Name== "black cherry"]<- "Prunus"
 SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Common.Name== "black cherry"]<- "serotina"
 SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Genus== "cherry?"]<- "Prunus"
-
 
 SeedlingData_Raw_Compiled$Genus <- gsub("vitus", "Vitus", SeedlingData_Raw_Compiled$Genus)
 SeedlingData_Raw_Compiled$Genus <- gsub("Vitus? ", "Vitus", SeedlingData_Raw_Compiled$Genus)
@@ -117,10 +117,6 @@ SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Common.Name=="siberi
 
 SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Common.Name== "redbud"]<- "Cercis"
 SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Common.Name== "redbud"]<- "canadensis"
-
-SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$Genus== "Prunus"]<- "black cherry"
-SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$Species== "b. cherry"]<- "black cherry"
-SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Species== "b. cherry"]<- "serotina"
 
 SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Common.Name=="american elm"]<- "Ulmus"
 SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Common.Name== "american elm"]<- "americana"
@@ -400,6 +396,9 @@ SeedlingData_Raw_Compiled$height[SeedlingData_Raw_Compiled$ID== "222"]<- 1.81
 SeedlingData_Raw_Compiled$height[SeedlingData_Raw_Compiled$ID== "51"]<- ""
 
 #get rid of LD/edg category
+
+#remove rows where the seedlings were not tall enough (i.e. NA in genus)
+SeedlingData_Raw_Compiled2<-SeedlingData_Raw_Compiled[is.na(SeedlingData_Raw_Compiled$Genus),]
 
 #Check all levels to make sure data wrangling worked
 levels(factor(SeedlingData_Raw_Compiled$Common.Name))
