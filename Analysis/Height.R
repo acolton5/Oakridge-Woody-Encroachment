@@ -66,13 +66,24 @@ summary(webmod2)
 anova(webmod2)
 confint(webmod2)
 
+<<<<<<< HEAD
 head(model.matrix(webmod2))
 
+=======
+>>>>>>> d6652ab9f1836908d4342c3f46849d57771a6d40
 
 #linear mixed model
 heightMod <- lmer(height ~ Treatment * Herbivory + (1|Block), data=Seedling)
-#do i need to run this again for date
 summary(heightMod)
 coef(summary(heightMod))
 confint(heightMod)
 
+<<<<<<< HEAD
+=======
+
+#some extra munge (move to munging code, not analysis)
+SeedlingData_Tidy$Treatment[SeedlingData_Tidy$ID == "80"]<- "LD"
+SeedlingData_Tidy$Date[SeedlingData_Tidy$ID == "673"] <- "10/26/2016"
+  #changing info for 673 but I'm not actually sure if it's right - have to check GPS
+
+>>>>>>> d6652ab9f1836908d4342c3f46849d57771a6d40
