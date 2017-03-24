@@ -1,8 +1,10 @@
 #*****************ANALYSIS FOR ABUNDANCE********************
 
-boxplot(Seedling$ID, ylab = "Heights")
+boxplot(SeedlingData_Tidy$ID, ylab = "Heights")
 Seedling$ID <- as.integer(Seedling$ID)
 boxplot(Seedling$ID~Seedling$Block)
+
+class(SeedlingData_Tidy$ID)
 
 with(Seedling, table(Block))
 barplot(table(Seedling$Block))
@@ -11,8 +13,20 @@ library(lsmeans)
 library(lme4)
 library(ggplot2)
 library(car)
+
+#using mixed linear model
 AbunMod <- lmer(Block ~ Treatment * Herbivory + (1|Date), data=Seedling)
 summary(AbunMod)
+
+AbunMod2 <- lmer(Individuals ~ Treatment * Herbivory + (1|Block), data=Treatment2)
+summary(AbunMod2)
+
+
+#using a general mixed linear model - curtesy of CRay
+AbunMod2_glm <- glmer(Individuals ~ Treatment * Herbivory + (1|Block), data=Treatment2, family = poisson(log))
+
+AbunMod2_glm <- glmer(Individuals ~ Treatment + (1|Block), data=Treatment2, family = poisson(log))
+
 
 #Using simple anova from bats
 t.test(Individuals~Herbivory, data=Abundance)
@@ -27,16 +41,16 @@ with(Seedling, table(Block, Treatment))
 
 #Herbivory vs LD use TreatmentLD
 t.test(Individuals~Herbivory, data=Treatment2)
-aov(Individuals~Herbivory, data=TreatmentLD)
+aov(Individuals~Herbivory, data=Treatment2)
 
 
 #Herbivory vs use TreatmentHD
 t.test(Individuals~Herbivory, data=Treatment2)
-aov(Individuals~Herbivory, data=TreatmentHD)
+aov(Individuals~Herbivory, data=Treatment2)
 
 #LD vs HD use Treatment
 t.test(Individuals~Herbivory, data=Treatment2)
-aov(Individuals~Treatment, data=Treatment)
+aov(Individuals~Treatment, data=Treatment2)
  
 
 #Trying it all with a linear mixed model
