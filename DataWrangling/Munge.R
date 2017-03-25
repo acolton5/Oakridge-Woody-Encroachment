@@ -45,6 +45,9 @@ SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$Common.Name== "m
 SeedlingData_Raw_Compiled$Common.Name <- gsub("b.cherry", "black cherry", SeedlingData_Raw_Compiled$Common.Name)
 SeedlingData_Raw_Compiled$Common.Name <- gsub("b. cherry", "black cherry", SeedlingData_Raw_Compiled$Common.Name)
 SeedlingData_Raw_Compiled$Common.Name <- gsub("black cherry family", "cherry family", SeedlingData_Raw_Compiled$Common.Name)
+SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$Common.Name== "cherry"]<- "black cherry"
+SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$Genus== "Prunus"]<- "black cherry"
+SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$Species== "b. cherry"]<- "black cherry"
 
 SeedlingData_Raw_Compiled$Common.Name <- gsub("callery pear/pyrus", "callery pear", SeedlingData_Raw_Compiled$Common.Name)
 
@@ -64,12 +67,9 @@ SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Species== "s. maple"
 SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$Species== "s. maple"]<- "silver maple"
 SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Genus== "s. maple"]<- "Acer"
 
-
-SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$Common.Name== "cherry"]<- "black cherry"
 SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Common.Name== "black cherry"]<- "Prunus"
 SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Common.Name== "black cherry"]<- "serotina"
 SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Genus== "cherry?"]<- "Prunus"
-
 
 SeedlingData_Raw_Compiled$Genus <- gsub("vitus", "Vitus", SeedlingData_Raw_Compiled$Genus)
 SeedlingData_Raw_Compiled$Genus <- gsub("Vitus? ", "Vitus", SeedlingData_Raw_Compiled$Genus)
@@ -118,8 +118,6 @@ SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Common.Name=="siberi
 SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Common.Name== "redbud"]<- "Cercis"
 SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Common.Name== "redbud"]<- "canadensis"
 
-SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$Genus== "Prunus"]<- "black cherry"
-SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$Species== "b. cherry"]<- "black cherry"
 SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Species== "b. cherry"]<- "serotina"
 
 SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Common.Name=="american elm"]<- "Ulmus"
@@ -139,13 +137,6 @@ SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$Treatment=="LD/edg
 SeedlingData_Raw_Compiled$Treatment[is.na(SeedlingData_Raw_Compiled$Treatment)]<- "LD/HD"
 levels(factor(SeedlingData_Raw_Compiled$Treatment))
 #still need to sort out where LD/HD and HD? plants actually are (HD or LD)
-
-#####Make a herbivory category##########
-SeedlingData_Raw_Compiled$Herbivory<-"NA"
-SeedlingData_Raw_Compiled$Herbivory[SeedlingData_Raw_Compiled$Block==5|SeedlingData_Raw_Compiled$Block==6|SeedlingData_Raw_Compiled$Block==7|SeedlingData_Raw_Compiled$Block==8]<-"Exclosure"
-SeedlingData_Raw_Compiled$Herbivory[SeedlingData_Raw_Compiled$Block==1|SeedlingData_Raw_Compiled$Block==2|SeedlingData_Raw_Compiled$Block==3|SeedlingData_Raw_Compiled$Block==4]<-"Open"
-SeedlingData_Raw_Compiled$Herbivory<-as.factor(SeedlingData_Raw_Compiled$Herbivory)
-levels(SeedlingData_Raw_Compiled$Herbivory)
 
 ####### fixing individual problems ######
 
@@ -367,7 +358,7 @@ SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$ID== "651"]<- "Rubus"
 SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$ID== "651"]<- "unknown"
 
 #fill in date and block for ID673
-SeedlingData_Raw_Compiled$Block[SeedlingData_Raw_Compiled$ID== "673"]<- "8"
+SeedlingData_Raw_Compiled$Block[SeedlingData_Raw_Compiled$ID== "673"]<- 8
 
 #filling in missing dates
 SeedlingData_Raw_Compiled$Date[SeedlingData_Raw_Compiled$Block== "2"]<- "10/12/2016"
@@ -394,12 +385,28 @@ SeedlingData_Raw_Compiled$Date[SeedlingData_Raw_Compiled$Block== "7"]<- "10/23/2
 SeedlingData_Raw_Compiled$Date[SeedlingData_Raw_Compiled$Block== "8"]<- "10/26/2016"
 SeedlingData_Raw_Compiled$Date<-mdy(SeedlingData_Raw_Compiled$Date)
 
+#####Make a herbivory category##########
+SeedlingData_Raw_Compiled$Herbivory<-"NA"
+
+SeedlingData_Raw_Compiled$Herbivory[SeedlingData_Raw_Compiled$Block==5|SeedlingData_Raw_Compiled$Block==6|SeedlingData_Raw_Compiled$Block==7|SeedlingData_Raw_Compiled$Block==8]<-"Exclosure"
+
+SeedlingData_Raw_Compiled$Herbivory[SeedlingData_Raw_Compiled$Block==1|SeedlingData_Raw_Compiled$Block==2|SeedlingData_Raw_Compiled$Block==3|SeedlingData_Raw_Compiled$Block==4]<-"Open"
+
+SeedlingData_Raw_Compiled$Herbivory<-as.factor(SeedlingData_Raw_Compiled$Herbivory)
+levels(SeedlingData_Raw_Compiled$Herbivory)
+
 #fixing heights
 SeedlingData_Raw_Compiled$height[SeedlingData_Raw_Compiled$ID== "158"]<- 0.69
 SeedlingData_Raw_Compiled$height[SeedlingData_Raw_Compiled$ID== "222"]<- 1.81
 SeedlingData_Raw_Compiled$height[SeedlingData_Raw_Compiled$ID== "51"]<- ""
 
-#get rid of LD/edg category
+#get rid of the ones that are not trees
+SeedlingData_Raw_Compiled[is.na(SeedlingData_Raw_Compiled$Genus),] #there are 6 rows in this situation
+SeedlingData_Raw_Compiled<-SeedlingData_Raw_Compiled[!is.na(SeedlingData_Raw_Compiled$Genus),] #removes ones that don't have a genus, which are those that aren't trees. 
+
+#just checking to see which ones are missing height - doesn't remove anything
+SeedlingData_Raw_Compiled[is.na(SeedlingData_Raw_Compiled$height),] #mostly grape vines... 
+SeedlingData_Raw_Compiled[is.na(SeedlingData_Raw_Compiled$Species),] #one prunus with an unknown spp 
 
 #Check all levels to make sure data wrangling worked
 levels(factor(SeedlingData_Raw_Compiled$Common.Name))
@@ -407,6 +414,8 @@ levels(factor(SeedlingData_Raw_Compiled$Genus))
 levels(factor(SeedlingData_Raw_Compiled$Species))
 levels(factor(SeedlingData_Raw_Compiled$Treatment))
 levels(factor(SeedlingData_Raw_Compiled$Herbivory))
+levels(factor(SeedlingData_Raw_Compiled$Block))
+levels(factor(SeedlingData_Raw_Compiled$Date))
 
 missingdata<-SeedlingData_Raw_Compiled[is.na(SeedlingData_Raw_Compiled$Genus),]
 
