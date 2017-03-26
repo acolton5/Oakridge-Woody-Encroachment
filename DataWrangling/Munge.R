@@ -408,6 +408,9 @@ SeedlingData_Raw_Compiled<-SeedlingData_Raw_Compiled[!is.na(SeedlingData_Raw_Com
 SeedlingData_Raw_Compiled[is.na(SeedlingData_Raw_Compiled$height),] #mostly grape vines... 
 SeedlingData_Raw_Compiled[is.na(SeedlingData_Raw_Compiled$Species),] #one prunus with an unknown spp 
 
+#Make a column for Genus+spp
+SeedlingData_Raw_Compiled$GenSp<-paste(SeedlingData_Raw_Compiled$Genus, SeedlingData_Raw_Compiled$Species)
+
 #Check all levels to make sure data wrangling worked
 levels(factor(SeedlingData_Raw_Compiled$Common.Name))
 levels(factor(SeedlingData_Raw_Compiled$Genus)) 
