@@ -28,7 +28,7 @@ ggplot(sumseedling_gen, aes(Treatment, total, color=Herbivory))+
 #need to adjust for abundance of low vs high diversity area still. 
 AbunMod <- glm(total ~ Treatment * Herbivory, family=poisson, data=sumseedling)
 summary(AbunMod)
-confint (AbunMod)
+confint (AbunMod) #interaction is significant
 
 #Model validation
 #A. Look at homogeneity: plot fitted values vs residuals
@@ -62,7 +62,9 @@ plot(x=sumseedling$Treatment, y=E1) #heterogeneity in residuals wrt Diversity tr
 plot(x=sumseedling$Block, y=E1) #residual variance in random effects
 
 #D. Look at normality of residuals: histogram
-hist(E1) #look more normal when height is logged than on original scale
+hist(E1) #
+
+#use lsmeans to test which combinations are significant. 
 
 ##########################
 #######graph it! ##############
