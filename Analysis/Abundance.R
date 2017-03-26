@@ -4,6 +4,7 @@ library(lme4)
 library(ggplot2)
 library(lsmeans)
 library(car)
+library(plyr)
 
 #load data
 Seedling <- read.csv("Data/Tidy/SeedlingData_Tidy.csv", na.strings=c("", "NA", ""))
@@ -22,7 +23,9 @@ ggplot(sumseedling_gen, aes(Treatment, total, color=Herbivory))+
   geom_boxplot()+
   facet_grid(.~Genus)
 
+###### Analysis ##########
 #using mixed linear model
+#need to adjust for abundance of low vs high diversity area still. 
 AbunMod <- glm(total ~ Treatment * Herbivory, family=poisson, data=sumseedling)
 summary(AbunMod)
 confint (AbunMod)
@@ -61,21 +64,21 @@ plot(x=sumseedling$Block, y=E1) #residual variance in random effects
 #D. Look at normality of residuals: histogram
 hist(E1) #look more normal when height is logged than on original scale
 
-#graph it!
-
+##########################
+#######graph it! ##############
 sumseedling <- ddply(sumseedling, c("Herbivory", "Treatment"), summarise,
                N    = length(total),
                mean = mean(total),
                sd   = sd(total),
                se   = sd / sqrt(N))
-
+ 
 group.colors <- c("HD"="#E69F00", "LD"="#D55E00FF", "LD/HD"="#F0E442") #need to change these
-
+ 
 ggplot(sumseedling, aes(Herbivory, mean, color=Treatment))+
-  geom_point(stat="identity", position=position_dodge(width=0.4))+
-  geom_errorbar(aes(ymin=mean-se, ymax=mean+se), width=0.2, position=position_dodge(width=0.4))+
-  scale_color_manual(name="Diversity Treatment", labels=c("High Diversity", "Low Diversity", "High/Low"), values=group.colors)+
+  geom_point(stat="identity", position=position_dodge(width=0.4))+  geom_errorbar(aes(ymin=mean-se, ymax=mean+se), width=0.2, position=position_dodge(width=0.4))+
+ scale_color_manual(name="Diversity Treatment", labels=c("High Diversity", "Low Diversity", "High/Low"), values=group.colors)+
   ylab("Number of Seedlings")+
-  theme_classic()
+ theme_classic()
 
+ 
 ggsave("Graphics/NumberOfSeedlings_figure.png")
