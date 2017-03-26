@@ -11,10 +11,6 @@ str (seedling)
 #explore data 
 with(seedling[seedling$Treatment=="LD"|seedling$Treatment=="HD",], table(Treatment, Genus))
 
-seedling$Herbivory<-"NA"
-seedling$Herbivory[seedling$Block==5|seedling$Block==6|seedling$Block==7|seedling$Block==8]<-"excl"
-seedling$Herbivory[seedling$Block==1|seedling$Block==2|seedling$Block==3|seedling$Block==4]<-"open"
-
 with(seedling[seedling$Treatment=="LD"|seedling$Treatment=="HD",], ftable(Herbivory, Treatment, Genus))
 
 sumseedling<-ddply(seedling[seedling$Treatment=="LD"|seedling$Treatment=="HD"& !is.na(seedling$Herbivory),], .(Block, Treatment, Herbivory, Genus), summarize, total=length(Genus))
@@ -39,10 +35,6 @@ Seedling <- read.csv("SeedlingData_Tidy.csv", na.string=c("", "na", "NA"))
 str (seedling)
 
 with(Seedling[Seedling$Treatment=="LD"|Seedling$Treatment=="HD",], table(Treatment, Genus))
-
-Seedling$Herbivory<-"NA"
-Seedling$Herbivory[Seedling$Block==5|Seedling$Block==6|Seedling$Block==7|Seedling$Block==8]<-"excl"
-Seedling$Herbivory[Seedling$Block==1|Seedling$Block==2|Seedling$Block==3|Seedling$Block==4]<-"open"
 
 with(Seedling[Seedling$Treatment=="LD"|Seedling$Treatment=="HD",], ftable(Herbivory, Treatment, Genus))
 
@@ -70,12 +62,4 @@ Table1 <- table(Seedling$Block, Seedling$Genus)
 barplot(Table1, beside = T, legend.text = T)
 barplot(Table1, beside = T, main = "Number of Species per Block", xlab= "Species", ylab= "Count", 
         col=c(1,2,3,4,5,6,7,8))
-
-#Modeling
-library(lme4)
-library(ggplot2)
-install.packages("car")
-library(car)
-install.packages("lsmeans")
-library(lsmeans)
 
