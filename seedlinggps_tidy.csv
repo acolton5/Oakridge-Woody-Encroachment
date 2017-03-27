@@ -1,0 +1,658 @@
+"","X","ID","Date","Block","Treatment","Genus","Species","Common.Name","height","Notes","Herbivory","GenSp","Longitude","Latitude","Altitude","Easting","Northing","ID.y","PDOP","HDOP"
+"1",1,1,"2016-10-08",4,"LD","Acer","saccharinum","silver maple",0.55,NA,"Open","Acer saccharinum",-93.66519887,42.03505813,270.067,444939.93,4653882.719,"57",3.6,1.8
+"2",2,109,"2016-10-08",4,"LD","Acer","saccharinum","silver maple",0.55,NA,"Open","Acer saccharinum",-93.66472627,42.03467796,274.641,444978.722,4653840.205,"152",4.1,1.8
+"3",3,220,"2016-10-08",4,"LD","Acer","saccharinum","silver maple",0.84,"some herb. Deer","Open","Acer saccharinum",-93.66508937,42.03462269,273.022,444948.619,4653834.302,"25",7.6,4.3
+"4",4,330,"2016-10-08",4,"LD","Acer","saccharinum","silver maple",0.55,NA,"Open","Acer saccharinum",-93.66444665,42.03520069,271.589,445002.317,4653898.065,"556",16,8.7
+"5",5,441,"2016-10-08",4,"LD","Acer","saccharinum","silver maple",0.995,NA,"Open","Acer saccharinum",-93.66433202,42.03470353,273.983,445011.376,4653842.791,"293",2.1,1.1
+"6",6,541,"2016-10-08",4,"LD","Acer","saccharinum","silver maple",0.61,NA,"Open","Acer saccharinum",-93.66413767,42.03469912,273.312,445027.46,4653842.176,"393",3.5,2.2
+"7",7,625,"2016-10-08",4,"LD","Acer","saccharinum","silver maple",1.34,"deer herb.","Open","Acer saccharinum",-93.6638795,42.03540211,271.472,445049.435,4653920.064,"477",3.3,1.6
+"8",8,636,"2016-10-08",4,"LD","Cornus","drummondii","roughleaf dogwood",0.6,"unknown - leaves entire, rough, opposite, long leaves, browny-red, not glaborous ","Open","Cornus drummondii",-93.66390187,42.03536014,272.541,445047.547,4653915.418,"488",3.9,2.8
+"9",9,647,"2016-10-08",4,"LD","Crataegus","unknown","hawthorn",1.04,"pics 1,2","Open","Crataegus unknown",-93.66394062,42.03535519,272.03,445044.336,4653914.893,"498",15.7,8.4
+"10",11,12,"2016-10-08",4,"LD","Acer","saccharinum","silver maple",0.51,NA,"Open","Acer saccharinum",-93.6651209,42.03512925,271.687,444946.446,4653890.566,"68",2.2,1.3
+"11",12,23,"2016-10-08",4,"LD","Cornus","drummondii","roughleaf dogwood",1.11,"same as 8","Open","Cornus drummondii",-93.66509965,42.03500003,271.64,444948.093,4653876.205,"79",2.8,1.5
+"12",13,34,"2016-10-08",4,"LD","Prunus","serotina","black cherry",0.84,"black cherry - orange hairs on midvein, black nodules ","Open","Prunus serotina",-93.66504978,42.03501348,270.773,444952.233,4653877.666,"89",2.2,1.2
+"13",14,45,"2016-10-08",4,"LD","Prunus","serotina","black cherry",0.63,NA,"Open","Prunus serotina",-93.66479373,42.03527307,272.345,444973.651,4653906.323,"99",2.6,1.6
+"14",15,56,"2016-10-08",4,"LD","Prunus","serotina","black cherry",0.5,NA,"Open","Prunus serotina",NA,NA,NA,NA,NA,NA,NA,NA
+"15",16,66,"2016-10-08",4,"LD","Prunus","serotina","black cherry",0.63,NA,"Open","Prunus serotina",-93.66495764,42.03532957,271.13,444960.132,4653912.702,"109",2.5,1.6
+"16",17,76,"2016-10-08",4,"LD","Prunus","serotina","black cherry",0.68,NA,"Open","Prunus serotina",-93.66505199,42.03550487,269.742,444952.474,4653932.226,"119",4.3,2.2
+"17",18,87,"2016-10-08",4,"LD","Prunus","serotina","black cherry",0.69,NA,"Open","Prunus serotina",-93.66479749,42.03482759,273.921,444972.955,4653856.864,"130",2.2,1.2
+"18",19,98,"2016-10-08",4,"LD","Prunus","serotina","black cherry",0.9,NA,"Open","Prunus serotina",-93.66476583,42.03471274,274.318,444975.477,4653844.092,"141",2.5,1.3
+"19",20,110,"2016-10-08",4,"LD","Prunus","serotina","black cherry",0.56,NA,"Open","Prunus serotina",-93.66471403,42.0347175,274.866,444979.769,4653844.588,"153",4.2,1.9
+"20",21,121,"2016-10-08",4,"HD","Prunus","serotina","black cherry",0.84,"probs in HD","Open","Prunus serotina",-93.6646906,42.03478677,273.259,444981.768,4653852.263,"164",4,1.9
+"21",22,132,"2016-10-08",4,"HD","Vitus","riparia","grape vine",NA,"grape vine","Open","Vitus riparia",-93.66467145,42.03466798,273.23,444983.25,4653839.061,"176",4.2,2.1
+"22",23,143,"2016-10-08",4,"LD","Acer","saccharinum","silver maple",0.5,NA,"Open","Acer saccharinum",-93.66461153,42.03472517,274.679,444988.259,4653845.373,"187",3.4,1.8
+"23",24,154,"2016-10-08",4,"LD","Fraxinus","pennsylvanica","green ash",0.7,"strip - right outside","Open","Fraxinus pennsylvanica",-93.66456243,42.03463807,273.92,444992.248,4653835.671,"198",2.5,1.3
+"24",25,165,"2016-10-08",4,"LD","Cornus","drummondii","roughleaf dogwood",0.69,"edge - same as 8","Open","Cornus drummondii",-93.66458797,42.03476454,273.984,444990.244,4653849.729,"209",2.5,1.2
+"25",26,176,"2016-10-08",4,"LD","Fraxinus","pennsylvanica","green ash",0.51,"edge - same as 8","Open","Fraxinus pennsylvanica",-93.66452615,42.03484294,273.772,444995.428,4653858.394,"221",2.7,1.3
+"26",27,187,"2016-10-08",4,"HD","Pyrus","calleryana","callery pear",0.58,"or prunus, but no glands. Picture - 11.30 ","Open","Pyrus calleryana",-93.66452227,42.03479828,274.066,444995.71,4653853.433,"232",2.6,1.4
+"27",28,198,"2016-10-08",4,"HD","Prunus","serotina","black cherry",0.56,NA,"Open","Prunus serotina",-93.66523062,42.03489838,271.117,444937.165,4653865.003,"3",3.1,1.6
+"28",29,209,"2016-10-08",4,"HD","Acer","saccharinum","silver maple",0.59,NA,"Open","Acer saccharinum",-93.66506931,42.03487565,271.12,444950.497,4653862.375,"14",4.6,2.5
+"29",30,221,"2016-10-08",4,"HD","Prunus","serotina","black cherry",0.81,"pin cherry? No hair","Open","Prunus serotina",-93.66502585,42.03464014,272.98,444953.892,4653836.199,"26",3,1.6
+"30",31,232,"2016-10-08",4,"HD","Crataegus","unknown","hawthorn",0.83,"some lobed, some unlobed","Open","Crataegus unknown",-93.66498725,42.0349037,272.557,444957.314,4653865.437,"37",5.2,4.1
+"31",32,243,"2016-10-08",4,"HD","Prunus","serotina","black cherry",0.91,NA,"Open","Prunus serotina",NA,NA,NA,NA,NA,NA,NA,NA
+"32",33,254,"2016-10-08",4,"HD","Prunus","serotina","black cherry",0.73,NA,"Open","Prunus serotina",-93.66453302,42.03472733,274.617,444994.76,4653845.562,"238",4.1,1.7
+"33",34,265,"2016-10-08",4,"HD","Acer","saccharinum","silver maple",0.51,NA,"Open","Acer saccharinum",-93.6644869,42.03464154,273.713,444998.503,4653836.008,"249",4.5,2
+"34",35,276,"2016-10-08",4,"HD","Prunus","serotina","black cherry",0.715,NA,"Open","Prunus serotina",-93.66446472,42.03467045,273.855,445000.364,4653839.203,"260",4.6,2.4
+"35",36,287,"2016-10-08",4,"HD","Prunus","serotina","black cherry",0.54,NA,"Open","Prunus serotina",-93.6644386,42.03472038,273.726,445002.569,4653844.73,"271",4.4,2.6
+"36",37,298,"2016-10-08",4,"LD","Acer","saccharinum","silver maple",0.505,NA,"Open","Acer saccharinum",-93.66449022,42.03482623,274.033,444998.388,4653856.515,"283",5.4,3.4
+"37",38,308,"2016-10-08",4,"LD","Acer","saccharinum","silver maple",0.715,NA,"Open","Acer saccharinum",NA,NA,NA,NA,NA,NA,NA,NA
+"38",39,319,"2016-10-08",4,"LD","Acer","saccharinum","silver maple",0.505,NA,"Open","Acer saccharinum",-93.66457088,42.03497547,273.311,444991.84,4653873.137,"545",3,1.5
+"39",40,331,"2016-10-08",4,"LD","Acer","saccharinum","silver maple",0.717,"at edge of strip","Open","Acer saccharinum",-93.66448933,42.03506255,272.7,444998.665,4653882.754,"557",2.4,1.2
+"40",41,342,"2016-10-08",4,"LD","Acer","saccharinum","silver maple",0.966,"at edge of strip","Open","Acer saccharinum",NA,NA,NA,NA,NA,NA,NA,NA
+"41",42,353,"2016-10-08",4,"HD","Lonicera","unknown","honeysuckle",0.845,"honeysuckle vs. cornus?","Open","Lonicera unknown",-93.66370909,42.03507181,272.783,445063.256,4653883.281,"587",2.5,1.3
+"42",43,364,"2016-10-08",4,"HD","Acer","saccharinum","silver maple",0.824,NA,"Open","Acer saccharinum",-93.66365215,42.03511876,273.403,445068.009,4653888.457,"598",2.4,1.2
+"43",44,375,"2016-10-08",4,"HD","Rubus","unknown","unknown",0.847,"not 100% positive this is woody","Open","Rubus unknown",-93.66359799,42.03517021,273.881,445072.537,4653894.135,"609",3.3,1.5
+"44",45,385,"2016-10-08",4,"LD","Acer","saccharinum","silver maple",0.52,"close to edge of strip","Open","Acer saccharinum",-93.66356802,42.0351279,273.654,445074.981,4653889.418,"619",2.9,1.5
+"45",46,397,"2016-10-08",4,"LD","Acer","saccharinum","silver maple",0.58,NA,"Open","Acer saccharinum",-93.66344259,42.03507166,274.007,445085.315,4653883.093,"632",3.5,1.7
+"46",47,408,"2016-10-08",4,"LD","Cercis","canadensis","redbud",0.605,"3 GPS points use 47 real","Open","Cercis canadensis",-93.66346039,42.03521975,274.678,445083.969,4653899.547,"643",6.1,3.4
+"47",48,419,"2016-10-08",4,"LD","Morus","alba","white mulberry",0.831,"aon edge","Open","Morus alba",-93.66343559,42.0352687,274.74,445086.063,4653904.965,"654",3.3,1.7
+"48",49,430,"2016-10-08",4,"LD","Cornus","stolonifera","red osier dogwood",0.676,"on strip - red!!","Open","Cornus stolonifera",-93.66339156,42.03510906,274.287,445089.57,4653887.212,"665",4.1,2.1
+"49",50,442,"2016-10-08",4,"LD","Acer","saccharinum","silver maple",0.804,"malus/hawthorn, sharp,thorns","Open","Acer saccharinum",-93.66437604,42.03471491,274.119,445007.743,4653844.083,"294",2.5,1.3
+"50",51,453,"2016-10-08",4,"LD","Vitus","riparia","grape vine",NA,"spp uncertain","Open","Vitus riparia",-93.66433008,42.03466919,273.503,445011.508,4653838.976,"305",3.3,1.5
+"51",52,464,"2016-10-08",4,"LD","Crataegus","unknown","hawthorn",0.52,"protected by chenopodium + switchgrass","Open","Crataegus unknown",-93.6643044,42.03487631,273.424,445013.812,4653861.956,"316",1.9,1.2
+"52",53,475,"2016-10-08",4,"LD","Fraxinus","pennsylvanica","green ash",0.517,NA,"Open","Fraxinus pennsylvanica",-93.66427993,42.03464289,273.368,445015.636,4653836.024,"327",4.7,2.4
+"53",54,486,"2016-10-08",4,"LD","Acer","saccharinum","silver maple",0.71,NA,"Open","Acer saccharinum",-93.6642321,42.03480995,273.207,445019.739,4653854.542,"338",2.8,1.4
+"54",55,497,"2016-10-08",4,"LD","Acer","saccharinum","silver maple",0.624,"on strip ","Open","Acer saccharinum",-93.66419207,42.03475743,273.304,445023.007,4653848.685,"349",5.1,2.2
+"55",56,508,"2016-10-08",4,"LD","Vitus","riparia","grape vine",0.775,"growing up a lespidiza stem ","Open","Vitus riparia",-93.66421593,42.03463402,273.204,445020.926,4653834.998,"360",3.3,1.6
+"56",57,515,"2016-10-12",2,"LD","unknown","unknown","unknown",0.77,"boxelder? Check bark","Open","unknown unknown",-93.66415326,42.03476804,272.667,445026.229,4653849.839,"367",3.9,2.8
+"57",58,519,"2016-10-12",2,"LD","Acer","saccharinum","silver maple",0.51,NA,"Open","Acer saccharinum",-93.66418526,42.03479761,273.277,445023.606,4653853.142,"371",3,1.6
+"58",59,530,"2016-10-12",2,"LD","Vitus","riparia","grape vine",NA,"on strip","Open","Vitus riparia",-93.66414333,42.03477431,273.423,445027.056,4653850.528,"382",2.8,1.5
+"59",60,542,"2016-10-12",2,"LD","Acer","saccharinum","silver maple",0.59,NA,"Open","Acer saccharinum",-93.66413691,42.03469792,273.057,445027.521,4653842.043,"394",3.5,2.2
+"60",61,553,"2016-10-12",2,"LD","Acer","saccharinum","silver maple",0.78,NA,"Open","Acer saccharinum",-93.66410179,42.03461892,272.343,445030.361,4653833.248,"405",21.2,11.6
+"61",62,563,"2016-10-12",2,"LD","Acer","saccharinum","silver maple",0.69,NA,"Open","Acer saccharinum",-93.66399798,42.03461937,272.702,445038.954,4653833.232,"415",2.2,1.1
+"62",63,574,"2016-10-12",2,"LD/HD","Fraxinus","pennsylvanica","green ash",0.71,"buds brown, box=white","Open","Fraxinus pennsylvanica",-93.66406785,42.03466706,272.945,445033.212,4653838.571,"426",2.1,1.1
+"63",64,585,"2016-10-12",2,"LD/HD","Vitus","riparia","grape vine",NA,NA,"Open","Vitus riparia",-93.66400356,42.03478168,272.38,445038.632,4653851.256,"437",2,1.2
+"64",65,596,"2016-10-12",2,"LD","Acer","saccharinum","silver maple",0.57,"on strip","Open","Acer saccharinum",-93.66401877,42.03484168,272.164,445037.424,4653857.929,"448",2.3,1.7
+"65",66,607,"2016-10-12",2,"LD","Acer","saccharinum","silver maple",0.74,"no leaves","Open","Acer saccharinum",-93.66379742,42.0353789,273.097,445056.209,4653917.434,"458",5.8,2.9
+"66",67,618,"2016-10-12",2,"HD","Platanus","occidentalis","sycamore",1.34,NA,"Open","Platanus occidentalis",-93.66382013,42.03546502,271.944,445054.403,4653927.01,"469",2.6,1.4
+"67",68,623,"2016-10-12",2,"LD","Acer","saccharinum","silver maple",0.62,NA,"Open","Acer saccharinum",-93.66386378,42.03542566,270.904,445050.757,4653922.668,"474",5.5,2.9
+"68",69,624,"2016-10-12",2,"LD","Acer","saccharinum","silver maple",0.69,NA,"Open","Acer saccharinum",-93.66385169,42.03539905,271.479,445051.734,4653919.705,"476",4.7,2.2
+"69",70,626,"2016-10-12",2,"LD/HD","Acer","saccharinum","silver maple",0.68,NA,"Open","Acer saccharinum",-93.66388764,42.03539525,271.478,445048.755,4653919.307,"478",3.3,1.6
+"70",71,627,"2016-10-12",2,"HD","unknown","unknown","unknown",0.81,"no leaves - can't tell, herb","Open","unknown unknown",-93.66387264,42.03537857,271.563,445049.982,4653917.445,"479",4.5,2.1
+"71",72,628,"2016-10-12",2,"HD","Acer","saccharinum","silver maple",0.75,NA,"Open","Acer saccharinum",-93.66387751,42.03536642,271.918,445049.569,4653916.1,"480",4.2,3
+"72",73,629,"2016-10-12",2,"HD","unknown","unknown","unknown",0.6,"herb - no leaves - can't tell, ash?","Open","unknown unknown",-93.66389164,42.03535958,271.734,445048.393,4653915.349,"481",3.2,1.6
+"73",74,630,"2016-10-12",2,"LD/HD","Prunus","serotina","black cherry",1.59,NA,"Open","Prunus serotina",-93.66384136,42.03533867,272.408,445052.538,4653912.995,"482",3.2,1.6
+"74",75,631,"2016-10-12",2,"LD/HD","Acer","saccharinum","silver maple",1.02,"next to deer trail","Open","Acer saccharinum",-93.66385908,42.03530925,272.408,445051.045,4653909.74,"483",3.2,1.6
+"75",76,632,"2016-10-12",2,"LD/HD","Prunus","serotina","black cherry",1.71,"next to deer trail","Open","Prunus serotina",-93.66384527,42.03525927,273.1,445052.145,4653904.181,"484",3.1,1.6
+"76",77,633,"2016-10-12",2,"LD/HD","Prunus","serotina","black cherry",1.01,"next to deer trail","Open","Prunus serotina",-93.66388002,42.0352506,273.099,445049.261,4653903.242,"485",4,2.9
+"77",78,634,"2016-10-12",2,"LD/HD","Fraxinus","pennsylvanica","green ash",0.57,"next to deer trail, almost on strip end","Open","Fraxinus pennsylvanica",-93.6639015,42.03527759,272.344,445047.507,4653906.252,"486",4,2.9
+"78",79,635,"2016-10-12",2,"LD/HD","Prunus","serotina","black cherry",0.98,"herb damage, next to deer trail, almost on strip end","Open","Prunus serotina",-93.6638931,42.03535032,272.18,445048.265,4653914.321,"487",3.9,2.8
+"79",80,637,"2016-10-12",2,"LD","Vitus","riparia","grape vine",NA,NA,"Open","Vitus riparia",NA,NA,NA,NA,NA,NA,NA,NA
+"80",81,638,"2016-10-12",2,"LD","Prunus","serotina","black cherry",0.92,NA,"Open","Prunus serotina",-93.66391731,42.03542874,271.773,445046.329,4653923.044,"489",11.4,5.8
+"81",82,639,"2016-10-12",2,"LD","Prunus","serotina","black cherry",0.99,NA,"Open","Prunus serotina",-93.66391594,42.03545817,271.815,445046.467,4653926.311,"490",3,1.6
+"82",83,640,"2016-10-12",2,"LD","Prunus","serotina","black cherry",1.08,NA,"Open","Prunus serotina",-93.66394813,42.03546781,271.374,445043.811,4653927.402,"491",3.7,2.1
+"83",84,641,"2016-10-12",2,"HD","Vitus","riparia","grape vine",NA,"very small","Open","Vitus riparia",-93.66396038,42.0354354,271.49,445042.769,4653923.812,"492",2.9,1.6
+"84",85,642,"2016-10-12",2,"LD","Vitus","riparia","grape vine",NA,"silver maple to small","Open","Vitus riparia",-93.66394198,42.03542935,271.704,445044.286,4653923.128,"493",2.9,1.6
+"85",86,643,"2016-10-12",2,"HD","Prunus","serotina","black cherry",0.98,NA,"Open","Prunus serotina",-93.66394106,42.03540108,271.965,445044.339,4653919.988,"494",2.9,1.5
+"86",87,644,"2016-10-12",2,"HD","Acer","saccharinum","silver maple",1.82,NA,"Open","Acer saccharinum",-93.66396886,42.03539801,271.715,445042.035,4653919.666,"495",2.9,1.5
+"87",88,645,"2016-10-12",2,"LD","Prunus","serotina","black cherry",1.16,NA,"Open","Prunus serotina",-93.66395258,42.03539299,271.779,445043.378,4653919.098,"496",3.7,2.5
+"88",89,646,"2016-10-12",2,"LD","Acer","saccharinum","silver maple",0.76,"lots of herb. Deer","Open","Acer saccharinum",-93.66393837,42.03537956,272.011,445044.543,4653917.598,"497",2.8,1.5
+"89",90,648,"2016-10-12",2,"LD","Prunus","serotina","black cherry",0.86,"edge","Open","Prunus serotina",-93.66395095,42.03529993,272.064,445043.433,4653908.765,"499",2.8,1.5
+"90",91,649,"2016-10-12",2,"LD","Prunus","serotina","black cherry",0.71,"edge","Open","Prunus serotina",-93.66396727,42.03529936,272.06,445042.082,4653908.711,"500",3.6,2.4
+"91",92,650,"2016-10-12",2,"LD","Prunus","serotina","black cherry",0.5,"edge","Open","Prunus serotina",-93.6639661,42.03529644,272.119,445042.176,4653908.386,"501",18.9,10.4
+"92",93,651,"2016-10-13",2,"HD","Acer","saccharinum","silver maple",0.53,NA,"Open","Acer saccharinum",-93.66396904,42.03528474,272.124,445041.922,4653907.09,"502",19.4,10.7
+"93",94,652,"2016-10-13",2,"LD/HD","Acer","saccharinum","silver maple",0.66,NA,"Open","Acer saccharinum",-93.66393243,42.03527018,272.149,445044.94,4653905.449,"503",2.7,1.5
+"94",95,653,"2016-10-13",2,"LD/HD","Acer","saccharinum","silver maple",0.5,NA,"Open","Acer saccharinum",NA,NA,NA,NA,NA,NA,NA,NA
+"95",96,654,"2016-10-13",2,"LD/HD","Acer","saccharinum","silver maple",0.5,NA,"Open","Acer saccharinum",NA,NA,NA,NA,NA,NA,NA,NA
+"96",97,655,"2016-10-13",2,"LD","Acer","saccharinum","silver maple",0.77,NA,"Open","Acer saccharinum",-93.66404321,42.03546552,271.08,445035.939,4653927.21,"505",3.5,2.1
+"97",98,656,"2016-10-13",2,"LD","Acer","saccharinum","silver maple",0.53,NA,"Open","Acer saccharinum",-93.66404087,42.03543008,271.046,445036.102,4653923.273,"506",173.7,109.5
+"98",99,657,"2016-10-13",1,"LD","Acer","saccharinum","silver maple",1.02,NA,"Open","Acer saccharinum",-93.66403909,42.0354451,271.235,445036.263,4653924.94,"507",3.5,2.1
+"99",100,2,"2016-10-13",1,"LD","Acer","saccharinum","silver maple",0.97,"near strip/not within 15cm","Open","Acer saccharinum",-93.66518206,42.03511616,270.726,444941.373,4653889.151,"58",3.5,1.8
+"100",101,3,"2016-10-13",1,"HD","Acer","saccharinum","silver maple",0.98,"right next to burrown, next to cover plot","Open","Acer saccharinum",-93.6651744,42.03516743,270.162,444942.05,4653894.84,"59",3.2,1.7
+"101",102,4,"2016-10-13",1,"HD","Acer","saccharinum","silver maple",0.81,"next to cover plot","Open","Acer saccharinum",-93.66518744,42.03518419,269.884,444940.986,4653896.708,"60",5.5,4.8
+"102",103,5,"2016-10-13",1,"HD","Vitus","riparia","grape vine",NA,NA,"Open","Vitus riparia",-93.66516997,42.03508351,270.529,444942.345,4653885.518,"61",1.9,1.1
+"103",104,6,"2016-10-13",1,"HD","Acer","saccharinum","silver maple",0.87,"cover plot","Open","Acer saccharinum",-93.66515664,42.03504697,270.921,444943.416,4653881.453,"62",2.1,1.1
+"104",105,7,"2016-10-13",1,"HD","Acer","saccharinum","silver maple",0.5,NA,"Open","Acer saccharinum",-93.66514124,42.03504392,270.098,444944.689,4653881.105,"63",3,1.7
+"105",106,8,"2016-10-16",1,"HD","unknown","unknown","unknown",0.73,"one elaf - rough, not lobed, buds lobed, small brown","Open","unknown unknown",-93.66514704,42.03501898,270.057,444944.187,4653878.339,"64",3.4,1.9
+"106",107,9,"2016-10-16",1,"HD","Fraxinus","pennsylvanica","green ash",0.59,NA,"Open","Fraxinus pennsylvanica",-93.66514654,42.0349893,271.009,444944.203,4653875.044,"65",4.2,2.9
+"107",108,10,"2016-10-16",1,"HD","Vitus","riparia","grape vine",NA,"pretty dead","Open","Vitus riparia",-93.66517027,42.03494081,271.599,444942.197,4653869.675,"66",4.2,2.9
+"108",109,11,"2016-10-16",1,"HD","Acer","saccharinum","silver maple",0.58,NA,"Open","Acer saccharinum",-93.6651174,42.03506546,270.881,444946.681,4653883.481,"67",4.1,2.8
+"109",110,13,"2016-10-16",1,"LD","Ulmus","pumila","siberian elm",0.52,"leaves not glaborous","Open","Ulmus pumila",-93.66510847,42.0351838,270.511,444947.522,4653896.614,"69",2.7,1.4
+"110",111,14,"2016-10-16",1,"LD/HD","Acer","saccharinum","silver maple",0.56,NA,"Open","Acer saccharinum",-93.66509978,42.03512968,270.199,444948.194,4653890.6,"70",2.1,1.1
+"111",112,15,"2016-10-16",1,"HD","Vitus","riparia","grape vine",NA,"dead","Open","Vitus riparia",-93.66509652,42.03510999,270.727,444948.448,4653888.411,"71",3.4,1.7
+"112",113,16,"2016-10-16",1,"HD","Acer","saccharinum","silver maple",0.7,NA,"Open","Acer saccharinum",-93.66508666,42.03508138,270.823,444949.239,4653885.229,"72",2.8,1.6
+"113",114,17,"2016-10-16",1,"LD","Acer","saccharinum","silver maple",1.13,"on strip ","Open","Acer saccharinum",-93.66509202,42.03504625,270.763,444948.765,4653881.331,"73",36.5,15.5
+"114",115,18,"2016-10-16",1,"LD","Fraxinus","pennsylvanica","green ash",0.74,NA,"Open","Fraxinus pennsylvanica",-93.66509731,42.03503378,270.616,444948.316,4653879.95,"74",2.3,1.2
+"115",116,19,"2016-10-16",1,"LD","Acer","saccharinum","silver maple",0.54,NA,"Open","Acer saccharinum",-93.66510561,42.0350141,270.995,444947.612,4653877.77,"75",2.5,1.3
+"116",117,20,"2016-10-16",1,"LD","Acer","saccharinum","silver maple",0.6,NA,"Open","Acer saccharinum",-93.66510384,42.03500893,271.181,444947.754,4653877.195,"76",2.8,1.6
+"117",118,21,"2016-10-16",1,"LD","Vitus","riparia","grape vine",NA,"dead","Open","Vitus riparia",-93.66510166,42.03500554,271.197,444947.932,4653876.818,"77",2.8,1.6
+"118",119,22,"2016-10-16",1,"LD","Acer","saccharinum","silver maple",0.56,NA,"Open","Acer saccharinum",-93.66509859,42.03500619,271.261,444948.186,4653876.888,"78",10.7,5.6
+"119",120,24,"2016-10-16",1,"LD","Vitus","riparia","grape vine",NA,NA,"Open","Vitus riparia",-93.66512678,42.03492317,271.114,444945.781,4653867.689,"80",4.7,3
+"120",121,25,"2016-10-16",1,"LD","Acer","saccharinum","silver maple",0.55,NA,"Open","Acer saccharinum",NA,NA,NA,NA,NA,NA,NA,NA
+"121",122,26,"2016-10-16",1,"LD","Acer","saccharinum","silver maple",0.59,NA,"Open","Acer saccharinum",-93.6650709,42.03498694,270.133,444950.462,4653874.733,"81",2.2,1.1
+"122",123,27,"2016-10-16",1,"LD","Acer","saccharinum","silver maple",0.64,"little leaves, stems too red?","Open","Acer saccharinum",-93.66507496,42.03500136,271.136,444950.138,4653876.336,"82",2.2,1.1
+"123",124,28,"2016-10-16",1,"LD","Acer","saccharinum","silver maple",0.56,NA,"Open","Acer saccharinum",-93.66506331,42.03500469,271.209,444951.105,4653876.699,"83",2.2,1.1
+"124",125,29,"2016-10-16",5,"LD","Rubus","unknown","raspberry",0.54,NA,"Exclosure","Rubus unknown",-93.6650563,42.03501531,270.785,444951.694,4653877.873,"84",6.1,3.6
+"125",126,30,"2016-10-16",5,"LD","Platanus","occidentalis","sycamore",0.67,"on a strip","Exclosure","Platanus occidentalis",-93.66503699,42.03514705,270.702,444953.407,4653892.488,"85",3.1,1.3
+"126",127,31,"2016-10-16",5,"LD","Pyrus","calleryana","callery pear",0.78,NA,"Exclosure","Pyrus calleryana",-93.66502168,42.03506463,270.959,444954.603,4653883.327,"86",2,1.1
+"127",128,32,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.77,NA,"Exclosure","Acer saccharinum",-93.66502065,42.035047,271.358,444954.673,4653881.369,"87",2.5,1.3
+"128",129,33,"2016-10-16",5,"LD","Ulmus","pumila","siberian elm",NA,"not high enough","Exclosure","Ulmus pumila",-93.66501778,42.03500533,270.978,444954.874,4653876.741,"88",2.9,1.5
+"129",130,35,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.56,NA,"Exclosure","Acer saccharinum",-93.66505621,42.03492771,272.046,444951.627,4653868.147,"90",2.1,1.3
+"130",131,36,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.62,NA,"Exclosure","Acer saccharinum",-93.66506073,42.03492504,272.017,444951.251,4653867.854,"91",1.9,1.1
+"131",132,37,"2016-10-16",5,"LD","Cornus","drummondii","roughleaf dogwood",1.26,NA,"Exclosure","Cornus drummondii",-93.66507755,42.03493559,272.552,444949.867,4653869.035,"92",1.9,1.2
+"132",133,38,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.52,NA,"Exclosure","Acer saccharinum",-93.66500519,42.03502595,271.995,444955.935,4653879.022,"93",1.8,1.1
+"133",134,39,"2016-10-16",5,"LD","Ulmus","pumila","siberian elm",1.06,"? Simple and compound","Exclosure","Ulmus pumila",-93.66495779,42.03508079,271.615,444959.906,4653885.08,"94",2.9,1.2
+"134",135,40,"2016-10-16",5,"LD","unknown","unknown","unknown",0.69,NA,"Exclosure","unknown unknown",-93.66495703,42.0350774,271.924,444959.965,4653884.703,"95",2.3,1.4
+"135",136,41,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.59,NA,"Exclosure","Acer saccharinum",-93.66494804,42.03503367,271.496,444960.672,4653879.842,"96",3.3,1.9
+"136",137,42,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.8,NA,"Exclosure","Acer saccharinum",-93.6648963,42.0350173,272.373,444964.94,4653877.991,"97",2.5,1.7
+"137",138,43,"2016-10-16",5,"LD","Prunus","serotina","black cherry",0.68,NA,"Exclosure","Prunus serotina",-93.66490468,42.03503575,271.39,444964.262,4653880.045,"98",2.4,1.4
+"138",139,44,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.66,NA,"Exclosure","Acer saccharinum",NA,NA,NA,NA,NA,NA,NA,NA
+"139",140,46,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.71,NA,"Exclosure","Acer saccharinum",NA,NA,NA,NA,NA,NA,NA,NA
+"140",141,47,"2016-10-16",5,"LD","Cornus","drummondii","roughleaf dogwood",0.85,NA,"Exclosure","Cornus drummondii",NA,NA,NA,NA,NA,NA,NA,NA
+"141",142,48,"2016-10-16",5,"LD","Ulmus","pumila","siberian elm",0.99,"-","Exclosure","Ulmus pumila",NA,NA,NA,NA,NA,NA,NA,NA
+"142",143,49,"2016-10-16",5,"LD","Cornus","drummondii","roughleaf dogwood",0.5,NA,"Exclosure","Cornus drummondii",-93.66484893,42.03529182,271.487,444969.098,4653908.441,"100",2.7,1.5
+"143",144,50,"2016-10-16",5,"LD","Cornus","drummondii","roughleaf dogwood",0.66,NA,"Exclosure","Cornus drummondii",-93.66493457,42.03543733,270.46,444962.134,4653924.652,"101",2.6,1.3
+"144",145,51,"2016-10-16",5,"LD","unknown","unknown","cherry family",0.59,NA,"Exclosure","unknown unknown",-93.66493625,42.03543428,270.778,444961.993,4653924.315,"102",2.6,1.3
+"145",146,52,"2016-10-16",5,"LD","Cornus","drummondii","roughleaf dogwood",1.8,NA,"Exclosure","Cornus drummondii",-93.6649418,42.03543712,270.795,444961.536,4653924.633,"103",2.3,1.3
+"146",147,53,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.66,NA,"Exclosure","Acer saccharinum",-93.66494262,42.03540806,270.677,444961.443,4653921.407,"104",3.4,1.8
+"147",148,54,"2016-10-16",5,"LD","Cornus","drummondii","roughleaf dogwood",0.58,NA,"Exclosure","Cornus drummondii",-93.6649514,42.03534843,270.554,444960.665,4653914.792,"105",2.9,2.2
+"148",149,55,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",1.8,NA,"Exclosure","Acer saccharinum",-93.6649548,42.03529435,271.444,444960.337,4653908.79,"106",3.6,3
+"149",151,57,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",1.2,NA,"Exclosure","Acer saccharinum",NA,NA,NA,NA,NA,NA,NA,NA
+"150",152,58,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.94,"red waxy stems","Exclosure","Acer saccharinum",NA,NA,NA,NA,NA,NA,NA,NA
+"151",153,59,"2016-10-16",5,"LD/HD","Fraxinus","pennsylvanica","green ash",1.18,NA,"Exclosure","Fraxinus pennsylvanica",NA,NA,NA,NA,NA,NA,NA,NA
+"152",154,60,"2016-10-16",5,"LD/HD","Acer","saccharinum","silver maple",1.17,NA,"Exclosure","Acer saccharinum",NA,NA,NA,NA,NA,NA,NA,NA
+"153",155,61,"2016-10-16",5,"LD/HD","unknown","unknown","unknown",NA,NA,"Exclosure","unknown unknown",NA,NA,NA,NA,NA,NA,NA,NA
+"154",156,62,"2016-10-16",5,"LD/HD","Acer","saccharinum","silver maple",0.85,NA,"Exclosure","Acer saccharinum",NA,NA,NA,NA,NA,NA,NA,NA
+"155",157,63,"2016-10-16",5,"LD/HD","Acer","saccharinum","silver maple",0.92,"deep lboes","Exclosure","Acer saccharinum",NA,NA,NA,NA,NA,NA,NA,NA
+"156",158,64,"2016-10-16",5,"LD/HD","unknown","unknown","unknown",0.69,"simple, opposite","Exclosure","unknown unknown",-93.66498164,42.03526989,272.351,444958.094,4653906.091,"107",19.6,10.7
+"157",159,65,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.824,NA,"Exclosure","Acer saccharinum",-93.66496434,42.03529687,270.875,444959.55,4653909.076,"108",2,1.3
+"158",160,67,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.685,NA,"Exclosure","Acer saccharinum",-93.66498036,42.03543967,269.279,444958.346,4653924.941,"110",3.1,1.8
+"159",161,68,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.78,NA,"Exclosure","Acer saccharinum",-93.66501669,42.03536288,271.304,444955.273,4653916.439,"111",5.8,5.3
+"160",162,69,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",1.08,NA,"Exclosure","Acer saccharinum",-93.66499324,42.03533992,271.048,444957.194,4653913.875,"112",3.8,2.2
+"161",163,70,"2016-10-16",5,"HD","Prunus","serotina","black cherry",1.39,NA,"Exclosure","Prunus serotina",-93.66500962,42.03530451,270.672,444955.808,4653909.953,"113",4.5,2.3
+"162",164,71,"2016-10-16",5,"HD","Prunus","serotina","black cherry",1.25,NA,"Exclosure","Prunus serotina",-93.66505264,42.03531086,269.687,444952.253,4653910.686,"114",3.1,2.1
+"163",166,72,"2016-10-16",5,"HD","Prunus","serotina","black cherry",0.68,NA,"Exclosure","Prunus serotina",-93.66504048,42.03532686,270.874,444953.273,4653912.454,"115",53.6,35
+"164",167,73,"2016-10-16",5,"HD","Acer","saccharinum","silver maple",1.33,NA,"Exclosure","Acer saccharinum",-93.66506181,42.0353819,269.534,444951.555,4653918.58,"116",35.5,22.5
+"165",168,74,"2016-10-16",5,"HD","Prunus","serotina","black cherry",1.03,NA,"Exclosure","Prunus serotina",-93.66506879,42.03538943,270.107,444950.984,4653919.42,"117",5,2.9
+"166",169,75,"2016-10-16",5,"LD/HD","Acer","saccharinum","silver maple",1.05,NA,"Exclosure","Acer saccharinum",-93.66502362,42.0354737,269.558,444954.795,4653928.748,"118",5.1,3.1
+"167",170,77,"2016-10-16",5,"LD/HD","Acer","saccharinum","silver maple",0.87,NA,"Exclosure","Acer saccharinum",-93.66506595,42.03550696,269.629,444951.32,4653932.467,"120",9.3,6
+"168",171,78,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",1.46,NA,"Exclosure","Acer saccharinum",-93.66506902,42.0354928,270.199,444951.054,4653930.897,"121",4.8,2.5
+"169",172,79,"2016-10-16",5,"LD","Ulmus","americana","american elm",1.54,"find edge vs. slip.","Exclosure","Ulmus americana",-93.66512867,42.03542499,269.496,444946.058,4653923.406,"122",16.7,9.5
+"170",173,80,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.5,NA,"Exclosure","Acer saccharinum",-93.66505862,42.03541772,269.386,444951.85,4653922.554,"123",6.4,3.2
+"171",174,81,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.6,NA,"Exclosure","Acer saccharinum",-93.66512397,42.03523719,270.937,444946.285,4653902.552,"124",6.4,3.1
+"172",175,82,"2016-10-16",5,"LD","Ulmus","pumila","siberian elm",1.01,NA,"Exclosure","Ulmus pumila",-93.66471859,42.03486287,273.577,444979.516,4653860.731,"125",5.5,1.6
+"173",176,83,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",1.04,NA,"Exclosure","Acer saccharinum",-93.66474605,42.03485018,273.81,444977.233,4653859.339,"126",9.2,3.9
+"174",177,84,"2016-10-16",5,"HD","Acer","saccharinum","silver maple",1.11,NA,"Exclosure","Acer saccharinum",-93.66470453,42.03484808,273.823,444980.667,4653859.08,"127",3.8,1.5
+"175",178,85,"2016-10-16",5,"HD","unknown","unknown","unknown",1.25,"??","Exclosure","unknown unknown",NA,NA,NA,NA,NA,NA,NA,NA
+"176",179,86,"2016-10-16",5,"HD","Prunus","serotina","black cherry",1.39,"145","Exclosure","Prunus serotina",-93.66477414,42.03482878,274.136,444974.889,4653856.981,"129",4.1,1.5
+"177",180,88,"2016-10-16",5,"HD","Acer","saccharinum","silver maple",1.21,NA,"Exclosure","Acer saccharinum",-93.66479376,42.03481553,274.023,444973.253,4653855.523,"131",3.1,1.4
+"178",181,89,"2016-10-16",5,"LD/HD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66478046,42.03480426,273.742,444974.345,4653854.263,"132",2.2,1.2
+"179",182,90,"2016-10-16",5,"LD/HD","Cornus","drummondii","roughleaf dogwood",1.11,NA,"Exclosure","Cornus drummondii",-93.66476742,42.03480088,274.251,444975.421,4653853.879,"132",2.9,1.4
+"180",183,91,"2016-10-16",5,"LD/HD","Acer","saccharinum","silver maple",1.42,NA,"Exclosure","Acer saccharinum",-93.66476576,42.0347923,274.193,444975.551,4653852.926,"134",2.9,1.4
+"181",184,92,"2016-10-16",5,"LD","Prunus","serotina","black cherry",1.37,NA,"Exclosure","Prunus serotina",-93.66476332,42.03479227,273.886,444975.753,4653852.921,"135",3.6,1.7
+"182",185,93,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.81,NA,"Exclosure","Acer saccharinum",-93.66479291,42.03478735,273.873,444973.3,4653852.394,"136",3.9,1.8
+"183",186,94,"2016-10-16",5,"HD","Acer","saccharinum","silver maple",0.71,NA,"Exclosure","Acer saccharinum",-93.664798,42.03478529,273.841,444972.876,4653852.168,"137",2.2,1.2
+"184",187,95,"2016-10-16",5,"HD","Acer","saccharinum","silver maple",0.69,NA,"Exclosure","Acer saccharinum",-93.66478543,42.03477578,273.669,444973.909,4653851.104,"138",2.2,1.2
+"185",188,96,"2016-10-16",5,"LD/HD","Acer","saccharinum","silver maple",1.02,NA,"Exclosure","Acer saccharinum",-93.66480051,42.03472412,274.179,444972.616,4653845.378,"139",4.1,1.7
+"186",189,97,"2016-10-16",5,"LD/HD","Acer","saccharinum","silver maple",1.04,NA,"Exclosure","Acer saccharinum",-93.66480115,42.03471809,274.262,444972.558,4653844.708,"140",4.1,1.7
+"187",190,99,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.88,NA,"Exclosure","Acer saccharinum",-93.66477457,42.03470126,274.321,444974.744,4653842.823,"142",2.3,1.2
+"188",191,100,"2016-10-16",5,"LD","Fraxinus","pennsylvanica","green ash",1.23,NA,"Exclosure","Fraxinus pennsylvanica",-93.66478439,42.03469345,274.282,444973.924,4653841.963,"144",4.2,1.7
+"189",192,101,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.66,NA,"Exclosure","Acer saccharinum",-93.66478088,42.0346911,274.164,444974.212,4653841.699,"143",4.2,1.7
+"190",193,102,"2016-10-16",5,"LD","Cornus","drummondii","roughleaf dogwood",1.22,"m/p","Exclosure","Cornus drummondii",-93.6647778,42.03466712,274.255,444974.447,4653839.034,"145",4.2,1.7
+"191",194,103,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.57,NA,"Exclosure","Acer saccharinum",-93.6647564,42.03464256,274.539,444976.197,4653836.294,"146",4.2,1.7
+"192",195,104,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",1.06,NA,"Exclosure","Acer saccharinum",-93.66478374,42.03464034,275.14,444973.932,4653836.065,"147",5.8,5.4
+"193",196,105,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.55,NA,"Exclosure","Acer saccharinum",-93.66477275,42.03463357,274.006,444974.836,4653835.306,"148",2.5,1.5
+"194",197,106,"2016-10-16",5,"LD","Cornus","drummondii","roughleaf dogwood",0.68,NA,"Exclosure","Cornus drummondii",-93.66479759,42.03461238,275.526,444972.761,4653832.97,"149",4.2,1.7
+"195",198,107,"2016-10-16",5,"LD","Cornus","drummondii","roughleaf dogwood",1.33,NA,"Exclosure","Cornus drummondii",-93.66473693,42.03462989,274.614,444977.797,4653834.874,"150",4.1,1.7
+"196",199,108,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",1.07,NA,"Exclosure","Acer saccharinum",-93.66472157,42.03467297,274.573,444979.106,4653839.648,"151",4.1,1.8
+"197",200,111,"2016-10-16",5,"LD","Pyrus","calleryana","callery pear",0.6,NA,"Exclosure","Pyrus calleryana",-93.66472162,42.03472796,274.008,444979.149,4653845.753,"154",4.1,1.7
+"198",201,112,"2016-10-16",5,"LD/HD","Acer","saccharinum","silver maple",0.8,NA,"Exclosure","Acer saccharinum",-93.66472196,42.03472804,274.142,444979.122,4653845.762,"155",4.1,1.8
+"199",202,113,"2016-10-16",5,"LD/HD","Fraxinus","pennsylvanica","green ash",0.6,NA,"Exclosure","Fraxinus pennsylvanica",-93.66470662,42.03473742,274.297,444980.399,4653846.794,"156",4.8,1.9
+"200",203,114,"2016-10-16",5,"LD/HD","Acer","saccharinum","silver maple",0.76,NA,"Exclosure","Acer saccharinum",-93.66472556,42.03476685,273.031,444978.857,4653850.074,"157",4.3,2
+"201",204,115,"2016-10-16",5,"LD/HD","Acer","saccharinum","silver maple",0.77,NA,"Exclosure","Acer saccharinum",-93.66472911,42.03477403,273.957,444978.569,4653850.873,"158",7,3.3
+"202",205,116,"2016-10-16",5,"LD/HD","Acer","saccharinum","silver maple",0.77,NA,"Exclosure","Acer saccharinum",-93.66473304,42.03481059,273.277,444978.275,4653854.936,"159",4,1.8
+"203",206,117,"2016-10-16",5,"LD","Morus","alba","white mulberry",0.73,"deep lobes ","Exclosure","Morus alba",-93.66471044,42.03483005,273.604,444980.163,4653857.081,"160",4.3,2.5
+"204",207,118,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.82,NA,"Exclosure","Acer saccharinum",-93.66467288,42.03482316,273.62,444983.266,4653856.292,"161",4.6,2.5
+"205",208,119,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.78,NA,"Exclosure","Acer saccharinum",-93.66467643,42.03480695,273.478,444982.958,4653854.494,"162",3.7,1.8
+"206",209,120,"2016-10-16",5,"LD","Pyrus","calleryana","callery pear",0.67,NA,"Exclosure","Pyrus calleryana",-93.66469888,42.0347861,273.53,444981.082,4653852.194,"163",3.8,1.8
+"207",210,122,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.74,NA,"Exclosure","Acer saccharinum",-93.66469537,42.03477931,272.713,444981.367,4653851.438,"165",4.6,2.3
+"208",211,123,"2016-10-16",5,"LD","Vitus","riparia","grape vine",NA,"no leaves - dead leaves","Exclosure","Vitus riparia",-93.66470248,42.03478542,272.647,444980.783,4653852.121,"166",5,2.7
+"209",212,124,"2016-10-16",5,"LD","Vitus","riparia","grape vine",NA,"no leaves","Exclosure","Vitus riparia",-93.66470221,42.03478015,272.86,444980.801,4653851.536,"167",5.1,2.7
+"210",213,125,"2016-10-16",5,"LD/HD","Acer","saccharinum","silver maple",0.62,NA,"Exclosure","Acer saccharinum",-93.66469144,42.03477696,272.481,444981.689,4653851.175,"168",4.1,2
+"211",214,126,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",1.23,NA,"Exclosure","Acer saccharinum",-93.66467665,42.03477985,272.213,444982.917,4653851.486,"169",4.1,2
+"212",215,127,"2016-10-16",5,"LD","Vitus","riparia","grape vine",NA,"no leaves ","Exclosure","Vitus riparia",-93.66468874,42.03475774,272.118,444981.896,4653849.039,"170",5.4,2.8
+"213",216,128,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",1.06,NA,"Exclosure","Acer saccharinum",-93.66468496,42.03461615,272.936,444982.087,4653833.316,"172",4.2,2.1
+"214",217,129,"2016-10-16",5,"LD","Pyrus","calleryana","callery pear",1.08,NA,"Exclosure","Pyrus calleryana",-93.6646574,42.03464075,272.817,444984.389,4653836.029,"173",4.6,2.5
+"215",218,130,"2016-10-16",5,"LD","Fraxinus","pennsylvanica","green ash",0.93,NA,"Exclosure","Fraxinus pennsylvanica",-93.66466306,42.03465828,272.694,444983.936,4653837.979,"174",5.6,2.5
+"216",219,131,"2016-10-16",5,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66467951,42.03466227,273.656,444982.579,4653838.433,"175",5.6,2.8
+"217",220,133,"2016-10-16",5,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.664661,42.03471097,274.515,444984.152,4653843.828,"177",2.7,1.7
+"218",221,134,"2016-10-16",5,"LD","Cornus","drummondii","roughleaf dogwood",1.58,NA,"Exclosure","Cornus drummondii",-93.66466331,42.03472243,274.011,444983.971,4653845.102,"178",3.2,1.9
+"219",222,135,"2016-10-16",5,"LD","Morus","alba","white mulberry",1.81,"no leaves/dead","Exclosure","Morus alba",-93.66466926,42.03472754,273.92,444983.483,4653845.673,"179",4.4,2.2
+"220",223,136,"2016-10-16",5,"LD","Morus","alba","white mulberry",0.76,"no leaves/dead","Exclosure","Morus alba",-93.66466383,42.03473829,273.475,444983.942,4653846.863,"180",2.4,1.4
+"221",224,137,"2016-10-16",5,"LD","Morus","alba","white mulberry",1.34,"no leaves/dead, on strip","Exclosure","Morus alba",-93.66465845,42.0347596,273.214,444984.405,4653849.225,"181",2.7,1.7
+"222",225,138,"2016-10-16",5,"LD","Platanus","occidentalis","sycamore",2.62,"on strip","Exclosure","Platanus occidentalis",-93.66465387,42.03476363,273.046,444984.788,4653849.67,"182",4.6,2.7
+"223",226,139,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",2.03,NA,"Exclosure","Acer saccharinum",-93.66465671,42.03476841,273.212,444984.557,4653850.203,"183",2.2,1.2
+"224",227,140,"2016-10-16",5,"LD","Pyrus","calleryana","callery pear",1.29,NA,"Exclosure","Pyrus calleryana",-93.66467167,42.03479162,272.764,444983.339,4653852.79,"184",2.2,1.2
+"225",228,141,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.75,NA,"Exclosure","Acer saccharinum",-93.66466505,42.03479875,273.319,444983.893,4653853.577,"185",3.2,2.1
+"226",229,142,"2016-10-16",5,"LD","Pyrus","calleryana","callery pear",0.99,NA,"Exclosure","Pyrus calleryana",-93.66462289,42.03474784,274.106,444987.339,4653847.898,"186",2.3,1.2
+"227",230,144,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",1.8,NA,"Exclosure","Acer saccharinum",-93.66461745,42.03471906,274.535,444987.764,4653844.699,"188",2.2,1.1
+"228",231,145,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.72,NA,"Exclosure","Acer saccharinum",-93.66462421,42.03471972,274.278,444987.205,4653844.777,"189",2.2,1.1
+"229",232,146,"2016-10-16",5,"LD","Cornus","drummondii","roughleaf dogwood",1.5,"droopier leaves, fuzzy stem, op. stringy ","Exclosure","Cornus drummondii",-93.66464346,42.03469929,273.903,444985.594,4653842.519,"190",7.4,3.3
+"230",233,147,"2016-10-16",5,"LD","Pyrus","calleryana","callery pear",0.96,"leaves up a little, red midvein, stringy","Exclosure","Pyrus calleryana",-93.66464753,42.03469107,274.088,444985.251,4653841.61,"191",2.1,1.1
+"231",234,148,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.8,NA,"Exclosure","Acer saccharinum",-93.6646437,42.03468401,274.098,444985.561,4653840.824,"192",2.1,1.1
+"232",235,149,"2016-10-16",5,"LD","unknown","unknown","unknown",0.7,NA,"Exclosure","unknown unknown",-93.66464306,42.03467621,273.846,444985.608,4653839.957,"194",2.4,1.3
+"233",236,150,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.8,NA,"Exclosure","Acer saccharinum",-93.66464037,42.03466686,274.654,444985.822,4653838.917,"193",2,1.1
+"234",237,151,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",1.43,NA,"Exclosure","Acer saccharinum",-93.6646343,42.03460665,274.568,444986.273,4653832.228,"195",8.8,4.1
+"235",238,152,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.75,"stems very red","Exclosure","Acer saccharinum",-93.66462229,42.03464428,273.722,444987.299,4653836.398,"196",2.9,1.8
+"236",239,153,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.67,NA,"Exclosure","Acer saccharinum",-93.66457126,42.03462965,273.965,444991.511,4653834.742,"197",2.5,1.3
+"237",240,155,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",1.34,NA,"Exclosure","Acer saccharinum",-93.6645737,42.03465935,273.814,444991.334,4653838.041,"199",3,1.4
+"238",241,156,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",1.3,NA,"Exclosure","Acer saccharinum",-93.66456568,42.03469112,274.577,444992.025,4653841.563,"200",3,1.4
+"239",242,157,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",1.59,NA,"Exclosure","Acer saccharinum",-93.66458098,42.03470311,273.906,444990.769,4653842.904,"201",2.2,1.4
+"240",243,158,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.87,NA,"Exclosure","Acer saccharinum",-93.66457864,42.03470718,274.243,444990.967,4653843.355,"202",2.6,1.4
+"241",244,159,"2016-10-16",5,"LD","Pyrus","calleryana","callery pear",1.01,NA,"Exclosure","Pyrus calleryana",-93.66455864,42.03470326,274.492,444992.618,4653842.907,"203",2,1.1
+"242",245,160,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",1.01,"same as 233","Exclosure","Acer saccharinum",-93.66458183,42.03472404,274.716,444990.716,4653845.228,"204",2.2,1.2
+"243",246,161,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.55,NA,"Exclosure","Acer saccharinum",-93.66459962,42.03473833,274.229,444989.257,4653846.827,"205",2.4,1.2
+"244",247,162,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.88,NA,"Exclosure","Acer saccharinum",-93.66458795,42.03474817,273.923,444990.231,4653847.911,"206",2.7,1.4
+"245",248,163,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.83,NA,"Exclosure","Acer saccharinum",-93.66457668,42.0347479,273.91,444991.164,4653847.874,"207",2.4,1.2
+"246",249,164,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.52,NA,"Exclosure","Acer saccharinum",-93.66458054,42.03475361,274.041,444990.849,4653848.511,"208",3.1,1.8
+"247",250,166,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.78,NA,"Exclosure","Acer saccharinum",-93.66457903,42.03476998,274.143,444990.988,4653850.327,"210",5,2.7
+"248",251,167,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",1.03,NA,"Exclosure","Acer saccharinum",-93.66460044,42.03479153,274.091,444989.234,4653852.734,"211",2.5,1.2
+"249",252,168,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",1.82,"edge","Exclosure","Acer saccharinum",-93.66462751,42.0347895,274.204,444986.992,4653852.525,"212",2.6,1.3
+"250",253,169,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.51,"on strip","Exclosure","Acer saccharinum",-93.66463225,42.03478741,274.236,444986.598,4653852.297,"213",2.6,1.3
+"251",254,170,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.52,"on strip ","Exclosure","Acer saccharinum",-93.66459766,42.0348123,273.719,444989.482,4653855.038,"214",2.9,1.3
+"252",255,171,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",1.19,NA,"Exclosure","Acer saccharinum",-93.66458939,42.03481655,273.74,444990.171,4653855.505,"215",4.6,1.7
+"253",256,172,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.52,NA,"Exclosure","Acer saccharinum",-93.6646039,42.03483855,273.564,444988.989,4653857.956,"217",6.7,3.2
+"254",257,173,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.66,NA,"Exclosure","Acer saccharinum",-93.66458273,42.03484352,273.622,444990.745,4653858.495,"216",3.8,1.7
+"255",258,174,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.93,"on strip","Exclosure","Acer saccharinum",-93.66458288,42.03483992,273.63,444990.73,4653858.095,"218",3.8,1.7
+"256",259,175,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",1.42,"on strip","Exclosure","Acer saccharinum",-93.66458116,42.03484662,273.523,444990.878,4653858.838,"220",2.7,1.3
+"257",260,177,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",1.4,"on strip","Exclosure","Acer saccharinum",-93.66453625,42.03483194,273.626,444994.583,4653857.179,"222",2.7,1.3
+"258",261,178,"2016-10-16",5,"LD","Pyrus","calleryana","callery pear",0.73,"same as 233","Exclosure","Pyrus calleryana",-93.66453343,42.03483169,273.323,444994.816,4653857.15,"223",2.7,1.3
+"259",262,179,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.62,"edge","Exclosure","Acer saccharinum",-93.66453023,42.03482964,273.749,444995.079,4653856.92,"224",3.9,1.7
+"260",263,180,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.8,NA,"Exclosure","Acer saccharinum",-93.66451669,42.03484304,273.548,444996.211,4653858.399,"225",141.3,99.9
+"261",264,181,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",1.11,"on strip","Exclosure","Acer saccharinum",-93.66451761,42.03485008,273.254,444996.141,4653859.181,"226",4.5,1.7
+"262",265,182,"2016-10-16",5,"LD","Platanus","occidentalis","sycamore",1.4,NA,"Exclosure","Platanus occidentalis",-93.66451007,42.03485699,273.73,444996.771,4653859.943,"227",4.6,1.6
+"263",266,183,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.86,NA,"Exclosure","Acer saccharinum",-93.6645189,42.03486008,273.877,444996.043,4653860.293,"228",2.7,1.4
+"264",267,184,"2016-10-16",5,"LD","Cornus","drummondii","roughleaf dogwood",1.37,"same as 232","Exclosure","Cornus drummondii",-93.66455393,42.03482473,273.193,444993.113,4653856.39,"229",4.7,1.6
+"265",268,185,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.72,NA,"Exclosure","Acer saccharinum",-93.66453839,42.03478168,274.006,444994.362,4653851.601,"230",2.6,1.4
+"266",269,186,"2016-10-16",5,"LD","unknown","unknown","unknown",0.66,"like Bc, buds small, black","Exclosure","unknown unknown",-93.66453335,42.03478177,273.854,444994.779,4653851.607,"231",2.6,1.4
+"267",270,188,"2016-10-16",5,"LD","Platanus","occidentalis","sycamore",1.14,NA,"Exclosure","Platanus occidentalis",-93.66452086,42.03478359,273.733,444995.815,4653851.801,"233",4.8,1.6
+"268",271,189,"2016-10-16",5,"LD","Ulmus","pumila","siberian elm",0.77,NA,"Exclosure","Ulmus pumila",-93.66451407,42.03477303,273.792,444996.368,4653850.624,"234",2.5,1.4
+"269",272,190,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.7,NA,"Exclosure","Acer saccharinum",-93.66452074,42.03476556,273.401,444995.81,4653849.799,"235",4.7,1.6
+"270",273,191,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.71,"mul?","Exclosure","Acer saccharinum",-93.66453994,42.03474073,274.251,444994.199,4653847.054,"236",2.5,1.4
+"271",274,192,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",1.18,NA,"Exclosure","Acer saccharinum",-93.66453436,42.03472621,273.823,444994.648,4653845.439,"237",4.6,1.6
+"272",275,193,"2016-10-16",5,"LD","Cornus","drummondii","roughleaf dogwood",0.77,"herb.","Exclosure","Cornus drummondii",NA,NA,NA,NA,NA,NA,NA,NA
+"273",276,194,"2016-10-16",5,"LD","Cornus","drummondii","roughleaf dogwood",0.92,"herb.","Exclosure","Cornus drummondii",NA,NA,NA,NA,NA,NA,NA,NA
+"274",277,195,"2016-10-16",5,"LD","Cornus","drummondii","roughleaf dogwood",1.45,"herb.","Exclosure","Cornus drummondii",NA,NA,NA,NA,NA,NA,NA,NA
+"275",278,196,"2016-10-16",5,"LD","Cornus","drummondii","roughleaf dogwood",0.83,NA,"Exclosure","Cornus drummondii",-93.6652205,42.03491029,271.468,444938.013,4653866.319,"1",2.2,1.2
+"276",279,197,"2016-10-16",5,"LD","Cornus","drummondii","roughleaf dogwood",1.25,NA,"Exclosure","Cornus drummondii",-93.6652017,42.03490547,271.295,444939.565,4653865.772,"2",4.2,2.1
+"277",280,199,"2016-10-16",5,"LD","Cornus","drummondii","roughleaf dogwood",0.6,NA,"Exclosure","Cornus drummondii",-93.66520481,42.03468284,272.097,444939.115,4653841.055,"4",2.1,1.3
+"278",281,200,"2016-10-16",5,"LD","Cornus","drummondii","roughleaf dogwood",0.65,NA,"Exclosure","Cornus drummondii",-93.66523035,42.03466443,272.103,444936.986,4653839.028,"5",2.6,1.7
+"279",282,201,"2016-10-16",5,"LD","Morus","alba","white mulberry",0.68,"same as 222-224, rough leaves lobed/non lobed","Exclosure","Morus alba",-93.66522314,42.03464719,272.241,444937.567,4653837.108,"6",2.6,1.7
+"280",283,202,"2016-10-16",5,"LD","Prunus","serotina","black cherry",0.53,"no orange hairs","Exclosure","Prunus serotina",-93.66522821,42.03464563,272.433,444937.146,4653836.938,"7",4.4,2.1
+"281",284,203,"2016-10-16",5,"LD","Morus","alba","white mulberry",0.92,"no leaves","Exclosure","Morus alba",-93.66522456,42.0346426,271.992,444937.446,4653836.6,"8",2.7,1.8
+"282",285,204,"2016-10-16",5,"LD","Morus","alba","white mulberry",2.5,NA,"Exclosure","Morus alba",-93.66521783,42.0346421,271.273,444938.002,4653836.539,"9",4.4,2
+"283",286,205,"2016-10-16",5,"LD","Morus","alba","white mulberry",0.97,"near strip","Exclosure","Morus alba",-93.66514472,42.03475294,271.901,444944.149,4653848.799,"10",6.3,5.3
+"284",287,206,"2016-10-16",5,"LD","Platanus","occidentalis","sycamore",1.06,"strip","Exclosure","Platanus occidentalis",-93.66516697,42.03489284,271.278,444942.428,4653864.347,"11",4,2.2
+"285",288,207,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.56,"strip","Exclosure","Acer saccharinum",-93.66518036,42.03490668,271.33,444941.332,4653865.892,"12",4.4,2.2
+"286",289,208,"2016-10-16",5,"LD","Cornus","drummondii","roughleaf dogwood",0.833,NA,"Exclosure","Cornus drummondii",-93.66506983,42.0348791,271.066,444950.457,4653862.758,"13",4.6,2.4
+"287",290,210,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.62,NA,"Exclosure","Acer saccharinum",-93.66506703,42.03487339,271.362,444950.684,4653862.123,"15",4.6,2.5
+"288",291,211,"2016-10-16",5,"LD","Acer","saccharinum","silver maple",0.74,NA,"Exclosure","Acer saccharinum",-93.66506312,42.03487383,271.431,444951.008,4653862.169,"16",3.1,2.1
+"289",292,212,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.5,NA,"Exclosure","Acer saccharinum",-93.66506399,42.03486907,271.051,444950.932,4653861.641,"17",4.7,2.6
+"290",293,213,"2016-10-19",6,"LD","Cornus","drummondii","roughleaf dogwood",0.5,NA,"Exclosure","Cornus drummondii",-93.66506105,42.03486951,271.272,444951.176,4653861.688,"18",4.7,2.6
+"291",294,214,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.62,NA,"Exclosure","Acer saccharinum",-93.66506401,42.03487494,271.355,444950.936,4653862.293,"19",4.7,2.6
+"292",295,215,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.51,NA,"Exclosure","Acer saccharinum",-93.66509027,42.03487323,270.756,444948.76,4653862.12,"20",3.5,2.6
+"293",296,216,"2016-10-19",6,"LD","Pyrus","calleryana","callery pear",0.53,NA,"Exclosure","Pyrus calleryana",-93.66506279,42.03485204,272.471,444951.017,4653859.75,"21",3.5,2.6
+"294",297,217,"2016-10-19",6,"LD","Ulmus","pumila","siberian elm",0.62,"tree??? Rough leaves","Exclosure","Ulmus pumila",-93.66508235,42.03480181,272.001,444949.354,4653854.185,"22",4.6,2.6
+"295",298,218,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.87,NA,"Exclosure","Acer saccharinum",-93.66513454,42.03473983,272.537,444944.981,4653847.337,"23",3.4,2.6
+"296",299,219,"2016-10-19",6,"LD","Cornus","drummondii","roughleaf dogwood",1.54,NA,"Exclosure","Cornus drummondii",-93.66512713,42.03468139,272.673,444945.543,4653840.844,"24",3.4,2.6
+"297",300,222,"2016-10-19",6,"LD","Pyrus","calleryana","callery pear",1.72,NA,"Exclosure","Pyrus calleryana",-93.66501066,42.03476293,272.933,444955.255,4653849.822,"27",3,1.5
+"298",301,223,"2016-10-19",6,"LD","Ulmus","pumila","siberian elm",0.82,NA,"Exclosure","Ulmus pumila",-93.66505774,42.03480681,273.384,444951.396,4653854.724,"28",3.6,1.5
+"299",302,224,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.76,"on strip","Exclosure","Acer saccharinum",-93.66500528,42.03479245,273.104,444955.725,4653853.096,"29",3.2,1.6
+"300",303,225,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.65,NA,"Exclosure","Acer saccharinum",-93.6649955,42.03482011,272.235,444956.559,4653856.161,"30",3.3,1.5
+"301",304,226,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.68,"on strip","Exclosure","Acer saccharinum",-93.66498575,42.03483557,272.91,444957.38,4653857.871,"31",2.9,1.4
+"302",305,227,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.74,NA,"Exclosure","Acer saccharinum",-93.66501147,42.03481924,272.369,444955.236,4653856.075,"32",3.4,1.5
+"303",306,228,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.98,"on strip ","Exclosure","Acer saccharinum",-93.66502582,42.03489732,272.182,444954.116,4653864.753,"33",3.3,1.5
+"304",307,229,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.69,NA,"Exclosure","Acer saccharinum",-93.66502077,42.03490325,271.824,444954.539,4653865.409,"34",3.3,1.5
+"305",308,230,"2016-10-19",6,"LD","Cornus","drummondii","roughleaf dogwood",0.9,NA,"Exclosure","Cornus drummondii",-93.66500817,42.03490174,272.62,444955.58,4653865.233,"35",3.3,1.5
+"306",309,231,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.56,NA,"Exclosure","Acer saccharinum",-93.66500793,42.03488766,272.358,444955.588,4653863.669,"36",3.3,1.8
+"307",310,233,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.67,NA,"Exclosure","Acer saccharinum",-93.66492792,42.03488616,272.743,444962.209,4653863.451,"38",3,1.5
+"308",311,234,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.62,NA,"Exclosure","Acer saccharinum",-93.66494339,42.03488343,272.625,444960.927,4653863.158,"39",21.3,6.9
+"309",312,235,"2016-10-19",6,"LD","Platanus","occidentalis","sycamore",0.61,NA,"Exclosure","Platanus occidentalis",-93.66495516,42.03485735,272.718,444959.93,4653860.269,"40",4.4,2.3
+"310",313,236,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.51,NA,"Exclosure","Acer saccharinum",-93.66496002,42.03485725,272.818,444959.528,4653860.262,"41",9.6,8.4
+"311",314,237,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.71,NA,"Exclosure","Acer saccharinum",-93.66491833,42.03480518,274.063,444962.933,4653854.454,"42",3.8,1.8
+"312",315,238,"2016-10-19",6,"LD","Cornus","drummondii","roughleaf dogwood",0.71,NA,"Exclosure","Cornus drummondii",-93.66496401,42.03480183,272.802,444959.149,4653854.111,"43",4.5,1.9
+"313",316,239,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",1.42,"on strip","Exclosure","Acer saccharinum",-93.66494565,42.03473605,273.738,444960.613,4653846.795,"44",4.3,1.9
+"314",317,240,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.72,NA,"Exclosure","Acer saccharinum",-93.66497317,42.03467087,273.922,444958.279,4653839.576,"45",4.1,1.7
+"315",318,241,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.77,NA,"Exclosure","Acer saccharinum",-93.66496246,42.03466102,273.644,444959.156,4653838.476,"46",4.7,2.7
+"316",319,242,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.7,NA,"Exclosure","Acer saccharinum",NA,NA,NA,NA,NA,NA,NA,NA
+"317",320,244,"2016-10-19",6,"LD/HD","Cornus","drummondii","roughleaf dogwood",1.26,NA,"Exclosure","Cornus drummondii",-93.66495743,42.03465071,272.858,444959.564,4653837.328,"47",4.1,1.8
+"318",321,245,"2016-10-19",6,"LD/HD","Cornus","drummondii","roughleaf dogwood",0.7,NA,"Exclosure","Cornus drummondii",-93.66493298,42.0346162,274.36,444961.558,4653833.481,"48",4.1,1.8
+"319",322,246,"2016-10-19",6,"LD/HD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66492527,42.03463387,273.533,444962.212,4653835.438,"49",7,3.3
+"320",323,247,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.98,NA,"Exclosure","Acer saccharinum",-93.66490143,42.03463107,273.461,444964.182,4653835.111,"50",5.4,3
+"321",324,248,"2016-10-19",6,"HD","Acer","saccharinum","silver maple",0.76,NA,"Exclosure","Acer saccharinum",-93.66489229,42.03462757,273.647,444964.936,4653834.717,"51",4.5,2.3
+"322",325,249,"2016-10-19",6,"HD","Acer","saccharinum","silver maple",0.58,NA,"Exclosure","Acer saccharinum",-93.66487474,42.03464523,273.715,444966.404,4653836.666,"52",4.2,2.1
+"323",326,250,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.65,"on strip","Exclosure","Acer saccharinum",-93.66487457,42.03480683,272.988,444966.557,4653854.609,"53",4.8,2.8
+"324",327,251,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",1.33,NA,"Exclosure","Acer saccharinum",-93.66487266,42.03485418,272.684,444966.756,4653859.865,"54",2.7,1.7
+"325",328,252,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",2.33,"on strip","Exclosure","Acer saccharinum",-93.66489977,42.03489789,272.112,444964.55,4653864.735,"55",3.2,2.1
+"326",329,253,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.87,NA,"Exclosure","Acer saccharinum",-93.66484801,42.03489225,272.845,444968.829,4653864.076,"56",8.1,3.4
+"327",330,255,"2016-10-19",6,"LD","Cornus","drummondii","roughleaf dogwood",1.11,NA,"Exclosure","Cornus drummondii",-93.6645341,42.03471341,274.026,444994.659,4653844.017,"239",35.8,13.6
+"328",331,256,"2016-10-19",6,"LD","Pyrus","calleryana","callery pear",2.23,NA,"Exclosure","Pyrus calleryana",-93.66451149,42.03471883,273.774,444996.535,4653844.605,"240",4,1.7
+"329",332,257,"2016-10-19",6,"LD","Pyrus","calleryana","callery pear",0.9,NA,"Exclosure","Pyrus calleryana",-93.66454437,42.03469485,274.141,444993.792,4653841.963,"241",4,1.7
+"330",333,258,"2016-10-19",6,"LD","Ulmus","pumila","siberian elm",0.61,"tree?? Same as 297","Exclosure","Ulmus pumila",-93.66453499,42.03467523,273.989,444994.552,4653839.779,"242",4.6,1.9
+"331",334,259,"2016-10-19",6,"LD/HD","Cornus","drummondii","roughleaf dogwood",0.94,NA,"Exclosure","Cornus drummondii",-93.6645309,42.03466011,274.015,444994.877,4653838.098,"243",4.6,1.9
+"332",335,260,"2016-10-19",6,"HD","Platanus","occidentalis","sycamore",0.52,NA,"Exclosure","Platanus occidentalis",-93.66452203,42.03465931,273.654,444995.611,4653838.003,"244",4.5,1.9
+"333",336,261,"2016-10-19",6,"LD/HD","Fraxinus","pennsylvanica","green ash",0.98,NA,"Exclosure","Fraxinus pennsylvanica",-93.6645075,42.03466296,273.57,444996.817,4653838.398,"245",4.5,1.9
+"334",337,262,"2016-10-19",6,"HD","Acer","saccharinum","silver maple",0.52,NA,"Exclosure","Acer saccharinum",-93.6645087,42.03466823,273.785,444996.722,4653838.985,"246",6.7,3.1
+"335",338,263,"2016-10-19",6,"HD","Cornus","drummondii","roughleaf dogwood",0.72,NA,"Exclosure","Cornus drummondii",-93.66450239,42.0346262,274.136,444997.208,4653834.315,"247",4.8,2.5
+"336",339,264,"2016-10-19",6,"HD","Cornus","drummondii","roughleaf dogwood",0.63,NA,"Exclosure","Cornus drummondii",-93.66449677,42.03463684,273.753,444997.682,4653835.492,"248",4.5,2
+"337",340,266,"2016-10-19",6,"HD","Cornus","drummondii","roughleaf dogwood",1.22,NA,"Exclosure","Cornus drummondii",-93.66447438,42.03463197,273.711,444999.531,4653834.936,"250",25.3,9
+"338",341,267,"2016-10-19",6,"HD","Cornus","drummondii","roughleaf dogwood",0.75,NA,"Exclosure","Cornus drummondii",-93.6644634,42.03462691,274.262,445000.435,4653834.368,"251",5.1,2.1
+"339",342,268,"2016-10-19",6,"HD","Cornus","drummondii","roughleaf dogwood",0.69,NA,"Exclosure","Cornus drummondii",-93.66441496,42.03461611,274.104,445004.436,4653833.137,"252",4.8,2.6
+"340",343,269,"2016-10-19",6,"HD","Cornus","drummondii","roughleaf dogwood",0.52,NA,"Exclosure","Cornus drummondii",-93.66445611,42.03463248,272.935,445001.044,4653834.982,"253",4.6,2.4
+"341",344,270,"2016-10-19",6,"LD","Cornus","drummondii","roughleaf dogwood",0.8,NA,"Exclosure","Cornus drummondii",-93.66445852,42.03463827,273.546,445000.849,4653835.626,"254",14,5.2
+"342",345,271,"2016-10-19",6,"LD","Cornus","drummondii","roughleaf dogwood",0.52,NA,"Exclosure","Cornus drummondii",-93.66446792,42.0346444,273.882,445000.077,4653836.313,"255",4.5,2.2
+"343",346,272,"2016-10-19",6,"LD","unknown","unknown","unknown",0.7,"simple, alt., lobed and not, buds small brown, stem grey-red ","Exclosure","unknown unknown",-93.6644815,42.03464422,273.817,444998.953,4653836.301,"256",4.9,2.5
+"344",347,273,"2016-10-19",6,"LD","Cornus","drummondii","roughleaf dogwood",0.75,NA,"Exclosure","Cornus drummondii",-93.66448306,42.03465282,273.805,444998.831,4653837.257,"257",4.5,2.3
+"345",348,274,"2016-10-19",6,"HD","Cornus","drummondii","roughleaf dogwood",1.04,NA,"Exclosure","Cornus drummondii",-93.66449036,42.03467192,273.278,444998.243,4653839.382,"258",4.3,2
+"346",349,275,"2016-10-19",6,"HD","Cornus","drummondii","roughleaf dogwood",1.28,NA,"Exclosure","Cornus drummondii",-93.66449599,42.03466938,273.924,444997.775,4653839.104,"259",4.5,2.4
+"347",350,277,"2016-10-19",6,"HD","Acer","saccharinum","silver maple",0.87,NA,"Exclosure","Acer saccharinum",-93.66444675,42.03468521,273.841,445001.864,4653840.831,"261",5,2.9
+"348",351,278,"2016-10-19",6,"HD","Prunus",NA,NA,1.05,NA,"Exclosure","Prunus NA",-93.66441755,42.03468163,273.778,445004.278,4653840.414,"262",5.7,2.5
+"349",352,279,"2016-10-19",6,"HD","Acer","saccharinum","silver maple",0.74,NA,"Exclosure","Acer saccharinum",-93.66447622,42.03468013,273.962,444999.42,4653840.285,"263",4.8,2.8
+"350",353,280,"2016-10-19",6,"HD","Acer","saccharinum","silver maple",0.55,NA,"Exclosure","Acer saccharinum",-93.66448018,42.03467971,274.039,444999.092,4653840.241,"264",2.7,1.7
+"351",354,281,"2016-10-19",6,"LD/HD","Acer","saccharinum","silver maple",0.73,NA,"Exclosure","Acer saccharinum",-93.66448839,42.03468564,273.959,444998.418,4653840.905,"265",2.7,1.7
+"352",355,282,"2016-10-19",6,"LD/HD","Cornus","drummondii","roughleaf dogwood",1.13,NA,"Exclosure","Cornus drummondii",-93.66448058,42.03470816,273.968,444999.084,4653843.4,"266",4.6,2.7
+"353",356,283,"2016-10-19",6,"LD/HD","Acer","saccharinum","silver maple",1.35,NA,"Exclosure","Acer saccharinum",-93.6644439,42.03469532,273.947,445002.109,4653841.951,"267",6.7,2.8
+"354",357,284,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.64,NA,"Exclosure","Acer saccharinum",-93.66444043,42.03470426,273.934,445002.404,4653842.942,"268",4.5,2.6
+"355",358,285,"2016-10-19",6,"LD","Cornus","drummondii","roughleaf dogwood",0.89,NA,"Exclosure","Cornus drummondii",-93.66442094,42.0347147,274.164,445004.026,4653844.088,"269",4.5,2.6
+"356",359,286,"2016-10-19",6,"LD","Cornus","drummondii","roughleaf dogwood",1.06,NA,"Exclosure","Cornus drummondii",-93.6644127,42.0347233,274.217,445004.715,4653845.038,"270",4.4,2.2
+"357",360,288,"2016-10-19",6,"LD","Pyrus","calleryana","callery pear",1,NA,"Exclosure","Pyrus calleryana",-93.66449151,42.03471964,273.609,444998.189,4653844.682,"272",2.5,1.5
+"358",361,289,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.64,NA,"Exclosure","Acer saccharinum",-93.66446057,42.03474688,273.975,445000.774,4653847.686,"273",2.6,1.6
+"359",362,290,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.65,NA,"Exclosure","Acer saccharinum",-93.6644166,42.03477599,273.479,445004.438,4653850.89,"274",2.4,1.5
+"360",363,291,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",1.44,NA,"Exclosure","Acer saccharinum",-93.66450787,42.03478777,273.66,444996.893,4653852.257,"275",4.1,2.4
+"361",364,292,"2016-10-19",6,"LD/HD","Acer","saccharinum","silver maple",0.57,NA,"Exclosure","Acer saccharinum",-93.66450524,42.03478793,273.586,444997.112,4653852.272,"276",2.2,1.2
+"362",365,293,"2016-10-19",6,"HD","Acer","saccharinum","silver maple",0.51,NA,"Exclosure","Acer saccharinum",-93.66449998,42.0347891,273.853,444997.547,4653852.399,"277",2.6,1.6
+"363",366,294,"2016-10-19",6,"HD","Pyrus","calleryana","callery pear",0.84,NA,"Exclosure","Pyrus calleryana",-93.66450817,42.03478217,274.018,444996.864,4653851.635,"278",22.2,16.4
+"364",367,295,"2016-10-19",6,"HD","Acer","saccharinum","silver maple",0.84,NA,"Exclosure","Acer saccharinum",-93.66450407,42.03480081,274.841,444997.219,4653853.702,"279",2.7,1.6
+"365",368,296,"2016-10-19",6,"HD","Acer","saccharinum","silver maple",0.73,NA,"Exclosure","Acer saccharinum",-93.66448814,42.03479195,273.516,444998.53,4653852.709,"280",4,2
+"366",369,297,"2016-10-19",6,"HD","Cornus","drummondii","roughleaf dogwood",1.26,NA,"Exclosure","Cornus drummondii",-93.6644931,42.0347927,273.526,444998.121,4653852.794,"281",2.2,1.2
+"367",370,299,"2016-10-19",6,"HD","Pyrus","calleryana","callery pear",1.07,NA,"Exclosure","Pyrus calleryana",-93.66441571,42.03481033,273.405,445004.542,4653854.702,"282",2.5,1.5
+"368",371,300,"2016-10-19",6,"HD","Platanus","occidentalis","sycamore",0.5,NA,"Exclosure","Platanus occidentalis",-93.66451665,42.03480826,274.695,444996.185,4653854.538,"284",3.5,2.2
+"369",372,301,"2016-10-19",6,"HD","Acer","saccharinum","silver maple",0.6,NA,"Exclosure","Acer saccharinum",-93.66451166,42.03481347,274.554,444996.602,4653855.112,"285",2.5,1.6
+"370",373,302,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.81,"next to cover plot","Exclosure","Acer saccharinum",-93.6645208,42.03481653,274.624,444995.848,4653855.458,"286",2.8,1.7
+"371",374,303,"2016-10-19",6,"LD","Pyrus","calleryana","callery pear",0.97,NA,"Exclosure","Pyrus calleryana",-93.66449532,42.0348593,273.786,444997.994,4653860.191,"287",2.3,1.3
+"372",375,304,"2016-10-19",6,"LD","Fraxinus","pennsylvanica","green ash",1.18,NA,"Exclosure","Fraxinus pennsylvanica",-93.66448049,42.03486793,273.512,444999.229,4653861.14,"288",2.4,1.6
+"373",377,305,"2016-10-19",6,"LD","Cornus","drummondii","roughleaf dogwood",0.83,NA,"Exclosure","Cornus drummondii",-93.66443159,42.03487679,273.257,445003.285,4653862.092,"289",2.3,1.2
+"374",378,306,"2016-10-19",6,"LD","Pyrus","calleryana","callery pear",0.65,NA,"Exclosure","Pyrus calleryana",-93.6644969,42.03489225,273.125,444997.891,4653863.85,"290",2.7,1.5
+"375",379,307,"2016-10-19",6,"LD","Cornus","drummondii","roughleaf dogwood",1.26,NA,"Exclosure","Cornus drummondii",-93.66449651,42.03489043,273.127,444997.923,4653863.648,"291",2.5,1.4
+"376",380,309,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.97,NA,"Exclosure","Acer saccharinum",NA,NA,NA,NA,NA,NA,NA,NA
+"377",381,310,"2016-10-19",6,"HD","Acer","saccharinum","silver maple",0.93,NA,"Exclosure","Acer saccharinum",NA,NA,NA,NA,NA,NA,NA,NA
+"378",382,311,"2016-10-19",6,"HD","Cornus","drummondii","roughleaf dogwood",1.18,NA,"Exclosure","Cornus drummondii",NA,NA,NA,NA,NA,NA,NA,NA
+"379",383,312,"2016-10-19",6,"LD","Pyrus","calleryana","callery pear",0.85,NA,"Exclosure","Pyrus calleryana",-93.66477472,42.03496415,272.81,444974.958,4653872.012,"538",3.1,1.6
+"380",384,313,"2016-10-19",6,"LD/HD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66470981,42.03517111,272.296,444980.509,4653894.949,"539",4.3,3
+"381",385,314,"2016-10-19",6,"LD/HD","Acer","saccharinum","silver maple",1.28,NA,"Exclosure","Acer saccharinum",-93.66473326,42.03497467,274.085,444978.399,4653873.153,"540",2.8,1.8
+"382",386,315,"2016-10-19",6,"LD/HD","Cornus","drummondii","roughleaf dogwood",1.27,NA,"Exclosure","Cornus drummondii",-93.66465768,42.03506665,273.563,444984.734,4653883.317,"541",2.5,1.4
+"383",387,316,"2016-10-19",6,"LD/HD","Acer","saccharinum","silver maple",0.68,NA,"Exclosure","Acer saccharinum",-93.66466209,42.03507412,272.859,444984.375,4653884.149,"542",16,15.5
+"384",388,317,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.58,NA,"Exclosure","Acer saccharinum",-93.66457585,42.03511138,272.727,444991.546,4653888.231,"543",6.4,2.9
+"385",389,318,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.75,NA,"Exclosure","Acer saccharinum",-93.66458451,42.03502757,273.164,444990.757,4653878.931,"544",3.6,1.9
+"386",390,320,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.9,NA,"Exclosure","Acer saccharinum",-93.66453008,42.03493849,273.471,444995.185,4653869.005,"546",2.9,1.4
+"387",391,321,"2016-10-19",6,"HD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66453098,42.03498073,273.372,444995.147,4653873.697,"547",2.3,1.4
+"388",392,322,"2016-10-19",6,"LD/HD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66454049,42.03499015,273.314,444994.368,4653874.748,"548",2.6,1.5
+"389",393,323,"2016-10-19",6,"LD","Pyrus","calleryana","callery pear",1.06,NA,"Exclosure","Pyrus calleryana",-93.66452853,42.03506049,272.611,444995.418,4653882.55,"549",2.9,1.9
+"390",394,324,"2016-10-19",6,"LD","Cornus","drummondii","roughleaf dogwood",0.67,NA,"Exclosure","Cornus drummondii",-93.66451795,42.03506369,272.598,444996.297,4653882.898,"550",2.9,1.9
+"391",395,325,"2016-10-19",6,"LD","Pyrus","calleryana","callery pear",0.92,NA,"Exclosure","Pyrus calleryana",-93.66452439,42.03509472,272.691,444995.791,4653886.348,"551",3,1.9
+"392",396,326,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.55,NA,"Exclosure","Acer saccharinum",-93.664517,42.0350997,272.612,444996.407,4653886.896,"552",2.3,1.3
+"393",397,327,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.53,NA,"Exclosure","Acer saccharinum",-93.66450939,42.03509303,272.542,444997.031,4653886.151,"553",3.1,1.4
+"394",398,328,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.59,NA,"Exclosure","Acer saccharinum",-93.66450385,42.03513474,272.3,444997.526,4653890.778,"554",2.3,1.2
+"395",399,329,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.72,NA,"Exclosure","Acer saccharinum",-93.66447891,42.03520395,271.805,444999.65,4653898.447,"555",2.1,1.4
+"396",400,332,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.57,NA,"Exclosure","Acer saccharinum",-93.6644866,42.03504699,272.415,444998.878,4653881.025,"558",3,1.9
+"397",401,333,"2016-10-19",6,"LD","Cercis","canadensis","redbud",0.6,"???","Exclosure","Cercis canadensis",-93.66449098,42.03499328,272.856,444998.469,4653875.064,"559",2.9,2
+"398",402,334,"2016-10-19",6,"LD","unknown","unknown","unknown",1.2,"same as 346","Exclosure","unknown unknown",-93.66445554,42.03500883,272.716,445001.415,4653876.767,"560",2.6,1.4
+"399",403,335,"2016-10-19",6,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66448908,42.03497387,273.232,444998.609,4653872.908,"561",2.4,1.2
+"400",404,336,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.61,NA,"Exclosure","Acer saccharinum",-93.66443683,42.03492725,273.137,445002.894,4653867.698,"562",3,1.8
+"401",405,337,"2016-10-19",6,"LD","Cornus","drummondii","roughleaf dogwood",0.73,NA,"Exclosure","Cornus drummondii",-93.6645682,42.03516455,272.306,444992.225,4653894.129,"563",2.5,1.3
+"402",406,338,"2016-10-19",6,"LD","Cornus","drummondii","roughleaf dogwood",0.65,NA,"Exclosure","Cornus drummondii",-93.66456173,42.03516833,272.179,444992.763,4653894.545,"564",2.5,1.3
+"403",407,339,"2016-10-19",6,"LD","Cornus","drummondii","roughleaf dogwood",0.58,NA,"Exclosure","Cornus drummondii",NA,NA,NA,NA,NA,NA,NA,NA
+"404",408,340,"2016-10-19",6,"LD","Cornus","drummondii","roughleaf dogwood",0.53,NA,"Exclosure","Cornus drummondii",NA,NA,NA,NA,NA,NA,NA,NA
+"405",409,341,"2016-10-19",6,"LD","Cornus","drummondii","roughleaf dogwood",1.55,NA,"Exclosure","Cornus drummondii",NA,NA,NA,NA,NA,NA,NA,NA
+"406",410,343,"2016-10-19",6,"LD","Cornus","drummondii","roughleaf dogwood",0.95,NA,"Exclosure","Cornus drummondii",-93.66373208,42.03535527,272.551,445061.597,4653914.768,"577",4.3,2.5
+"407",411,344,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.69,NA,"Exclosure","Acer saccharinum",-93.66372805,42.03532834,273.367,445061.907,4653911.776,"578",10.8,6.1
+"408",412,345,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.65,"on strip","Exclosure","Acer saccharinum",-93.66373311,42.03532375,273.181,445061.485,4653911.269,"579",2.6,1.4
+"409",413,346,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.68,NA,"Exclosure","Acer saccharinum",-93.6636861,42.03511526,273.196,445065.196,4653888.09,"580",2.7,1.3
+"410",414,347,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",1.15,NA,"Exclosure","Acer saccharinum",-93.66368351,42.03511462,273.237,445065.41,4653888.018,"581",2.8,1.6
+"411",415,348,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.79,NA,"Exclosure","Acer saccharinum",-93.66370358,42.03510486,272.984,445063.741,4653886.946,"582",11.1,6.1
+"412",416,349,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",1.27,NA,"Exclosure","Acer saccharinum",-93.66370261,42.03510975,273.055,445063.824,4653887.49,"583",2.4,1.2
+"413",417,350,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.55,NA,"Exclosure","Acer saccharinum",-93.66369849,42.03510919,273.055,445064.165,4653887.424,"584",2.2,1.2
+"414",418,351,"2016-10-19",6,"LD","Fraxinus","pennsylvanica","green ash",0.77,NA,"Exclosure","Fraxinus pennsylvanica",-93.66369762,42.03510645,273.009,445064.235,4653887.119,"585",2.2,1.2
+"415",419,352,"2016-10-19",6,"LD","Platanus","occidentalis","sycamore",0.89,"on strip","Exclosure","Platanus occidentalis",-93.66371262,42.03508409,273.062,445062.974,4653884.647,"586",3,1.6
+"416",420,354,"2016-10-19",6,"LD","Platanus","occidentalis","sycamore",0.57,NA,"Exclosure","Platanus occidentalis",-93.66369517,42.03508058,272.937,445064.415,4653884.246,"588",2.5,1.3
+"417",421,355,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.71,NA,"Exclosure","Acer saccharinum",-93.66362865,42.03507997,272.947,445069.921,4653884.135,"589",9,4.6
+"418",422,356,"2016-10-19",6,"LD","Pyrus","calleryana","callery pear",0.95,NA,"Exclosure","Pyrus calleryana",-93.66363574,42.03508956,273.107,445069.342,4653885.204,"590",2.2,1.1
+"419",423,357,"2016-10-19",6,"LD","Cornus","drummondii","roughleaf dogwood",1.62,NA,"Exclosure","Cornus drummondii",-93.66363388,42.03509139,273.09,445069.498,4653885.406,"591",2.2,1.1
+"420",424,358,"2016-10-19",6,"LD","Cornus","drummondii","roughleaf dogwood",0.57,NA,"Exclosure","Cornus drummondii",-93.66366023,42.03509098,272.949,445067.316,4653885.377,"592",2.5,1.3
+"421",425,359,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.9,NA,"Exclosure","Acer saccharinum",-93.66366536,42.03509757,273.156,445066.897,4653886.113,"593",2.8,1.5
+"422",426,360,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",1.13,NA,"Exclosure","Acer saccharinum",-93.66364679,42.03509759,272.948,445068.435,4653886.103,"594",4.3,2.6
+"423",427,361,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.68,NA,"Exclosure","Acer saccharinum",-93.66364795,42.03511086,273.265,445068.35,4653887.577,"595",2.4,1.4
+"424",428,362,"2016-10-19",6,"LD","Cornus","drummondii","roughleaf dogwood",1.18,NA,"Exclosure","Cornus drummondii",-93.66365979,42.03510708,273.131,445067.367,4653887.165,"596",2.5,1.3
+"425",429,363,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.82,NA,"Exclosure","Acer saccharinum",-93.66365915,42.03510542,272.789,445067.418,4653886.98,"597",2.4,1.2
+"426",430,365,"2016-10-19",6,"LD","Pyrus","calleryana","callery pear",1.03,NA,"Exclosure","Pyrus calleryana",-93.66363613,42.03513882,273.436,445069.353,4653890.674,"599",2.9,2.1
+"427",431,366,"2016-10-19",6,"LD","Pyrus","calleryana","callery pear",1.06,NA,"Exclosure","Pyrus calleryana",-93.663634,42.03517604,273.623,445069.561,4653894.805,"600",2.5,1.3
+"428",432,367,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.52,NA,"Exclosure","Acer saccharinum",-93.66364554,42.03522391,273.93,445068.647,4653900.127,"601",2.1,1.1
+"429",433,368,"2016-10-19",6,"LD","Pyrus","calleryana","callery pear",0.85,NA,"Exclosure","Pyrus calleryana",-93.66364648,42.03524092,273.906,445068.583,4653902.017,"602",2.1,1.1
+"430",434,369,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.53,NA,"Exclosure","Acer saccharinum",-93.66364691,42.03528921,273.796,445068.59,4653907.378,"603",2.3,1.3
+"431",435,370,"2016-10-19",6,"LD","unknown","unknown","unknown",1.1,"tree? Opposite, not lobed, entire, rough, light b. buds","Exclosure","unknown unknown",-93.66365933,42.03533226,273.693,445067.598,4653912.167,"604",3.3,1.5
+"432",436,371,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.6,NA,"Exclosure","Acer saccharinum",-93.66362263,42.03527157,274.048,445070.584,4653905.405,"605",7.8,3.5
+"433",437,372,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.54,NA,"Exclosure","Acer saccharinum",-93.66363507,42.03522646,273.867,445069.516,4653900.404,"607",2.5,1.3
+"434",438,373,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.74,NA,"Exclosure","Acer saccharinum",-93.6635738,42.03519703,274.061,445074.561,4653897.097,"607",2.1,1.2
+"435",439,374,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.6,NA,"Exclosure","Acer saccharinum",-93.66357941,42.03519712,274.121,445074.097,4653897.111,"608",2.1,1.2
+"436",440,376,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.68,NA,"Exclosure","Acer saccharinum",-93.66360423,42.03512872,273.581,445071.984,4653889.532,"610",6.8,3.1
+"437",441,377,"2016-10-19",6,"LD","unknown","unknown","unknown",0.68,"same as 297 service?","Exclosure","unknown unknown",-93.66362986,42.0350978,273.303,445069.836,4653886.116,"611",2.8,1.5
+"438",442,378,"2016-10-19",6,"LD","Cornus","drummondii","roughleaf dogwood",0.88,NA,"Exclosure","Cornus drummondii",-93.66362232,42.03509589,273.233,445070.459,4653885.899,"612",2.7,1.7
+"439",443,379,"2016-10-19",6,"LD","unknown","unknown","unknown",0.62,"tree? Dogwood?","Exclosure","unknown unknown",-93.66362219,42.03508923,273.3,445070.463,4653885.159,"613",3.3,1.5
+"440",444,380,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.7,NA,"Exclosure","Acer saccharinum",-93.66361704,42.03508457,273.753,445070.886,4653884.639,"614",2.3,1.4
+"441",445,381,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.5,NA,"Exclosure","Acer saccharinum",-93.66359829,42.03508467,273.506,445072.438,4653884.638,"615",2.5,1.4
+"442",447,382,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.84,NA,"Exclosure","Acer saccharinum",-93.66359941,42.03506835,273.337,445072.331,4653882.826,"616",2.5,1.4
+"443",448,383,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.53,NA,"Exclosure","Acer saccharinum",-93.66354959,42.03511186,273.627,445076.493,4653887.625,"617",5.9,2.7
+"444",449,384,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",1.1,NA,"Exclosure","Acer saccharinum",-93.66354612,42.03513651,273.713,445076.801,4653890.36,"618",1.9,1.2
+"445",450,386,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.66,NA,"Exclosure","Acer saccharinum",-93.66351951,42.03514164,273.97,445079.008,4653890.912,"620",2.5,1.4
+"446",451,387,"2016-10-19",6,"LD","Pyrus","calleryana","callery pear",1.17,"less red leaves?","Exclosure","Pyrus calleryana",-93.66353709,42.03514875,274.173,445077.559,4653891.713,"621",1.9,1.2
+"447",452,388,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.75,NA,"Exclosure","Acer saccharinum",-93.66353475,42.03515866,274.318,445077.761,4653892.811,"622",1.9,1.2
+"448",453,389,"2016-10-19",6,"LD","Acer","saccharinum","silver maple",0.68,NA,"Exclosure","Acer saccharinum",-93.66354763,42.03514587,274.12,445076.684,4653891.4,"623",2.9,1.5
+"449",454,390,"2016-10-23",7,"LD","Cornus","drummondii","roughleaf dogwood",0.68,NA,"Exclosure","Cornus drummondii",-93.66355463,42.0351957,274.25,445076.147,4653896.938,"624",2.5,1.9
+"450",455,391,"2016-10-23",7,"LD","Pyrus","calleryana","callery pear",0.68,NA,"Exclosure","Pyrus calleryana",-93.66353592,42.03522481,274.007,445077.721,4653900.157,"625",2.8,2.1
+"451",456,392,"2016-10-23",7,"LD","Pyrus","calleryana","callery pear",0.74,NA,"Exclosure","Pyrus calleryana",-93.66352881,42.03522118,274.318,445078.306,4653899.75,"626",3.4,1.9
+"452",457,393,"2016-10-23",7,"LD","Ulmus","pumila","siberian elm",1.04,"adult s. elm?","Exclosure","Ulmus pumila",-93.66352349,42.0352788,274.481,445078.797,4653906.143,"628",3.3,2
+"453",458,394,"2016-10-23",7,"LD","Ulmus","pumila","siberian elm",0.57,NA,"Exclosure","Ulmus pumila",-93.66352165,42.03527801,274.501,445078.948,4653906.055,"629",2.7,1.5
+"454",459,395,"2016-10-23",7,"LD","Ulmus","pumila","siberian elm",1.11,"check","Exclosure","Ulmus pumila",-93.66349635,42.03521148,274.377,445080.985,4653898.651,"630",2.7,1.5
+"455",460,396,"2016-10-23",7,"LD","Ulmus","pumila","siberian elm",0.81,"check","Exclosure","Ulmus pumila",-93.66348213,42.03511318,273.943,445082.077,4653887.728,"631",2.7,1.5
+"456",461,398,"2016-10-23",7,"LD","Ulmus","pumila","siberian elm",0.62,NA,"Exclosure","Ulmus pumila",-93.66345781,42.03507131,273.94,445084.054,4653883.064,"633",4.4,2.3
+"457",462,399,"2016-10-23",7,"LD","Ulmus","pumila","siberian elm",0.59,NA,"Exclosure","Ulmus pumila",-93.66347913,42.03509026,273.96,445082.306,4653885.182,"634",3.3,2.3
+"458",463,400,"2016-10-23",7,"LD","Ulmus","pumila","siberian elm",0.72,NA,"Exclosure","Ulmus pumila",-93.6634319,42.03511292,274.392,445086.235,4653887.667,"635",5.8,2.1
+"459",464,401,"2016-10-23",7,"LD","Ulmus","pumila","siberian elm",0.65,NA,"Exclosure","Ulmus pumila",-93.66343429,42.03511858,274.113,445086.042,4653888.297,"636",2.8,1.5
+"460",465,402,"2016-10-23",7,"LD","Ulmus","pumila","siberian elm",0.74,NA,"Exclosure","Ulmus pumila",-93.66343068,42.03511747,274.076,445086.34,4653888.171,"637",5.7,2.1
+"461",466,403,"2016-10-23",7,"LD","Ulmus","pumila","siberian elm",0.75,NA,"Exclosure","Ulmus pumila",-93.66345512,42.03513816,274.567,445084.335,4653890.485,"638",3.3,2.4
+"462",467,404,"2016-10-23",7,"LD","Cornus","drummondii","roughleaf dogwood",1.16,"same as 453","Exclosure","Cornus drummondii",-93.66345986,42.03514553,274.194,445083.949,4653891.306,"639",5.6,2.1
+"463",468,405,"2016-10-23",7,"LD","Ulmus","pumila","siberian elm",0.82,NA,"Exclosure","Ulmus pumila",-93.66347729,42.0351367,274.03,445082.499,4653890.336,"640",3.5,1.7
+"464",469,406,"2016-10-23",7,"LD","Ulmus","pumila","siberian elm",0.63,NA,"Exclosure","Ulmus pumila",-93.66347274,42.03515675,273.524,445082.892,4653892.56,"641",3.9,3.1
+"465",470,407,"2016-10-23",7,"LD","Ulmus","pumila","siberian elm",0.66,"on strip","Exclosure","Ulmus pumila",-93.66346773,42.03519937,274.537,445083.344,4653897.289,"642",3.4,2.5
+"466",471,409,"2016-10-23",7,"LD","Ulmus","pumila","siberian elm",0.6,NA,"Exclosure","Ulmus pumila",-93.66344319,42.03519629,274.025,445085.372,4653896.931,"644",5.4,2.2
+"467",472,410,"2016-10-23",7,"LD","Ulmus","pumila","siberian elm",0.68,NA,"Exclosure","Ulmus pumila",-93.66343254,42.03520418,274.102,445086.26,4653897.8,"645",5.3,2.2
+"468",473,411,"2016-10-23",7,"LD","Ulmus","pumila","siberian elm",0.52,NA,"Exclosure","Ulmus pumila",-93.6634632,42.03524379,274.706,445083.757,4653902.218,"646",6,3.4
+"469",474,412,"2016-10-23",7,"LD","Acer","saccharinum","silver maple",1.04,"on strip","Exclosure","Acer saccharinum",-93.66346132,42.03525612,274.635,445083.923,4653903.586,"647",3.4,2.6
+"470",475,413,"2016-10-23",7,"LD","Ulmus","pumila","siberian elm",0.52,NA,"Exclosure","Ulmus pumila",-93.66346894,42.03526665,274.289,445083.301,4653904.76,"648",6,3.4
+"471",476,414,"2016-10-23",7,"LD","Acer","saccharinum","silver maple",0.51,NA,"Exclosure","Acer saccharinum",-93.66349732,42.03525943,274.502,445080.946,4653903.977,"649",2.5,1.4
+"472",477,415,"2016-10-23",7,"LD/HD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66335424,42.03534907,274.73,445092.867,4653913.837,"650",7.7,3.6
+"473",478,416,"2016-10-23",7,"LD/HD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66337305,42.03529612,274.713,445091.264,4653907.971,"651",4.9,2.2
+"474",479,417,"2016-10-23",7,"LD/HD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66338133,42.03528826,274.776,445090.571,4653907.103,"652",3.9,2.2
+"475",480,418,"2016-10-23",7,"LD/HD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66338962,42.03528206,274.564,445089.88,4653906.419,"653",3.5,2.8
+"476",481,420,"2016-10-23",7,"LD/HD","Fraxinus","pennsylvanica","green ash",0.84,NA,"Exclosure","Fraxinus pennsylvanica",-93.66337737,42.03524112,275.031,445090.859,4653901.866,"655",4.6,2.2
+"477",482,421,"2016-10-23",7,"LD/HD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66342282,42.03522698,274.105,445087.085,4653900.325,"656",3.3,1.6
+"478",483,422,"2016-10-23",7,"LD","Pyrus","calleryana","callery pear",0.57,NA,"Exclosure","Pyrus calleryana",-93.663368,42.03520276,274.474,445091.601,4653897.601,"657",4.5,2.2
+"479",484,423,"2016-10-23",7,"LD/HD","Fraxinus","pennsylvanica","green ash",0.62,"no leaves/ buds","Exclosure","Fraxinus pennsylvanica",-93.66337321,42.03519652,274.235,445091.165,4653896.912,"658",3.3,1.6
+"480",485,424,"2016-10-23",7,"LD","Pyrus","calleryana","callery pear",0.7,NA,"Exclosure","Pyrus calleryana",-93.66338631,42.03519141,274.203,445090.076,4653896.353,"659",4.1,3
+"481",486,425,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,"on strip","Exclosure","Vitus riparia",-93.6633609,42.03518298,274.688,445092.172,4653895.4,"660",4.5,2.2
+"482",487,426,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,"on strip","Exclosure","Vitus riparia",-93.66340083,42.03517182,274.822,445088.858,4653894.187,"661",9.2,4.4
+"483",488,427,"2016-10-23",7,"HD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.6633769,42.03517071,274.816,445090.837,4653894.048,"662",3.2,1.6
+"484",489,428,"2016-10-23",7,"HD","Acer","saccharinum","silver maple",0.96,NA,"Exclosure","Acer saccharinum",-93.66340615,42.03514658,274.349,445088.395,4653891.387,"663",4.2,2.1
+"485",490,429,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66343548,42.03514646,274.28,445085.967,4653891.393,"664",9.9,4.9
+"486",491,431,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66337421,42.03510433,274.716,445091.003,4653886.676,"666",3.1,1.6
+"487",492,432,"2016-10-23",7,"LD","Acer","saccharinum","silver maple",0.74,NA,"Exclosure","Acer saccharinum",-93.66338941,42.03508031,274.329,445089.724,4653884.019,"667",3.1,1.6
+"488",493,433,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66338308,42.03508006,274.243,445090.247,4653883.988,"668",3.2,1.6
+"489",494,434,"2016-10-23",7,"LD","Pyrus","calleryana","callery pear",1.76,"not as red, fuzzy stems","Exclosure","Pyrus calleryana",-93.66336872,42.0350666,274.43,445091.425,4653882.484,"669",3.9,2.1
+"490",495,435,"2016-10-23",7,"LD","Pyrus","calleryana","callery pear",0.9,NA,"Exclosure","Pyrus calleryana",-93.66339348,42.03507413,274.225,445089.382,4653883.336,"670",3.9,2.7
+"491",496,436,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66342558,42.03509716,274.786,445086.744,4653885.913,"671",3.8,2.7
+"492",497,437,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66339079,42.03507925,273.96,445089.609,4653883.903,"672",4.5,3
+"493",498,438,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66367494,42.03511936,273.258,445066.123,4653888.539,"673",6.1,3.3
+"494",499,439,"2016-10-23",7,"HD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66356209,42.035269,273.95,445075.593,4653905.08,"627",3.7,2.5
+"495",500,440,"2016-10-23",7,"HD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66437596,42.03484708,273.24,445007.864,4653858.758,"292",9.6,4.6
+"496",501,443,"2016-10-23",7,"HD","Pyrus","calleryana","callery pear",1.3,"waxier","Exclosure","Pyrus calleryana",-93.66437769,42.0347126,274.051,445007.605,4653843.827,"295",8.8,4.1
+"497",502,444,"2016-10-23",7,"HD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.6643587,42.03465969,273.494,445009.131,4653837.941,"296",4.2,2.2
+"498",503,445,"2016-10-23",7,"LD/HD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66434517,42.03465663,273.518,445010.248,4653837.592,"297",3.7,1.9
+"499",504,446,"2016-10-23",7,"LD/HD","Rubus","unknown","raspberry",1.03,NA,"Exclosure","Rubus unknown",-93.66435619,42.03464059,273.61,445009.322,4653835.818,"298",3.9,2.1
+"500",505,447,"2016-10-23",7,"LD","Ulmus","pumila","siberian elm",0.68,NA,"Exclosure","Ulmus pumila",-93.66435297,42.03463947,273.868,445009.587,4653835.692,"299",2.3,1.4
+"501",506,448,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66428691,42.03461582,273.695,445015.035,4653833.023,"300",2.1,1.1
+"502",507,449,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66429778,42.0346287,273.355,445014.146,4653834.461,"301",2.5,1.3
+"503",508,450,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66429815,42.03463176,273.444,445014.119,4653834.801,"302",2.4,1.2
+"504",509,451,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66431717,42.0346392,273.446,445012.551,4653835.638,"303",2.4,1.2
+"505",510,452,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66428656,42.03464303,273.336,445015.087,4653836.044,"304",2.1,1.2
+"506",511,454,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66428076,42.03466764,273.414,445015.589,4653838.773,"306",2.5,1.3
+"507",512,455,"2016-10-23",7,"LD","Morus","alba","white mulberry",1.86,"dif. Leaves","Exclosure","Morus alba",-93.66427846,42.03467294,273.416,445015.784,4653839.359,"307",2.1,1.3
+"508",513,456,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66429418,42.03469405,273.483,445014.5,4653841.713,"308",2.3,1.2
+"509",514,457,"2016-10-23",7,"LD","Morus","alba","white mulberry",1.86,"no leaves","Exclosure","Morus alba",-93.66428649,42.03470042,273.474,445015.143,4653842.416,"309",2,1.2
+"510",515,458,"2016-10-23",7,"LD","Morus","alba","white mulberry",2.9,NA,"Exclosure","Morus alba",-93.66429425,42.03473817,273.508,445014.533,4653846.612,"310",2.4,1.3
+"511",516,459,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66428419,42.03473175,273.515,445015.36,4653845.893,"311",2,1.2
+"512",517,460,"2016-10-23",7,"LD","Fraxinus","pennsylvanica","green ash",1.11,NA,"Exclosure","Fraxinus pennsylvanica",-93.66428516,42.03474298,273.527,445015.289,4653847.14,"312",2.9,2.1
+"513",518,461,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66428427,42.03475404,273.558,445015.373,4653848.368,"313",2.3,1.2
+"514",519,462,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66429411,42.03475321,273.552,445014.558,4653848.282,"314",3.3,1.5
+"515",520,463,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66433513,42.03481862,273.583,445011.218,4653855.571,"315",4.9,2.6
+"516",521,465,"2016-10-23",7,"LD","Rhamnus","unknown","buckthorn",1.13,"blue berries","Exclosure","Rhamnus unknown",-93.66429882,42.03487679,273.33,445014.274,4653862.007,"317",1.8,1.1
+"517",522,466,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66427657,42.03482767,273.545,445016.073,4653856.538,"318",1.9,1.1
+"518",523,467,"2016-10-23",7,"LD","Cornus","drummondii","roughleaf dogwood",0.84,"same as 453","Exclosure","Cornus drummondii",-93.66426605,42.03480584,273.553,445016.925,4653854.107,"319",2.5,1.4
+"519",524,468,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66427135,42.03478282,273.632,445016.467,4653851.555,"320",2.5,1.4
+"520",525,469,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.6642723,42.03478704,273.464,445016.392,4653852.024,"321",3.5,3
+"521",526,470,"2016-10-23",7,"LD","Acer","saccharinum","silver maple",0.78,NA,"Exclosure","Acer saccharinum",-93.6642705,42.03477174,273.508,445016.527,4653850.325,"322",3.5,1.9
+"522",527,471,"2016-10-23",7,"LD","Acer","saccharinum","silver maple",0.68,NA,"Exclosure","Acer saccharinum",-93.66427248,42.03474786,273.514,445016.343,4653847.674,"323",2.8,1.5
+"523",528,472,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66425921,42.03468865,273.398,445017.39,4653841.091,"324",2.8,2.1
+"524",529,473,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66425363,42.03469344,273.38,445017.857,4653841.62,"325",3.3,2.3
+"525",530,474,"2016-10-23",7,"LD","Acer","saccharinum","silver maple",0.7,NA,"Exclosure","Acer saccharinum",-93.66426496,42.03465621,273.303,445016.887,4653837.493,"326",4.7,2.4
+"526",531,476,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66427365,42.03463821,273.386,445016.152,4653835.501,"328",4.6,2.4
+"527",532,477,"2016-10-23",7,"LD","Morus","alba","white mulberry",0.8,"no leaves - one deeply lobed","Exclosure","Morus alba",-93.66425601,42.03461963,273.209,445017.596,4653833.426,"329",2.7,1.5
+"528",533,478,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66425112,42.03462529,273.212,445018.005,4653834.052,"330",2.7,1.5
+"529",534,479,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66422247,42.03462218,273.252,445020.375,4653833.688,"331",2.7,1.5
+"530",535,480,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.6642407,42.03466369,273.214,445018.901,4653838.309,"332",4.5,2.3
+"531",536,481,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66423194,42.03467914,273.218,445019.639,4653840.018,"333",2.4,1.9
+"532",537,482,"2016-10-23",7,"LD","Acer","saccharinum","silver maple",1.11,"on strip","Exclosure","Acer saccharinum",-93.6642407,42.03468898,273.256,445018.923,4653841.117,"334",2.8,1.5
+"533",538,483,"2016-10-23",7,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66424959,42.0347277,273.733,445018.22,4653845.421,"335",2.8,1.4
+"534",539,484,"2016-10-23",3,"LD","Cornus","drummondii","roughleaf dogwood",0.82,"on strip/no leaves, red stems","Open","Cornus drummondii",-93.66426095,42.03474051,273.495,445017.291,4653846.851,"336",2.8,1.4
+"535",540,485,"2016-10-23",3,"LD","Platanus","occidentalis","sycamore",0.52,NA,"Open","Platanus occidentalis",-93.66424319,42.03476326,273.451,445018.781,4653849.365,"337",3.5,1.7
+"536",541,487,"2016-10-23",3,"LD","Platanus","occidentalis","sycamore",0.75,"on strip","Open","Platanus occidentalis",-93.66423506,42.0348098,272.856,445019.494,4653854.528,"399",3.5,2.3
+"537",542,488,"2016-10-23",3,"LD/HD","Acer","saccharinum","silver maple",0.58,NA,"Open","Acer saccharinum",-93.66423519,42.03481514,273.183,445019.488,4653855.121,"340",5.7,2.1
+"538",543,489,"2016-10-23",3,"LD/HD","Acer","saccharinum","silver maple",0.58,NA,"Open","Acer saccharinum",-93.66423492,42.03481768,272.883,445019.512,4653855.402,"341",5.6,2.1
+"539",544,490,"2016-10-23",3,"LD/HD","Acer","saccharinum","silver maple",1.28,NA,"Open","Acer saccharinum",-93.66423604,42.0348203,273.455,445019.422,4653855.694,"342",5.6,2.1
+"540",545,491,"2016-10-23",3,"HD","Acer","saccharinum","silver maple",0.57,NA,"Open","Acer saccharinum",-93.66423582,42.03481909,273.396,445019.439,4653855.559,"343",5.5,2.1
+"541",546,492,"2016-10-23",3,"LD","Acer","saccharinum","silver maple",0.52,NA,"Open","Acer saccharinum",-93.66425997,42.03488078,273.27,445017.493,4653862.424,"344",3.4,2.6
+"542",547,493,"2016-10-23",3,"LD","Pyrus","calleryana","callery pear",1.02,"few leaves/redder than dogwood","Open","Pyrus calleryana",-93.66421312,42.03486383,273.249,445021.357,4653860.512,"345",6.1,3.4
+"543",548,494,"2016-10-23",3,"LD","Acer","saccharinum","silver maple",0.94,"on strip","Open","Acer saccharinum",-93.66422499,42.03483756,273.266,445020.352,4653857.603,"346",5.3,2.2
+"544",549,495,"2016-10-23",3,"LD","Pyrus","calleryana","callery pear",NA,"on strip, no leaves","Open","Pyrus calleryana",-93.66420155,42.03483822,273.165,445022.292,4653857.661,"347",5.9,2.8
+"545",550,496,"2016-10-23",3,"HD","Vitus","riparia","grape vine",NA,NA,"Open","Vitus riparia",-93.66420837,42.03476751,273.304,445021.667,4653849.814,"348",5.9,2.8
+"546",551,498,"2016-10-23",3,"HD","Vitus","riparia","grape vine",NA,NA,"Open","Vitus riparia",-93.66418563,42.03475487,273.207,445023.538,4653848.397,"350",5.1,2.2
+"547",552,499,"2016-10-23",3,"HD","Vitus","riparia","grape vine",NA,NA,"Open","Vitus riparia",-93.66419948,42.03474846,273.253,445022.386,4653847.694,"351",2.5,1.4
+"548",553,500,"2016-10-23",3,"HD","Vitus","riparia","grape vine",NA,NA,"Open","Vitus riparia",-93.66420797,42.03474521,273.245,445021.681,4653847.339,"352",3.4,2.7
+"549",554,501,"2016-10-23",3,"HD","Acer","saccharinum","silver maple",1.19,NA,"Open","Acer saccharinum",-93.66419836,42.03473861,273.263,445022.47,4653846.599,"353",5.6,2.9
+"550",555,502,"2016-10-23",3,"LD","Cornus","drummondii","roughleaf dogwood",1.46,NA,"Open","Cornus drummondii",-93.66420476,42.0347019,273.271,445021.909,4653842.528,"354",4.9,2.2
+"551",556,503,"2016-10-23",3,"LD","Fraxinus","pennsylvanica","green ash",0.94,NA,"Open","Fraxinus pennsylvanica",-93.66423252,42.03469316,273.345,445019.603,4653841.575,"355",8,3.7
+"552",557,504,"2016-10-23",3,"LD","Cornus","drummondii","roughleaf dogwood",0.85,NA,"Open","Cornus drummondii",-93.66419082,42.03468026,273.252,445023.044,4653840.116,"356",4.8,2.2
+"553",558,505,"2016-10-23",3,"HD","Vitus","riparia","grape vine",NA,NA,"Open","Vitus riparia",-93.66419263,42.03465628,273.196,445022.874,4653837.454,"357",4.7,2.2
+"554",559,506,"2016-10-23",3,"HD","Acer","saccharinum","silver maple",1.32,NA,"Open","Acer saccharinum",-93.66419937,42.03463553,273.212,445022.298,4653835.155,"358",4.7,2.2
+"555",560,507,"2016-10-23",3,"LD/HD","Acer","saccharinum","silver maple",0.57,NA,"Open","Acer saccharinum",-93.66420286,42.03463525,273.249,445022.009,4653835.126,"359",3.3,1.6
+"556",561,509,"2016-10-23",3,"LD","Vitus","riparia","grape vine",NA,NA,"Open","Vitus riparia",-93.66416519,42.03461689,274.395,445025.111,4653833.064,"361",3.3,1.6
+"557",562,510,"2016-10-23",3,"LD","Platanus","occidentalis","sycamore",1.3,"on strip ","Open","Platanus occidentalis",-93.6641669,42.03463778,273.281,445024.988,4653835.384,"362",4.4,3
+"558",563,511,"2016-10-23",3,"LD","Vitus","riparia","grape vine",NA,NA,"Open","Vitus riparia",-93.66415009,42.03468085,274.17,445026.416,4653840.155,"363",3.2,1.6
+"559",564,512,"2016-10-23",3,"LD","Pyrus","calleryana","callery pear",0.67,NA,"Open","Pyrus calleryana",-93.66416789,42.0346778,273.968,445024.94,4653839.828,"364",3.2,1.6
+"560",565,513,"2016-10-23",3,"LD","Acer","saccharinum","silver maple",0.73,NA,"Open","Acer saccharinum",-93.66415941,42.03470748,273.629,445025.668,4653843.118,"365",3.2,1.6
+"561",566,514,"2016-10-23",3,"LD","Cornus","drummondii","roughleaf dogwood",0.61,NA,"Open","Cornus drummondii",-93.66417113,42.03476711,272.696,445024.749,4653849.746,"366",3.9,2.8
+"562",567,516,"2016-10-26",8,"LD","Ulmus","pumila","siberian elm",0.68,"darker","Exclosure","Ulmus pumila",-93.66419292,42.03479681,273.041,445022.97,4653853.058,"368",3.1,1.6
+"563",568,517,"2016-10-26",8,"LD","Ulmus","pumila","siberian elm",1.64,"lighter","Exclosure","Ulmus pumila",-93.66417962,42.03478762,273.057,445024.064,4653852.029,"369",3.1,1.6
+"564",569,518,"2016-10-26",8,"LD","Ulmus","pumila","siberian elm",0.67,"lighter","Exclosure","Ulmus pumila",-93.66417559,42.03479334,273.053,445024.403,4653852.661,"370",3.9,2.7
+"565",570,520,"2016-10-26",8,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66418779,42.03479825,273.506,445023.397,4653853.214,"372",3,1.6
+"566",571,521,"2016-10-26",8,"LD","Morus","alba","white mulberry",1.23,"no leaves","Exclosure","Morus alba",-93.66418814,42.03480914,273.781,445023.377,4653854.424,"373",3,1.6
+"567",572,522,"2016-10-26",8,"LD","Vitus","riparia","grape vine",0.79,NA,"Exclosure","Vitus riparia",-93.66416125,42.0348221,273.681,445025.614,4653855.846,"374",3.7,2
+"568",573,523,"2016-10-26",8,"LD","Acer","saccharinum","silver maple",0.76,NA,"Exclosure","Acer saccharinum",-93.66416447,42.03483141,273.819,445025.355,4653856.881,"375",3.8,2.6
+"569",574,524,"2016-10-26",8,"LD","Platanus","occidentalis","sycamore",0.73,NA,"Exclosure","Platanus occidentalis",-93.66419566,42.03486593,273.026,445022.803,4653860.735,"376",12.9,6.7
+"570",575,525,"2016-10-26",8,"LD","Acer","saccharinum","silver maple",0.72,NA,"Exclosure","Acer saccharinum",-93.66416439,42.03488168,273.459,445025.405,4653862.463,"377",4.8,2.9
+"571",576,526,"2016-10-26",8,"LD","Pyrus","calleryana","callery pear",1.16,"red veins","Exclosure","Pyrus calleryana",-93.66414836,42.03486232,273.722,445026.716,4653860.303,"378",13.8,7.2
+"572",577,527,"2016-10-26",8,"LD","Acer","saccharinum","silver maple",0.87,NA,"Exclosure","Acer saccharinum",-93.66413283,42.0348289,273.573,445027.973,4653856.582,"379",2.8,1.5
+"573",578,528,"2016-10-26",8,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66410286,42.0348118,274.021,445030.439,4653854.665,"380",3.4,2
+"574",579,529,"2016-10-26",8,"LD","Ulmus","pumila","siberian elm",0.5,"lighter","Exclosure","Ulmus pumila",-93.66414707,42.03480327,273.513,445026.772,4653853.746,"381",15.4,8.2
+"575",580,531,"2016-10-26",8,"LD","Acer","saccharinum","silver maple",0.96,NA,"Exclosure","Acer saccharinum",-93.66409166,42.03478292,273.211,445031.34,4653851.451,"383",2.7,1.5
+"576",581,532,"2016-10-26",8,"LD","Morus","alba","white mulberry",0.69,"deep lobes","Exclosure","Morus alba",-93.66410811,42.03476933,273.169,445029.967,4653849.953,"384",3.3,2
+"577",582,533,"2016-10-26",8,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66411708,42.03476143,273.079,445029.218,4653849.081,"385",2.7,1.5
+"578",583,534,"2016-10-26",8,"LD","Cornus","drummondii","roughleaf dogwood",1.22,NA,"Exclosure","Cornus drummondii",-93.66409633,42.03474991,273.199,445030.925,4653847.788,"386",2.7,1.5
+"579",584,535,"2016-10-26",8,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66411334,42.03474671,273.138,445029.515,4653847.444,"387",3.6,2.3
+"580",585,536,"2016-10-26",8,"LD","Acer","saccharinum","silver maple",0.68,NA,"Exclosure","Acer saccharinum",-93.66407302,42.03476093,272.899,445032.864,4653848.998,"388",6.5,3.4
+"581",586,537,"2016-10-26",8,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66407938,42.03474986,273.076,445032.328,4653847.773,"389",22.4,12.6
+"582",587,538,"2016-10-26",8,"LD","unknown","unknown","unknown",0.74,"opposite leaves, red stem, blunt edge","Exclosure","unknown unknown",-93.66408441,42.0347388,273.648,445031.902,4653846.547,"390",6.6,3.4
+"583",588,539,"2016-10-26",8,"LD","Pyrus","calleryana","callery pear",1.01,"red veins","Exclosure","Pyrus calleryana",-93.66414768,42.03473175,272.904,445026.659,4653845.805,"391",3.5,2.2
+"584",589,540,"2016-10-26",8,"LD","Acer","saccharinum","silver maple",0.52,NA,"Exclosure","Acer saccharinum",-93.66413502,42.03471174,273.588,445027.69,4653843.576,"392",38,23.6
+"585",590,543,"2016-10-26",8,"LD","Pyrus","calleryana","callery pear",0.56,"598","Exclosure","Pyrus calleryana",-93.66409642,42.03471397,273.666,445030.887,4653843.798,"395",6.7,3.5
+"586",591,544,"2016-10-26",8,"LD","Fraxinus","pennsylvanica","green ash",1.04,NA,"Exclosure","Fraxinus pennsylvanica",-93.66407328,42.03472929,273.263,445032.815,4653845.484,"396",3.5,2.1
+"587",592,545,"2016-10-26",8,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66408513,42.03470127,272.813,445031.81,4653842.381,"397",3.5,2.1
+"588",593,546,"2016-10-26",8,"LD","Vitus","riparia","grape vine",NA,"on strip","Exclosure","Vitus riparia",-93.66410721,42.03466443,273.095,445029.951,4653838.304,"398",101,63.5
+"589",594,547,"2016-10-26",8,"LD","Ulmus","pumila","siberian elm",0.5,"lighter but small","Exclosure","Ulmus pumila",-93.66410233,42.03466212,272.608,445030.353,4653838.046,"399",3.5,2.1
+"590",595,548,"2016-10-26",8,"LD","Ulmus","pumila","siberian elm",0.63,NA,"Exclosure","Ulmus pumila",-93.66412637,42.03462606,273.615,445028.332,4653834.057,"400",3.5,2.1
+"591",596,549,"2016-10-26",8,"LD","unknown","unknown","unknown",0.62,"one leaf","Exclosure","unknown unknown",-93.66412225,42.03462745,273.163,445028.675,4653834.209,"401",3.5,2.1
+"592",597,550,"2016-10-26",8,"LD","Rubus","unknown","raspberry",0.99,NA,"Exclosure","Rubus unknown",-93.66411886,42.03462404,272.927,445028.952,4653833.828,"402",3.5,2.1
+"593",598,551,"2016-10-26",8,"HD","Cornus","drummondii","roughleaf dogwood",0.99,NA,"Exclosure","Cornus drummondii",-93.6641105,42.03462319,272.676,445029.643,4653833.728,"403",3.5,2.1
+"594",599,552,"2016-10-26",8,"HD","Prunus","serotina","black cherry",1.01,NA,"Exclosure","Prunus serotina",-93.66410585,42.03462085,272.395,445030.026,4653833.465,"404",3.5,2.1
+"595",600,554,"2016-10-26",8,"LD/HD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.6640986,42.0346214,272.899,445030.627,4653833.522,"406",2.6,1.3
+"596",601,555,"2016-10-26",8,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66410097,42.03462032,272.925,445030.43,4653833.403,"407",2.2,1.1
+"597",602,556,"2016-10-26",8,"LD","Acer","saccharinum","silver maple",0.6,NA,"Exclosure","Acer saccharinum",-93.6640964,42.03462262,272.955,445030.81,4653833.656,"408",25.8,12.6
+"598",603,557,"2016-10-26",8,"LD","Acer","saccharinum","silver maple",0.63,NA,"Exclosure","Acer saccharinum",-93.6640916,42.03462396,273.072,445031.209,4653833.802,"409",2.4,1.2
+"599",604,558,"2016-10-26",8,"LD","Acer","saccharinum","silver maple",1.2,NA,"Exclosure","Acer saccharinum",-93.66408655,42.03462157,272.947,445031.625,4653833.533,"410",2.6,1.5
+"600",605,559,"2016-10-26",8,"LD","Morus","alba","white mulberry",1.12,"deeply lobed","Exclosure","Morus alba",-93.6640487,42.0346188,272.872,445034.755,4653833.201,"411",4,1.9
+"601",606,560,"2016-10-26",8,"LD","Acer","saccharinum","silver maple",1.05,NA,"Exclosure","Acer saccharinum",-93.66403515,42.03461793,272.759,445035.876,4653833.095,"412",2.6,1.5
+"602",607,561,"2016-10-26",8,"LD","Morus","alba","white mulberry",0.65,"both leaves","Exclosure","Morus alba",-93.66400515,42.03461633,272.761,445038.358,4653832.899,"413",3.9,1.9
+"603",608,562,"2016-10-26",8,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66399911,42.03461693,272.804,445038.858,4653832.961,"414",2.2,1.1
+"604",610,564,"2016-10-26",8,"LD/HD","Acer","saccharinum","silver maple",0.87,NA,"Exclosure","Acer saccharinum",-93.66398256,42.03462093,273.009,445040.231,4653833.395,"416",2.5,1.4
+"605",611,565,"2016-10-26",8,"LD/HD","Acer","saccharinum","silver maple",2.22,NA,"Exclosure","Acer saccharinum",-93.66400184,42.03462664,272.965,445038.64,4653834.041,"417",2.5,1.3
+"606",612,566,"2016-10-26",8,"LD/HD","Platanus","occidentalis","sycamore",2.54,NA,"Exclosure","Platanus occidentalis",-93.66402045,42.03462928,273.045,445037.102,4653834.347,"418",9.7,4.6
+"607",613,567,"2016-10-26",8,"LD/HD","Acer","saccharinum","silver maple",0.97,NA,"Exclosure","Acer saccharinum",-93.66402785,42.03463387,273.031,445036.494,4653834.861,"19",2.5,1.3
+"608",614,568,"2016-10-26",8,"HD","Pyrus","calleryana","callery pear",0.67,"red vein","Exclosure","Pyrus calleryana",-93.66402586,42.03463616,272.815,445036.66,4653835.113,"420",9.4,4.4
+"609",615,569,"2016-10-26",8,"HD","Acer","saccharinum","silver maple",0.61,"white buds, red stem","Exclosure","Acer saccharinum",-93.66402901,42.03464034,272.862,445036.403,4653835.58,"421",9.3,4.4
+"610",616,570,"2016-10-26",8,"HD","Pyrus","calleryana","callery pear",0.62,"624","Exclosure","Pyrus calleryana",-93.66400736,42.03464502,272.885,445038.199,4653836.086,"422",2.4,1.4
+"611",617,571,"2016-10-26",8,"LD/HD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66404358,42.03465137,272.957,445035.207,4653836.814,"423",2.4,1.2
+"612",618,572,"2016-10-26",8,"LD/HD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66404206,42.03465709,273.063,445035.338,4653837.448,"424",8.7,4
+"613",619,573,"2016-10-26",8,"LD/HD","Ulmus","pumila","siberian elm",1.3,"small, light/bent 1-stick","Exclosure","Ulmus pumila",-93.66403831,42.03466065,273.067,445035.651,4653837.841,"425",2.4,1.2
+"614",620,575,"2016-10-26",8,"LD/HD","Pyrus","calleryana","callery pear",0.61,NA,"Exclosure","Pyrus calleryana",-93.66405934,42.03467332,273.074,445033.921,4653839.261,"427",3.6,1.9
+"615",621,576,"2016-10-26",8,"LD","Acer","saccharinum","silver maple",0.76,NA,"Exclosure","Acer saccharinum",-93.66405583,42.03466931,273.158,445034.208,4653838.813,"428",2.5,1.3
+"616",622,577,"2016-10-26",8,"LD","Pyrus","calleryana","callery pear",1.04,"not as red","Exclosure","Pyrus calleryana",-93.66400911,42.03466325,272.921,445038.07,4653838.111,"429",2.5,1.3
+"617",623,578,"2016-10-26",8,"LD","Acer","saccharinum","silver maple",0.78,NA,"Exclosure","Acer saccharinum",-93.66407194,42.03470098,272.8,445032.902,4653842.34,"430",2.4,1.2
+"618",624,579,"2016-10-26",8,"LD","Acer","saccharinum","silver maple",0.83,NA,"Exclosure","Acer saccharinum",-93.66400459,42.03473179,272.627,445038.503,4653845.718,"431",2.5,1.3
+"619",625,580,"2016-10-26",8,"LD","Acer","saccharinum","silver maple",1.09,NA,"Exclosure","Acer saccharinum",-93.66406777,42.03474978,272.263,445033.29,4653847.756,"432",3.3,1.5
+"620",626,581,"2016-10-26",8,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66407506,42.03476473,272.414,445032.699,4653849.421,"433",3.3,1.5
+"621",627,582,"2016-10-26",8,"LD","Morus","alba","white mulberry",1.26,"waxy grey/no leaves, on strip","Exclosure","Morus alba",-93.66403662,42.03477881,272.155,445035.893,4653850.959,"434",2.5,1.3
+"622",628,583,"2016-10-26",8,"LD","Acer","saccharinum","silver maple",1.27,"on strip ","Exclosure","Acer saccharinum",-93.66400448,42.03476702,272.3,445038.543,4653849.629,"435",5.3,3.4
+"623",629,584,"2016-10-26",8,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66398598,42.0347682,272.381,445040.075,4653849.749,"436",3.9,1.9
+"624",630,586,"2016-10-26",8,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66407171,42.0347927,272.653,445033,4653852.524,"438",2.3,1.3
+"625",631,587,"2016-10-26",8,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66405634,42.03480861,272.731,445034.286,4653854.281,"439",2.1,1.3
+"626",632,588,"2016-10-26",8,"LD","Platanus","occidentalis","sycamore",1.55,NA,"Exclosure","Platanus occidentalis",-93.66403609,42.03480702,272.635,445035.961,4653854.091,"440",2.1,1.3
+"627",633,589,"2016-10-26",8,"LD","Morus","alba","white mulberry",0.96,"deeply lobed","Exclosure","Morus alba",-93.66403187,42.03480714,272.595,445036.31,4653854.101,"441",3.3,1.8
+"628",634,590,"2016-10-26",8,"LD","Acer","saccharinum","silver maple",0.7,NA,"Exclosure","Acer saccharinum",-93.66409664,42.03481124,272.56,445030.952,4653854.598,"442",4.9,2.6
+"629",635,591,"2016-10-26",8,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66408526,42.03482342,272.491,445031.905,4653855.943,"443",2.3,1.6
+"630",636,592,"2016-10-26",8,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66405579,42.03481905,272.698,445034.341,4653855.439,"444",1.9,1.1
+"631",637,593,"2016-10-26",8,"HD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66398856,42.03481022,272.705,445039.898,4653854.416,"445",1.9,1.1
+"632",638,594,"2016-10-26",8,"HD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66401165,42.03482334,272.127,445037.998,4653855.887,"446",2.8,1.5
+"633",639,595,"2016-10-26",8,"HD","Pyrus","calleryana","callery pear",0.58,"not red","Exclosure","Pyrus calleryana",-93.66403151,42.03483546,272.162,445036.364,4653857.246,"447",2.1,1.3
+"634",640,597,"2016-10-26",8,"LD","Ulmus","pumila","siberian elm",1.2,NA,"Exclosure","Ulmus pumila",-93.66400138,42.03487859,271.939,445038.896,4653862.015,"449",2.9,1.5
+"635",641,598,"2016-10-26",8,"LD","Rubus","unknown","raspberry",0.54,NA,"Exclosure","Rubus unknown",-93.66404413,42.03488317,271.98,445035.361,4653862.551,"450",2.9,1.5
+"636",642,599,"2016-10-26",8,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.6640773,42.03488563,272.094,445032.618,4653862.846,"451",1.9,1.2
+"637",643,600,"2016-10-26",8,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66409347,42.03488432,272.33,445031.278,4653862.71,"452",2.9,1.5
+"638",644,601,"2016-10-26",8,"LD","Vitus","riparia","grape vine",NA,"on strip","Exclosure","Vitus riparia",-93.66409925,42.03462774,273.538,445030.579,4653834.226,"453",3.4,2.6
+"639",645,602,"2016-10-26",8,"LD","Morus","alba","white mulberry",0.82,"both leaves","Exclosure","Morus alba",-93.66380533,42.03526647,272.941,445055.457,4653904.956,"453b",6.6,3.4
+"640",646,603,"2016-10-26",8,"LD","Morus","alba","white mulberry",0.75,"deep lobes - extra lobe","Exclosure","Morus alba",-93.66383002,42.03528589,272.404,445053.431,4653907.128,"454",2.9,1.5
+"641",647,604,"2016-10-26",8,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66383676,42.035296,272.249,445052.881,4653908.255,"455",5.8,2.3
+"642",648,605,"2016-10-26",8,"LD","Pyrus","calleryana","callery pear",0.89,"red","Exclosure","Pyrus calleryana",-93.66379488,42.03535722,273.029,445056.401,4653915.025,"456",3.5,1.6
+"643",649,606,"2016-10-26",8,"LD","Pyrus","calleryana","callery pear",1.8,"stem not as red","Exclosure","Pyrus calleryana",-93.66380191,42.03536432,272.801,445055.825,4653915.818,"457",5.8,2.1
+"644",650,608,"2016-10-26",8,"LD","Acer","saccharinum","silver maple",0.61,NA,"Exclosure","Acer saccharinum",-93.66380542,42.03538069,272.927,445055.548,4653917.638,"459",3.3,2.4
+"645",651,609,"2016-10-26",8,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.66380585,42.03537494,272.83,445055.507,4653916.999,"460",2.7,1.4
+"646",652,610,"2016-10-26",8,"LD","Morus","alba","white mulberry",1.34,"deep lobe","Exclosure","Morus alba",-93.66379354,42.03539665,272.687,445056.545,4653919.402,"461",2.8,1.5
+"647",653,611,"2016-10-26",8,"LD","Pyrus","calleryana","callery pear",1.06,"red stems, not veins","Exclosure","Pyrus calleryana",-93.66379144,42.03540055,272.569,445056.722,4653919.834,"462",3.5,1.7
+"648",654,612,"2016-10-26",8,"LD","Platanus","occidentalis","sycamore",0.58,"on strip ","Exclosure","Platanus occidentalis",-93.66378468,42.03541614,272.694,445057.295,4653921.561,"463",5.6,2.1
+"649",655,613,"2016-10-26",8,"LD","Vitus","riparia","grape vine",NA,"on strip ","Exclosure","Vitus riparia",-93.66379052,42.03542085,272.397,445056.816,4653922.087,"464",5.5,2.1
+"650",656,614,"2016-10-26",8,"LD","Acer","saccharinum","silver maple",0.87,NA,"Exclosure","Acer saccharinum",-93.66379894,42.03545341,272.224,445056.147,4653925.708,"465",5.4,2.2
+"651",657,615,"2016-10-26",8,"LD","Cornus","drummondii","roughleaf dogwood",0.94,NA,"Exclosure","Cornus drummondii",-93.66382878,42.03544385,272.128,445053.669,4653924.666,"466",4.7,3.4
+"652",658,616,"2016-10-26",8,"LD","Vitus","riparia","grape vine",NA,NA,"Exclosure","Vitus riparia",-93.6638033,42.03547757,272.112,445055.808,4653928.393,"467",3.4,2.6
+"653",659,617,"2016-10-26",8,"LD","Platanus","occidentalis","sycamore",1.37,NA,"Exclosure","Platanus occidentalis",-93.66380938,42.0354686,272.055,445055.296,4653927.401,"468",4,2.2
+"654",660,619,"2016-10-26",8,"LD","Cornus","stolonifera","red osier dogwood",NA,"very red","Exclosure","Cornus stolonifera",-93.66386317,42.03546498,271.822,445050.841,4653927.034,"470",4.5,3.1
+"655",661,620,"2016-10-26",8,"LD","Acer","saccharinum","silver maple",0.64,NA,"Exclosure","Acer saccharinum",-93.66389446,42.03546031,271.644,445048.246,4653926.535,"471",3.9,2.2
+"656",662,621,"2016-10-26",8,"LD","Cornus","drummondii","roughleaf dogwood",0.69,NA,"Exclosure","Cornus drummondii",-93.66389317,42.03545825,271.669,445048.352,4653926.306,"472",3.9,2.2
+"657",663,622,"2016-10-26",8,"LD/HD","Morus","alba","white mulberry",0.88,NA,"Exclosure","Morus alba",-93.66386798,42.03543171,271.929,445050.414,4653923.342,"473",4.9,2.2
