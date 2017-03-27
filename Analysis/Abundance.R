@@ -28,19 +28,23 @@ ggplot(sumseedling_gen, aes(Treatment, total, color=Herbivory))+
 #need to adjust for abundance of low vs high diversity area still. 
 AbunMod <- glm(total ~ Treatment * Herbivory, family=poisson, data=sumseedling)
 summary(AbunMod)
-confint (AbunMod) #interaction is significant
+confint (AbunMod) #interaction is not significant
+
+AbunMod2 <- glm(total ~ Treatment  + Herbivory, family=poisson, data=sumseedling)
+summary(AbunMod2)
+confint (AbunMod2) #both main effects are significant. 
 
 #Model validation
 #A. Look at homogeneity: plot fitted values vs residuals
 #method 1: 
-plot(AbunMod)
+plot(AbunMod2)
 
 #method 2: 
 #extract residuals
-E1 <- resid(AbunMod, type = "pearson")
+E1 <- resid(AbunMod2, type = "pearson")
 
 #extract fitted values
-F1 <- fitted(AbunMod, type = "response")
+F1 <- fitted(AbunMod2, type = "response")
 
 #plot fitted vs residuals
 par(mfrow = c(2,2), mar = c(5,5,2,2))
@@ -77,7 +81,7 @@ sumseedling <- ddply(sumseedling, c("Herbivory", "Treatment"), summarise,
 group.colors <- c("HD"="#E69F00", "LD"="#D55E00FF", "LD/HD"="#F0E442") #need to change these
  
 ggplot(sumseedling, aes(Herbivory, mean, color=Treatment))+
-  geom_point(stat="identity", position=position_dodge(width=0.4))+  geom_errorbar(aes(ymin=mean-se, ymax=mean+se), width=0.2, position=position_dodge(width=0.4))+
+  geom_point(stat="identity", position=position_dodge(width=0.4))+  geom_errorbar(aes(ymin=mean-1.96*se, ymax=mean+1.96*se), width=0.2, position=position_dodge(width=0.4))+
  scale_color_manual(name="Diversity Treatment", labels=c("High Diversity", "Low Diversity", "High/Low"), values=group.colors)+
   ylab("Number of Seedlings")+
  theme_classic()
