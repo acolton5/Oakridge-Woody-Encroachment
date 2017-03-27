@@ -2,6 +2,9 @@
 #1) loop over each row of seedling_gps [i]
 #2) for every row, calculate distance to each row/tree in adultgps where seedling_gps$GenSp == adultgps$GenSp, and print in a temporary vector. This will be the same length as the number of adult trees of that spp. 
 #3) pull out the minimum distance of all distances to adults. Print in a single column in seedling_gps. 
+
+seedling_gps<-read.csv("Data/Tidy/seedlinggps_tidy.csv")
+adultgps<-read.csv("Data/Tidy/adultgps_tidy.csv")
   
 #Make empty matrix and then calculate distance between each tree-seedling combo for species i
     distances.i<-matrix(NA,nrow(seedling_gps),nrow(adultgps)) #make empty matrix to populate during for loop; 
