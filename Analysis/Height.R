@@ -15,6 +15,7 @@
 #load libraries
 library(lme4)
 library(ggplot2)
+library(plyr)
 
 #load data
 Seedling <- read.csv("Data/Tidy/SeedlingData_Tidy.csv", na.strings=c("", "NA", ""))
@@ -127,7 +128,7 @@ group.colors <- c("HD"="#E69F00", "LD"="#D55E00FF", "LD/HD"="#F0E442") #need to 
 
 ggplot(sumseedling, aes(Herbivory, mean, color=Treatment))+
   geom_point(stat="identity", position=position_dodge(width=0.4))+
-  geom_errorbar(aes(ymin=mean-se, ymax=mean+se), width=0.2, position=position_dodge(width=0.4))+
+  geom_errorbar(aes(ymin=mean-1.96*se, ymax=mean+1.96*se), width=0.2, position=position_dodge(width=0.4))+
   scale_color_manual(name="Diversity Treatment", labels=c("High Diversity", "Low Diversity", "High/Low"), values=group.colors)+
   ylab("Height (m)")+
   theme_classic()
