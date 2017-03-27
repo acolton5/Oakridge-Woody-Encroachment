@@ -539,12 +539,11 @@ levels(factor(SeedlingData_Raw_Compiled$Herbivory))
 levels(factor(SeedlingData_Raw_Compiled$Block))
 levels(factor(SeedlingData_Raw_Compiled$Date))
 
-missingdata<-SeedlingData_Raw_Compiled[is.na(SeedlingData_Raw_Compiled$Genus),]
-missingdata<-SeedlingData_Raw_Compiled[is.na(SeedlingData_Raw_Compiled$height),]
-missingdata<-SeedlingData_Raw_Compiled[is.na(SeedlingData_Raw_Compiled$Species),]
-missingdata<-SeedlingData_Raw_Compiled[is.na(SeedlingData_Raw_Compiled$Date),]
-missingdata<-SeedlingData_Raw_Compiled[is.na(SeedlingData_Raw_Compiled$Treatment),]
-
+missingdata<-SeedlingData_Raw_Compiled[is.na(SeedlingData_Raw_Compiled$Genus),] #0 rows missing genus
+missingdata<-SeedlingData_Raw_Compiled[is.na(SeedlingData_Raw_Compiled$height),] #99 rows missing height
+missingdata<-SeedlingData_Raw_Compiled[is.na(SeedlingData_Raw_Compiled$Species),] #0 row missing spp
+missingdata<-SeedlingData_Raw_Compiled[is.na(SeedlingData_Raw_Compiled$Date),] #0 row missing date
+missingdata<-SeedlingData_Raw_Compiled[is.na(SeedlingData_Raw_Compiled$Treatment),] #0 row missing Treatment
 
 #Create tidy csv
 write.csv(SeedlingData_Raw_Compiled, "Data/Tidy/SeedlingData_Tidy.csv")
