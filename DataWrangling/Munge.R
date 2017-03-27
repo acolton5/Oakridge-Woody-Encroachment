@@ -98,6 +98,7 @@ SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Common.Name== "rough
 SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$Genus== "Cornus"]<- "roughleaf dogwood"
 SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Genus== "Cornus"]<- "drummondii"
 
+
 SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$ID== "49"]<- "red osier dogwood"
 SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$ID== "670"]<- "red osier dogwood"
 SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Common.Name== "red osier dogwood"]<- "stolonifera"
@@ -212,17 +213,15 @@ SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$ID== "135"]<- "unkno
 
 #fixing common name dogwood
 SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$Common.Name== "dogwood"]<- "roughleaf dogwood"
-SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Common.Name== "roughleaf dogwood"]<- "Cornus"
+SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Common.Name== "roughlea f dogwood"]<- "Cornus"
 SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$Common.Name== "roughleaf dogwood"]<- "drummondii"
 
 #fill in genus/species for ID145
 SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$ID== "145"]<- "unknown"
 SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$ID== "145"]<- "unknown"
 
-#fill in unkowns for ID155
-SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$ID== "155"]<- "unknown"
-SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$ID== "155"]<- "unknown"
-SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$ID== "155"]<- "unknown"
+#155 is not high enough 
+SeedlingData_Raw_Compiled$Notes[SeedlingData_Raw_Compiled$ID== "155"]<- "not high enough"
 
 #fill in genus/common name for species saccharinum 
 SeedlingData_Raw_Compiled$Common.Name[SeedlingData_Raw_Compiled$Species== "saccharinum"]<- "silver maple"
@@ -360,6 +359,9 @@ SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$ID== "651"]<- "unkno
 #fill in date and block for ID673
 SeedlingData_Raw_Compiled$Block[SeedlingData_Raw_Compiled$ID== "673"]<- 8
 
+#add species to 351
+SeedlingData_Raw_Compiled$Species[SeedlingData_Raw_Compiled$ID=="351"] <- "serotina"
+
 #filling in missing dates
 SeedlingData_Raw_Compiled$Date[SeedlingData_Raw_Compiled$Block== "2"]<- "10/12/2016"
 SeedlingData_Raw_Compiled$Date[SeedlingData_Raw_Compiled$ID== "93"]<- "10/13/2016"
@@ -418,6 +420,115 @@ SeedlingData_Raw_Compiled$disperser<-"NA"
 SeedlingData_Raw_Compiled[SeedlingData_Raw_Compiled$Species %in% animal,]$disperser<- "animal"
 SeedlingData_Raw_Compiled[SeedlingData_Raw_Compiled$Species %in% wind,]$disperser<- "wind"
 
+#filling in correct diversity treatments for LD/HD
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "111"]<- "LD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "64"]<- "LD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "80"]<- "LD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "559"]<- "LD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "34"]<- "LD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "42"]<- "LD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "153"]<- "LD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "154"]<- "LD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "157"]<- "LD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "158"]<- "LD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "476"]<- "LD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "477"]<- "LD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "483"]<- "LD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "610"]<- "LD"
+
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$Treatment== "LD/HD"]<- "HD"
+
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "110"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "115"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "116"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "81"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "82"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "83"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "88"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "89"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "23"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "161"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "162"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "184"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "185"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "190"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "191"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "192"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "194"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "200"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "206"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "207"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "208"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "209"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "210"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "211"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "212"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "214"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "215"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "217"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "229"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "230"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "231"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "232"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "233"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "234"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "235"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "236"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "237"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "238"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "239"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "240"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "241"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "275"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "276"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "278"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "311"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "313"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "323"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "333"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "363"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "365"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "373"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "374"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "375"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "379"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "380"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "383"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "388"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "389"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "390"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "393"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "394"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "395"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "396"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "397"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "399"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "432"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "433"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "442"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "493"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "494"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "495"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "496"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "497"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "508"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "525"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "600"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "601"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "602"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "605"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "607"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "608"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "618"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "641"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "642"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "643"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "644"]<- "HD"
+SeedlingData_Raw_Compiled$Treatment[SeedlingData_Raw_Compiled$ID== "646"]<- "HD"
+
+#these two edits won't work unless they come at the end of everything else 
+SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Species== "drummondii"]<- "Cornus"
+SeedlingData_Raw_Compiled$Genus[SeedlingData_Raw_Compiled$Species =="serotina"] <- "Prunus"
 
 #Check all levels to make sure data wrangling worked
 levels(factor(SeedlingData_Raw_Compiled$Common.Name))
@@ -429,6 +540,11 @@ levels(factor(SeedlingData_Raw_Compiled$Block))
 levels(factor(SeedlingData_Raw_Compiled$Date))
 
 missingdata<-SeedlingData_Raw_Compiled[is.na(SeedlingData_Raw_Compiled$Genus),]
+missingdata<-SeedlingData_Raw_Compiled[is.na(SeedlingData_Raw_Compiled$height),]
+missingdata<-SeedlingData_Raw_Compiled[is.na(SeedlingData_Raw_Compiled$Species),]
+missingdata<-SeedlingData_Raw_Compiled[is.na(SeedlingData_Raw_Compiled$Date),]
+missingdata<-SeedlingData_Raw_Compiled[is.na(SeedlingData_Raw_Compiled$Treatment),]
+
 
 #Create tidy csv
 write.csv(SeedlingData_Raw_Compiled, "Data/Tidy/SeedlingData_Tidy.csv")
