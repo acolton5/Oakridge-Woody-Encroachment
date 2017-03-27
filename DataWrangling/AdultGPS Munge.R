@@ -30,17 +30,17 @@ adultgps$Species[adultgps$common.name== "buckthorn"]<- "unknown"
 adultgps$Genus[adultgps$common.name== "grape"]<- "Vitus"
 adultgps$Species[adultgps$common.name== "grape"]<- "riparia"
 
-adultgps$Genus[adultgps$common.name== "green ash"]<- "Fraxinus"
-adultgps$Species[adultgps$common.name== "green ash"]<- "pennsylvanica"
+adultgps$Genus[adultgps$common.name== "green ash" |adultgps$common.name== "green ash  - grape"]<- "Fraxinus"
+adultgps$Species[adultgps$common.name== "green ash" |adultgps$common.name== "green ash  - grape"]<- "pennsylvanica"
 
 adultgps$Genus[adultgps$common.name== "hackberry"]<- "Celtis"
 adultgps$Species[adultgps$common.name== "hackberry"]<- "occidentalis"
 
-adultgps$Genus[adultgps$common.name== "honeysuckle"]<- "Lonicera"
-adultgps$Species[adultgps$common.name== "honeysuckle"]<- "unknown"
+adultgps$Genus[adultgps$common.name== "honeysuckle"|adultgps$common.name== "honeysuckle  - grape"]<- "Lonicera"
+adultgps$Species[adultgps$common.name== "honeysuckle"|adultgps$common.name== "honeysuckle  - grape"]<- "unknown"
 
-adultgps$Genus[adultgps$common.name== "mulberry"]<- "Morus"
-adultgps$Species[adultgps$common.name== "mulberry"]<- "alba"
+adultgps$Genus[adultgps$common.name== "mulberry"|adultgps$common.name== "mulberry  - grape"]<- "Morus"
+adultgps$Species[adultgps$common.name== "mulberry"|adultgps$common.name== "mulberry  - grape"]<- "alba"
 
 adultgps$Genus[adultgps$common.name== "oak"]<- "Quercus"
 adultgps$Species[adultgps$common.name== "oak"]<- "unknown"
@@ -67,10 +67,10 @@ adultgps$Genus[adultgps$common.name== "sil. maple"]<- "Acer"
 adultgps$Species[adultgps$common.name== "sil. maple"]<- "saccharinum"
 
 adultgps$Genus[adultgps$common.name== "sl.elm"]<- "Ulmus"
-adultgps$Species[adultgps$common.name== "sl.elm"]<- "unknown"
+adultgps$Species[adultgps$common.name== "sl.elm"]<- "rubra"
 
-adultgps$Genus[adultgps$common.name== "sw.oak"]<- "Quercus"
-adultgps$Species[adultgps$common.name== "sw.oak"]<- "unknown"
+adultgps$Genus[adultgps$common.name== "sw oak"]<- "Quercus"
+adultgps$Species[adultgps$common.name== "sw oak"]<- "bicolor"
 
 adultgps$Genus[adultgps$common.name== "sycamore"]<- "Platanus"
 adultgps$Species[adultgps$common.name== "sycamore"]<- "occidentalis"
