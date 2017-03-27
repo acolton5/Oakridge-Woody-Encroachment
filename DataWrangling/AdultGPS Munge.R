@@ -48,8 +48,8 @@ adultgps$Species[adultgps$common.name== "oak"]<- "unknown"
 adultgps$Genus[adultgps$common.name== "other vine species"]<- "unknown"
 adultgps$Species[adultgps$common.name== "other vine species"]<- "unknown"
 
-adultgps$Genus[adultgps$common.name== "pear"]<- "Pyrus"
-adultgps$Species[adultgps$common.name== "pear"]<- "calleryana"
+adultgps$Genus[adultgps$common.name== "pear x"]<- "Pyrus"
+adultgps$Species[adultgps$common.name== "pear x"]<- "calleryana"
 
 adultgps$Genus[adultgps$common.name== "plum"]<- "Prunus"
 adultgps$Species[adultgps$common.name== "plum"]<- "unknown"
