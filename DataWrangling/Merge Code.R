@@ -1,8 +1,11 @@
-#haven't done 
+### Merge Seedling data with Seedling GPS data ###
+## Point ID is the column of interest to merge. 
 
-write.csv(SeedlingData_Tidy, "SeedlingData_Tidy.csv")
-SeedlingData_Tidy <- read.csv("SeedlingData_Tidy.csv", na.string=c("", "na", "NA"))
+SeedlingData_Tidy <- read.csv("Data/Tidy/SeedlingData_Tidy.csv", na.string=c("", "na", "NA"))
+SeedlingData_Tidy$ID<-as.numeric(SeedlingData_Tidy$ID)
 
-merged.data <- merge(SeedlingData_Tidy, SeedlingGPS, by="ID")
-#can't get it to recognize SeedlingGPS without importing to environment 
-write.csv(merged.data, "Merge.csv")
+seedgps<-read.csv("Data/Tidy/SeedlingGPS.csv")
+
+seedling_gps <- left_join(SeedlingData_Tidy, seedgps, by=c("ID"= "Point_ID"))
+
+write.csv(seedling_gps, "Data/Tidy/seedlinggps_tidy.csv")
