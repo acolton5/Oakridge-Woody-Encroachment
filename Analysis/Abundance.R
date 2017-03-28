@@ -14,7 +14,13 @@ barplot(table(Seedling$Block))
 
 sumseedling<-ddply(Seedling, .(Block, Treatment, Herbivory), summarize, total=length(Herbivory))
 
-ggplot(sumseedling, aes(Treatment, total, color=Herbivory))+
+sumseedling$trtarea<-"NA"
+sumseedling$trtarea[sumseedling$Treatment=="HD"] <- 289.53
+sumseedling$trtarea[sumseedling$Treatment=="LD"] <- 743.47
+sumseedling$trtarea<-as.numeric(sumseedling$trtarea)
+sumseedling$seedperm<-sumseedling$total/sumseedling$trtarea*10
+
+ggplot(sumseedling, aes(Herbivory, seedperm, color=Treatment))+
   geom_boxplot()
 
 sumseedling_gen<-ddply(Seedling, .(Block, Treatment, Herbivory, Genus), summarize, total=length(Herbivory))
@@ -23,16 +29,25 @@ ggplot(sumseedling_gen, aes(Treatment, total, color=Herbivory))+
   geom_boxplot()+
   facet_grid(.~Genus)
 
+#figure out area of each treatment
+#HD treatment is 289.53m2, 
+# LD is 662.47m2
+# the strips are 72m2 
+#sum: HD = 289.53, LD= 743.47
+
+hist(sumseedling$seedperm)
+dotchart(sumseedling$seedperm)
+
 ###### Analysis ##########
 #using mixed linear model
 #need to adjust for abundance of low vs high diversity area still. 
-AbunMod <- glm(total ~ Treatment * Herbivory, family=poisson, data=sumseedling)
+AbunMod <- lm(seedperm ~ Treatment * Herbivory,  data=sumseedling)
 summary(AbunMod)
 confint (AbunMod) #interaction is not significant
 
-AbunMod2 <- glm(total ~ Treatment  + Herbivory, family=poisson, data=sumseedling)
+AbunMod2 <- lm(seedperm ~ Treatment + Herbivory,  data=sumseedling)
 summary(AbunMod2)
-confint (AbunMod2) #both main effects are significant. 
+confint (AbunMod2) #only sig diff is in herbivory, not diversity. 
 
 #Model validation
 #A. Look at homogeneity: plot fitted values vs residuals
@@ -73,18 +88,25 @@ hist(E1) #
 ##########################
 #######graph it! ##############
 sumseedling <- ddply(sumseedling, c("Herbivory", "Treatment"), summarise,
-               N    = length(total),
-               mean = mean(total),
-               sd   = sd(total),
+               N    = length(seedperm),
+               mean = mean(seedperm),
+               sd   = sd(seedperm),
                se   = sd / sqrt(N))
  
-group.colors <- c("HD"="#E69F00", "LD"="#D55E00FF", "LD/HD"="#F0E442") #need to change these
+ISUcolors <- c("#de2d26", "#feb24c")
  
 ggplot(sumseedling, aes(Herbivory, mean, color=Treatment))+
-  geom_point(stat="identity", position=position_dodge(width=0.4))+  geom_errorbar(aes(ymin=mean-1.96*se, ymax=mean+1.96*se), width=0.2, position=position_dodge(width=0.4))+
- scale_color_manual(name="Diversity Treatment", labels=c("High Diversity", "Low Diversity", "High/Low"), values=group.colors)+
-  ylab("Number of Seedlings")+
- theme_classic()
+  geom_point(stat="identity", position=position_dodge(width=0.4), size=3)+  
+  geom_errorbar(aes(ymin=mean-1.96*se, ymax=mean+1.96*se), width=0.2, position=position_dodge(width=0.4), lwd=1)+
+ scale_color_manual(name="Prairie\nDiversity\nTreatment", labels=c("High Diversity", "Low Diversity"), values=ISUcolors)+
+  ylab("Number of Seedlings per 10m^2")+
+  annotate("text", x=1.5, y=2, label="***", size=10)+
+ theme_classic()+
+  theme(axis.text = element_text(size=12, face="bold"), 
+    line=element_line(size=3), 
+    axis.title=element_text(size=14, face="bold"), 
+    legend.title = element_text(size=14, face="bold"), 
+    legend.text = element_text(size=12, face="bold"))
 
  
-ggsave("Graphics/NumberOfSeedlings_figure.png")
+ggsave("Graphics/NumberOfSeedlings_figure.png", width=6, height=5, units="in")

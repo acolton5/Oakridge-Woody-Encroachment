@@ -414,7 +414,7 @@ SeedlingData_Raw_Compiled[is.na(SeedlingData_Raw_Compiled$Species),] #one prunus
 SeedlingData_Raw_Compiled$GenSp<-paste(SeedlingData_Raw_Compiled$Genus, SeedlingData_Raw_Compiled$Species)
 
 #Make a column for dispersal mode
-animal<-c("Alba", "calleryana", "drummondii", "riparia", "serotina", "stolonifera")
+animal<-c("alba", "calleryana", "drummondii", "riparia", "serotina", "stolonifera")
 wind <- c("americana", "canadensis", "occidentalis", "pennsylvanica", "pumila", "saccharinum")
 SeedlingData_Raw_Compiled$disperser<-"NA"
 SeedlingData_Raw_Compiled[SeedlingData_Raw_Compiled$Species %in% animal,]$disperser<- "animal"

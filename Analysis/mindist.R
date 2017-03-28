@@ -35,20 +35,38 @@ confint(mod1) #animal dispersed seeds go further than wind
     
     
 ## Graphing ########
-ggplot(seedling_gps2[!is.na(seedling_gps2$mindist)&seedling_gps2$mindist<Inf & seedling_gps2$Species!="unknown",], aes(GenSp, mindist))+
+myColors <- c("#9ecae1", "#31a354") 
+ISUcolors <- c("#de2d26", "#feb24c")
+
+ggplot(seedling_gps2[!is.na(seedling_gps2$mindist)&seedling_gps2$mindist<Inf & seedling_gps2$Species!="unknown",], aes(reorder(GenSp, -mindist), mindist, color=disperser))+
   geom_boxplot()+
-  ylab("Distance to nearest conspecific (m)")+
-  scale_x_discrete(name = "Species")+
+  ylab("Distance to nearest\nconspecific (m)")+
+  scale_x_discrete(name = "")+
+  scale_color_manual(name="Dispersal\nmode",
+                         breaks=c("animal", "wind"),
+                        labels=c("Animal", "Wind"), 
+                        values=myColors)+
   theme_classic()+
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+  theme(axis.text.x = element_text(angle = 45, hjust = 1), 
+    axis.text = element_text(size=12, face="bold"), 
+    line=element_line(size=3), 
+    axis.title=element_text(size=14, face="bold"), 
+    legend.title = element_text(size=14, face="bold"), 
+    legend.text = element_text(size=12, face="bold"))
 
-ggsave("Graphics/mindist_spp.png")
+ggsave("Graphics/mindist_spp.png", width=8, height=6, units="in")
 
-ggplot(seedling_gps2[!is.na(seedling_gps2$disperser) & seedling_gps2$mindist<Inf & seedling_gps2$Species!= "unknown",], aes(disperser, mindist))+
+ggplot(seedling_gps2[!is.na(seedling_gps2$disperser) & seedling_gps2$mindist<Inf & seedling_gps2$Species!= "unknown",], aes(disperser, mindist, fill=disperser))+
   geom_boxplot()+
-  ylab("Distance to nearest conspecific (m)")+
-  scale_x_discrete(name = "Dispersal mode")+
+  ylab("Distance to nearest\nconspecific (m)")+
+  scale_x_discrete(name = "Dispersal mode", breaks=c("animal", "wind"), labels=c("Animal", "Wind"))+
+  scale_fill_manual(values=myColors)+
+  annotate("text", x=1.5, y=300, label="***", size=10)+
   theme_classic()+
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+  theme(axis.text.x = element_text(angle = 45, hjust = 1),
+    axis.text = element_text(size=12, face="bold"), 
+    line=element_line(size=3), 
+    axis.title=element_text(size=14, face="bold"),
+    legend.position="none") 
 
-ggsave("Graphics/mindist_disperser.png")
+ggsave("Graphics/mindist_disperser.png", width=4, height=4, units="in")

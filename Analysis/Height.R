@@ -73,14 +73,14 @@ with(Seedling_ht, ftable(Herbivory, Date)) #did most of hte open's first, then e
 #*****************************ANALYSIS*************************
  
 #linear model - height appears normally distributed, but residuals look better when height is logged
-heightMod <- lmer(log(height) ~ Treatment * Herbivory + (1|Block), data=Seedling)
+heightMod <- lmer(log(height) ~ Treatment * Herbivory + (1|Block), data=Seedling_ht)
 summary(heightMod)
 confint(heightMod)
 
 #the interaction is not significant. Try without the interaction
 heightMod2 <- lmer(log(height) ~ Treatment + Herbivory + (1|Block), data=Seedling_ht)
 summary(heightMod2)
-confint(heightMod2) #shows that seedlings in herbivory open are shorter than those in exclosure
+confint(heightMod2) #shows that seedlings in herbivory open are shorter than those in exclosure, and that those in low diversity are shorter than in high diversity
 
 #Model validation
 #A. Look at homogeneity: plot fitted values vs residuals
@@ -118,19 +118,25 @@ hist(E1) #look more normal when height is logged than on original scale
 
 #graph it!
 
-sumseedling <- ddply(Seedling_ht, c("Herbivory", "Treatment"), summarise,
+sumseedlinght <- ddply(Seedling_ht, c("Herbivory", "Treatment"), summarise,
                N    = length(height),
                mean = mean(height),
                sd   = sd(height),
                se   = sd / sqrt(N))
 
-group.colors <- c("HD"="#E69F00", "LD"="#D55E00FF", "LD/HD"="#F0E442") #need to change these
+ISUcolors <- c("#de2d26", "#feb24c")
 
-ggplot(sumseedling, aes(Herbivory, mean, color=Treatment))+
-  geom_point(stat="identity", position=position_dodge(width=0.4))+
-  geom_errorbar(aes(ymin=mean-1.96*se, ymax=mean+1.96*se), width=0.2, position=position_dodge(width=0.4))+
-  scale_color_manual(name="Diversity Treatment", labels=c("High Diversity", "Low Diversity", "High/Low"), values=group.colors)+
+ggplot(sumseedlinght, aes(Herbivory, mean, color=Treatment))+
+  geom_point(stat="identity", position=position_dodge(width=0.4), size=3)+
+  geom_errorbar(aes(ymin=mean-1.96*se, ymax=mean+1.96*se), width=0.2, position=position_dodge(width=0.4), lwd=1)+
+  scale_color_manual(name="Prairie\nDiversity\nTreatment***", labels=c("High Diversity", "Low Diversity"), values=ISUcolors)+
   ylab("Height (m)")+
-  theme_classic()
+  annotate("text", x=1.5, y=1, label="***", size=10)+
+  theme_classic()+
+  theme(axis.text = element_text(size=12, face="bold"), 
+    line=element_line(size=3), 
+    axis.title=element_text(size=14, face="bold"), 
+    legend.title = element_text(size=14, face="bold"), 
+    legend.text = element_text(size=12, face="bold"))
 
-ggsave("Graphics/height_figure.png")
+ggsave("Graphics/height_figure.png", width=6, height=5, units="in")
